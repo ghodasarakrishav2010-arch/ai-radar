@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:24:43+00:00",
+ "updated": "2026-10-31T14:30:07+00:00",
  "items": [
   {
    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
@@ -7,7 +7,11 @@
    "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:10+00:00",
-   "field": ""
+   "field": "",
+   "points": 44,
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/anthropic--cathedral-263559161-16x9_0.png?VersionId=hngQNnOgez44Zv0vMDM35oEeCVLPJGZC",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Why Anthropic's Filing Crushed Tech Stocks",
@@ -15,7 +19,11 @@
    "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
    "date": "2026-10-31",
    "ts": "2026-10-31T12:32:10+00:00",
-   "field": ""
+   "field": "",
+   "points": 36,
+   "image": "https://substackcdn.com/image/fetch/$s_!ZgR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37133ce1-424f-47a3-a941-9ca5017b2df7_1694x490.png",
+   "score": -2,
+   "tier": "medium"
   },
   {
    "title": "We Took over ChatGPT Accounts",
@@ -23,7 +31,11 @@
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
-   "field": ""
+   "field": "",
+   "points": 108,
+   "image": "https://www.parameter.ai/opengraph-image.png",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Digital Minimalism",
@@ -31,7 +43,10 @@
    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
    "date": "2026-10-31",
    "ts": "2026-10-31T06:16:36+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://vitalik.ca/images/icon.png",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "OpenAI raises less than half of $30B target",
@@ -39,7 +54,11 @@
    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
-   "field": ""
+   "field": "",
+   "points": 165,
+   "image": "",
+   "score": -1,
+   "tier": "medium"
   },
   {
    "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
@@ -47,7 +66,10 @@
    "url": "https://news.ycombinator.com/item?id=50312174",
    "date": "2026-10-31",
    "ts": "2026-10-31T00:58:26+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
@@ -55,7 +77,11 @@
    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
    "date": "2026-10-30",
    "ts": "2026-10-30T23:08:12+00:00",
-   "field": ""
+   "field": "",
+   "points": 94,
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+   "score": -4,
+   "tier": "medium"
   },
   {
    "title": "nemotron-halloween",
@@ -63,7 +89,10 @@
    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
    "date": "2026-10-30",
    "ts": "2026-10-30T17:57:24+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -71,7 +100,11 @@
    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
-   "field": ""
+   "field": "",
+   "points": 312,
+   "image": "",
+   "score": -2,
+   "tier": "medium"
   },
   {
    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
@@ -79,7 +112,11 @@
    "url": "https://github.com/dbreunig/nesformer",
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 269,
+   "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Sam Altman Thinks You're Wasting DRAM",
@@ -87,7 +124,10 @@
    "url": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
    "date": "2026-10-30",
    "ts": "2026-10-30T15:58:39+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://frvr.com/wp-content/uploads/2026/10/sam-altman-terrible-local-dram-instead-of-datacentres.jpg",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
@@ -95,7 +135,10 @@
    "url": "https://sketch.wakeshift.ai/games/q5ucru",
    "date": "2026-10-30",
    "ts": "2026-10-30T15:23:11+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
@@ -103,7 +146,10 @@
    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
    "date": "2026-10-30",
    "ts": "2026-10-30T15:00:10+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Anthropic Cracking Down on Video Game Rewrites",
@@ -111,7 +157,11 @@
    "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
    "date": "2026-10-30",
    "ts": "2026-10-30T14:22:52+00:00",
-   "field": "video"
+   "field": "video",
+   "points": 110,
+   "image": "https://pbs.twimg.com/media/HV3D_otWQAAicKf?format=webp&name=large",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Backdoors in official Claude Code extensions",
@@ -119,7 +169,11 @@
    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "date": "2026-10-30",
    "ts": "2026-10-30T11:05:53+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 655,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
@@ -127,7 +181,11 @@
    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "date": "2026-10-30",
    "ts": "2026-10-30T10:22:51+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 399,
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Making it easier for websites to express AI training preferences",
@@ -135,7 +193,10 @@
    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
    "date": "2026-10-30",
    "ts": "2026-10-30T09:30:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Community safety report and new protections for teens",
@@ -143,7 +204,10 @@
    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
    "date": "2026-10-30",
    "ts": "2026-10-30T09:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
@@ -151,7 +215,11 @@
    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 930,
+   "image": "https://phorion.io/images/default-social-card.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
@@ -159,7 +227,10 @@
    "url": "https://github.com/Millillion/lasm",
    "date": "2026-10-30",
    "ts": "2026-10-30T02:05:41+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://repository-images.githubusercontent.com/1383708351/edc8f018-5dfd-4df7-b4e1-dacb8573208c",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Fair use benefits everyone",
@@ -167,7 +238,10 @@
    "url": "https://openai.com/index/fair-use-benefits-everyone",
    "date": "2026-10-30",
    "ts": "2026-10-30T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "The importance of communities around software",
@@ -175,7 +249,10 @@
    "url": "https://lumi.codeberg.page/blog/software-community.html",
    "date": "2026-10-29",
    "ts": "2026-10-29T19:27:47+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
@@ -183,7 +260,10 @@
    "url": "https://github.com/johncassil/dontallow",
    "date": "2026-10-29",
    "ts": "2026-10-29T19:27:44+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://opengraph.githubassets.com/7bc0e3f1f5d1d8b3f95bb7d4a615e54373369f5cdd940155906331238fb98a17/johncassil/dontallow",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
@@ -191,7 +271,11 @@
    "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
    "date": "2026-10-29",
    "ts": "2026-10-29T19:25:48+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 52,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
@@ -199,7 +283,10 @@
    "url": "https://github.com/lonthq/overtone-captions",
    "date": "2026-10-29",
    "ts": "2026-10-29T17:48:17+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://opengraph.githubassets.com/79c09fe12134e9ada064baec1ec4025d80652b9b59a13963b23745f2b9a7f813/lonthq/overtone-captions",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "After 28 years walking across the globe, he's almost home",
@@ -207,7 +294,10 @@
    "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
    "date": "2026-10-29",
    "ts": "2026-10-29T17:42:22+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
@@ -215,7 +305,11 @@
    "url": "https://fig.blue/posts/duet-is-the-future/",
    "date": "2026-10-29",
    "ts": "2026-10-29T17:24:25+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 124,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "An updated Model Spec for more capable and beneficial AI",
@@ -223,7 +317,10 @@
    "url": "https://openai.com/index/updated-model-spec",
    "date": "2026-10-29",
    "ts": "2026-10-29T17:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -231,7 +328,11 @@
    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
    "date": "2026-10-29",
    "ts": "2026-10-29T16:00:35+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "video": true,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
@@ -239,7 +340,11 @@
    "url": "https://news.ycombinator.com/item?id=50291116",
    "date": "2026-10-29",
    "ts": "2026-10-29T15:56:32+00:00",
-   "field": ""
+   "field": "",
+   "points": 77,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "I went to Mexico to test-drive the cars Americans can’t buy",
@@ -247,7 +352,10 @@
    "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
    "date": "2026-10-29",
    "ts": "2026-10-29T15:30:22+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "LLM Voice",
@@ -255,7 +363,11 @@
    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
    "date": "2026-10-29",
    "ts": "2026-10-29T14:57:55+00:00",
-   "field": "audio"
+   "field": "audio",
+   "points": 598,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Brief History of PDP Computers",
@@ -263,7 +375,10 @@
    "url": "https://entropicthoughts.com/history-of-pdp-computers",
    "date": "2026-10-29",
    "ts": "2026-10-29T13:53:33+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -271,7 +386,10 @@
    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
    "date": "2026-10-29",
    "ts": "2026-10-29T13:37:07+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
@@ -279,7 +397,11 @@
    "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
    "date": "2026-10-29",
    "ts": "2026-10-29T12:41:56+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 337,
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&auto=format",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
@@ -287,7 +409,11 @@
    "url": "https://news.ycombinator.com/item?id=50286306",
    "date": "2026-10-29",
    "ts": "2026-10-29T09:06:12+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 31,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "How we detect frontier model misalignment",
@@ -295,7 +421,10 @@
    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
    "date": "2026-10-29",
    "ts": "2026-10-29T09:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "How Ropes & Gray is developing AI for transactional diligence",
@@ -303,7 +432,10 @@
    "url": "https://openai.com/index/ropes-gray-ai-diligence",
    "date": "2026-10-29",
    "ts": "2026-10-29T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Claude Code regularly sends each background agent’s transcript to its model",
@@ -311,7 +443,11 @@
    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "date": "2026-10-29",
    "ts": "2026-10-29T03:33:42+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 584,
+   "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
@@ -319,7 +455,11 @@
    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:30:37+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 57,
+   "image": "https://repository-images.githubusercontent.com/349134426/ad5d8e71-d4a8-496c-a54b-c4c0042eb88b",
+   "score": -2,
+   "tier": "medium"
   },
   {
    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
@@ -327,7 +467,10 @@
    "url": "https://divagr.com/blog/qwenputer",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:25:45+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://divagr.com/qwenputer/og.png",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
@@ -335,7 +478,10 @@
    "url": "https://huggingface.co/blog/announcing-project-protostar",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
@@ -343,7 +489,10 @@
    "url": "https://huggingface.co/blog/mistral-large4",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
@@ -351,7 +500,10 @@
    "url": "https://huggingface.co/blog/anydecisionmodel",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
-   "field": "audio"
+   "field": "audio",
+   "image": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
@@ -359,7 +511,10 @@
    "url": "https://openai.com/index/credit-saison",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Gemini 4 Carbon",
@@ -367,7 +522,11 @@
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
    "date": "2026-10-28",
    "ts": "2026-10-28T17:01:23+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 1013,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Gemini 4 Carbon: Our next frontier model",
@@ -375,7 +534,10 @@
    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
    "date": "2026-10-28",
    "ts": "2026-10-28T17:00:58+00:00",
-   "field": "text"
+   "field": "text",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Double Buffering with Cloudflare Queues",
@@ -383,7 +545,10 @@
    "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
    "date": "2026-10-28",
    "ts": "2026-10-28T16:48:23+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
@@ -391,7 +556,10 @@
    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
    "date": "2026-10-28",
    "ts": "2026-10-28T15:00:46+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -399,7 +567,10 @@
    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
    "date": "2026-10-28",
    "ts": "2026-10-28T13:15:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
@@ -407,7 +578,11 @@
    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
    "date": "2026-10-28",
    "ts": "2026-10-28T12:24:25+00:00",
-   "field": ""
+   "field": "",
+   "points": 237,
+   "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Tell HN: I'm going on strike this November",
@@ -415,7 +590,10 @@
    "url": "https://news.ycombinator.com/item?id=50271808",
    "date": "2026-10-28",
    "ts": "2026-10-28T11:21:28+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "The future of the firm",
@@ -423,7 +601,10 @@
    "url": "https://openai.com/index/the-future-of-the-firm",
    "date": "2026-10-28",
    "ts": "2026-10-28T10:00:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Legora is building the agentic operating system for legal work",
@@ -431,7 +612,10 @@
    "url": "https://openai.com/index/legora",
    "date": "2026-10-28",
    "ts": "2026-10-28T09:30:00+00:00",
-   "field": ""
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Solving Postgres' Count Problem",
@@ -439,7 +623,10 @@
    "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
    "date": "2026-10-28",
    "ts": "2026-10-28T05:34:16+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2/images/opengraph-image.png",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Qwen has alter egos triggered by flipping a single neuron",
@@ -447,7 +634,11 @@
    "url": "https://qwen-neurons-site.vercel.app/",
    "date": "2026-10-27",
    "ts": "2026-10-27T22:42:51+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 60,
+   "image": "https://neuronpersonas.com/og.png",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
@@ -455,7 +646,11 @@
    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
    "date": "2026-10-27",
    "ts": "2026-10-27T22:23:37+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 51,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Early progress on accelerating drug development with Claude",
@@ -463,7 +658,11 @@
    "url": "https://www.anthropic.com/research/early-progress-drug-development",
    "date": "2026-10-27",
    "ts": "2026-10-27T20:50:42+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 328,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
@@ -471,7 +670,11 @@
    "url": "https://www.brangus.io/survival-llm",
    "date": "2026-10-27",
    "ts": "2026-10-27T19:55:06+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 542,
+   "image": "https://www.brangus.io/survival-llm/social-card.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Build specialized multimodal models with LFM3",
@@ -479,7 +682,10 @@
    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
    "date": "2026-10-27",
    "ts": "2026-10-27T17:16:52+00:00",
-   "field": "vision"
+   "field": "vision",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
@@ -487,7 +693,10 @@
    "url": "https://www.liquid.ai/blog/lfm3",
    "date": "2026-10-27",
    "ts": "2026-10-27T17:04:50+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://www.liquid.ai/og/og-default.jpg",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Can we trust LLMs to judge whether a research idea is novel?",
@@ -495,7 +704,10 @@
    "url": "https://huggingface.co/blog/allenai/novelty-bench",
    "date": "2026-10-27",
    "ts": "2026-10-27T16:12:42+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Genie 4: A new generation of world simulation",
@@ -503,7 +715,10 @@
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "date": "2026-10-27",
    "ts": "2026-10-27T16:01:38+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
@@ -511,7 +726,11 @@
    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "date": "2026-10-27",
    "ts": "2026-10-27T15:28:26+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 604,
+   "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
@@ -519,7 +738,10 @@
    "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
    "date": "2026-10-27",
    "ts": "2026-10-27T15:00:20+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -527,7 +749,9 @@
    "url": "https://openai.com/index/retell-ai",
    "date": "2026-10-27",
    "ts": "2026-10-27T15:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Is my data used for model training?",
@@ -535,7 +759,9 @@
    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
    "date": "2026-10-27",
    "ts": "2026-10-27T13:56:15+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -543,7 +769,9 @@
    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
    "date": "2026-10-27",
    "ts": "2026-10-27T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "There are now 5 inference providers for abliterated DeepSeek",
@@ -551,7 +779,10 @@
    "url": "https://allmodels.io/llm/abliterated",
    "date": "2026-10-27",
    "ts": "2026-10-27T04:53:52+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 98,
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "How Check Point accelerates vulnerability research with Daybreak",
@@ -559,7 +790,9 @@
    "url": "https://openai.com/index/check-point-daybreak",
    "date": "2026-10-27",
    "ts": "2026-10-27T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
@@ -567,7 +800,10 @@
    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "date": "2026-10-26",
    "ts": "2026-10-26T22:41:48+00:00",
-   "field": ""
+   "field": "",
+   "points": 181,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -575,7 +811,9 @@
    "url": "https://openai.com/index/greptile-code-review-codex-astra",
    "date": "2026-10-26",
    "ts": "2026-10-26T22:00:00+00:00",
-   "field": "code"
+   "field": "code",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "The Exponential Time Hypothesis Is False [pdf]",
@@ -583,7 +821,9 @@
    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
    "date": "2026-10-26",
    "ts": "2026-10-26T21:59:15+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "OpenAI's agents talked to each other through the CPU Cache",
@@ -591,7 +831,10 @@
    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
    "date": "2026-10-26",
    "ts": "2026-10-26T21:24:18+00:00",
-   "field": ""
+   "field": "",
+   "points": 361,
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "GPT 6.1 Terra",
@@ -599,7 +842,10 @@
    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
    "date": "2026-10-26",
    "ts": "2026-10-26T17:58:24+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 37,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Concerning behavior from a popular open-weight AI model",
@@ -607,7 +853,10 @@
    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "date": "2026-10-26",
    "ts": "2026-10-26T16:35:44+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 335,
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
@@ -615,7 +864,10 @@
    "url": "https://github.com/FrigadeHQ/hob",
    "date": "2026-10-26",
    "ts": "2026-10-26T16:12:29+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 176,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Working with academic communities to build scientific understanding",
@@ -623,7 +875,9 @@
    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
    "date": "2026-10-26",
    "ts": "2026-10-26T14:30:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -631,7 +885,9 @@
    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
    "date": "2026-10-26",
    "ts": "2026-10-26T13:45:00+00:00",
-   "field": "text"
+   "field": "text",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic S-1",
@@ -639,7 +895,10 @@
    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "date": "2026-10-26",
    "ts": "2026-10-26T13:04:50+00:00",
-   "field": ""
+   "field": "",
+   "points": 1708,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "ChatGPT’s expanding world of work",
@@ -647,7 +906,9 @@
    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
    "date": "2026-10-26",
    "ts": "2026-10-26T10:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "How Fanatics and OpenAI streamline the fan experience",
@@ -655,7 +916,9 @@
    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
    "date": "2026-10-26",
    "ts": "2026-10-26T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
@@ -663,7 +926,9 @@
    "url": "https://openai.com/index/openai-cut-incident-investigation",
    "date": "2026-10-26",
    "ts": "2026-10-26T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
@@ -671,7 +936,10 @@
    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
    "date": "2026-10-26",
    "ts": "2026-10-26T03:12:05+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 72,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Introducing GPT-6.1 Terra",
@@ -679,7 +947,9 @@
    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
    "date": "2026-10-26",
    "ts": "2026-10-26T00:00:00+00:00",
-   "field": "text"
+   "field": "text",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -687,7 +957,10 @@
    "url": "https://minimaxir.com/2026/10/cheap-llms/",
    "date": "2026-10-25",
    "ts": "2026-10-25T21:11:31+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 443,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
@@ -695,7 +968,10 @@
    "url": "https://kevin-wu.ca/blog/qwn/",
    "date": "2026-10-25",
    "ts": "2026-10-25T18:00:04+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 31,
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "What Adobe v ArtCraft teaches us",
@@ -703,7 +979,9 @@
    "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
    "date": "2026-10-25",
    "ts": "2026-10-25T15:34:44+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
@@ -711,7 +989,9 @@
    "url": "https://github.com/slee-persis/GVS5H",
    "date": "2026-10-25",
    "ts": "2026-10-25T03:56:01+00:00",
-   "field": ""
+   "field": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -719,7 +999,10 @@
    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "date": "2026-10-25",
    "ts": "2026-10-25T01:33:49+00:00",
-   "field": ""
+   "field": "",
+   "points": 368,
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
@@ -727,7 +1010,9 @@
    "url": "https://huggingface.co/destined/hurston-1",
    "date": "2026-10-25",
    "ts": "2026-10-25T01:30:13+00:00",
-   "field": "audio"
+   "field": "audio",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
@@ -735,7 +1020,10 @@
    "url": "https://adrs.systems",
    "date": "2026-10-25",
    "ts": "2026-10-25T00:43:47+00:00",
-   "field": ""
+   "field": "",
+   "points": 66,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -743,7 +1031,10 @@
    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
    "date": "2026-10-24",
    "ts": "2026-10-24T15:35:17+00:00",
-   "field": ""
+   "field": "",
+   "points": 53,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
@@ -751,7 +1042,9 @@
    "url": "https://corgi.computer/",
    "date": "2026-10-23",
    "ts": "2026-10-23T19:46:38+00:00",
-   "field": ""
+   "field": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
@@ -759,7 +1052,9 @@
    "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
    "date": "2026-10-23",
    "ts": "2026-10-23T18:24:54+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -767,7 +1062,9 @@
    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "date": "2026-10-23",
    "ts": "2026-10-23T17:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -775,7 +1072,9 @@
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "date": "2026-10-23",
    "ts": "2026-10-23T16:59:08+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Swedish government offices to ban ChatGPT and Claude",
@@ -783,7 +1082,10 @@
    "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "date": "2026-10-23",
    "ts": "2026-10-23T11:39:54+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 324,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Securing our frontier model training environment",
@@ -791,7 +1093,9 @@
    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
    "date": "2026-10-23",
    "ts": "2026-10-23T10:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -799,7 +1103,10 @@
    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
    "date": "2026-10-23",
    "ts": "2026-10-23T02:00:13+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -807,7 +1114,9 @@
    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
@@ -815,7 +1124,9 @@
    "url": "https://openai.com/index/anima",
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
-   "field": "text"
+   "field": "text",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -823,7 +1134,9 @@
    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "LLMs are making formal software verification feasible at a much larger scale",
@@ -831,7 +1144,10 @@
    "url": "https://www.anthropic.com/research/formal-verification",
    "date": "2026-10-22",
    "ts": "2026-10-22T22:54:43+00:00",
-   "field": ""
+   "field": "",
+   "points": 473,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -839,7 +1155,9 @@
    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
    "date": "2026-10-22",
    "ts": "2026-10-22T22:24:34+00:00",
-   "field": ""
+   "field": "",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
@@ -847,7 +1165,10 @@
    "url": "https://news.ycombinator.com/item?id=50200997",
    "date": "2026-10-22",
    "ts": "2026-10-22T21:03:55+00:00",
-   "field": ""
+   "field": "",
+   "points": 680,
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Build more responsive apps with the Decisions API",
@@ -855,7 +1176,9 @@
    "url": "https://openai.com/index/decisions-api",
    "date": "2026-10-22",
    "ts": "2026-10-22T19:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Every AI model has the same \"controversial\" take on humans",
@@ -863,7 +1186,10 @@
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "date": "2026-10-22",
    "ts": "2026-10-22T16:08:00+00:00",
-   "field": ""
+   "field": "",
+   "points": 667,
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
@@ -871,7 +1197,10 @@
    "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
    "date": "2026-10-22",
    "ts": "2026-10-22T15:00:02+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Beyond tree cover: mapping the world’s forest types",
@@ -879,7 +1208,10 @@
    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
    "date": "2026-10-22",
    "ts": "2026-10-22T14:30:24+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
@@ -887,7 +1219,9 @@
    "url": "https://github.com/dsmurrell/onkey",
    "date": "2026-10-22",
    "ts": "2026-10-22T14:04:44+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Achieving AI-style reasoning without an LLM",
@@ -895,7 +1229,10 @@
    "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
    "date": "2026-10-22",
    "ts": "2026-10-22T08:46:58+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 48,
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -903,7 +1240,9 @@
    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
    "date": "2026-10-22",
    "ts": "2026-10-22T07:51:31+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "What FDE means at OpenAI",
@@ -911,7 +1250,9 @@
    "url": "https://openai.com/index/forward-deployed-engineering-means",
    "date": "2026-10-22",
    "ts": "2026-10-22T06:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "OpenAI CLI",
@@ -919,7 +1260,10 @@
    "url": "https://github.com/openai/openai-cli",
    "date": "2026-10-22",
    "ts": "2026-10-22T05:23:11+00:00",
-   "field": ""
+   "field": "",
+   "points": 244,
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
@@ -927,7 +1271,9 @@
    "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:56+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
@@ -935,7 +1281,33 @@
    "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:27+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+   "video": true,
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/dsx-power/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:25+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:23+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
@@ -943,7 +1315,11 @@
    "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:19+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
+   "video": true,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
@@ -951,7 +1327,10 @@
    "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:02+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Claude Now Works with Google Docs, Sheets, and Slides",
@@ -959,7 +1338,10 @@
    "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
    "date": "2026-10-22",
    "ts": "2026-10-22T02:17:58+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 91,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
@@ -967,7 +1349,9 @@
    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Broad access through consistent standards",
@@ -975,7 +1359,9 @@
    "url": "https://openai.com/index/broad-access-through-consistent-standards",
    "date": "2026-10-21",
    "ts": "2026-10-21T21:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Claude Duet",
@@ -983,7 +1369,10 @@
    "url": "https://claude.com/resources/articles/claude-duet",
    "date": "2026-10-21",
    "ts": "2026-10-21T19:40:18+00:00",
-   "field": "text"
+   "field": "text",
+   "points": 93,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Mistral Large 4",
@@ -991,7 +1380,10 @@
    "url": "https://mistral.ai/news/mistral-large-4/",
    "date": "2026-10-21",
    "ts": "2026-10-21T19:20:55+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 327,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic's Public Benefit Charter",
@@ -999,7 +1391,10 @@
    "url": "https://www.anthropic.com/public-benefit-charter",
    "date": "2026-10-21",
    "ts": "2026-10-21T18:29:54+00:00",
-   "field": ""
+   "field": "",
+   "points": 49,
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -1007,7 +1402,9 @@
    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
    "date": "2026-10-21",
    "ts": "2026-10-21T17:35:36+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -1015,7 +1412,9 @@
    "url": "https://openai.com/index/att-legal",
    "date": "2026-10-21",
    "ts": "2026-10-21T17:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
@@ -1023,7 +1422,10 @@
    "url": "https://github.com/omnara-ai/omnara",
    "date": "2026-10-21",
    "ts": "2026-10-21T16:44:53+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 114,
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
@@ -1031,7 +1433,9 @@
    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
    "date": "2026-10-21",
    "ts": "2026-10-21T16:04:43+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "I told people I'm a convicted felon after 20 years of hiding it",
@@ -1039,7 +1443,9 @@
    "url": "https://buford.bg/",
    "date": "2026-10-21",
    "ts": "2026-10-21T15:46:43+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -1047,7 +1453,9 @@
    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "date": "2026-10-21",
    "ts": "2026-10-21T13:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
@@ -1055,7 +1463,9 @@
    "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
    "date": "2026-10-21",
    "ts": "2026-10-21T12:22:39+00:00",
-   "field": "code"
+   "field": "code",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "OpenAI models are coming to Google Cloud",
@@ -1063,7 +1473,9 @@
    "url": "https://openai.com/index/openai-models-google-cloud",
    "date": "2026-10-21",
    "ts": "2026-10-21T12:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
@@ -1071,7 +1483,20 @@
    "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
    "date": "2026-10-21",
    "ts": "2026-10-21T10:50:37+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T10:45:17+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GoogleCloud-VeraRubin-1920x1080-1.png",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
@@ -1079,7 +1504,21 @@
    "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
    "date": "2026-10-21",
    "ts": "2026-10-21T10:30:41+00:00",
-   "field": ""
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T10:30:40+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
@@ -1087,7 +1526,9 @@
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
    "date": "2026-10-21",
    "ts": "2026-10-21T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
@@ -1095,7 +1536,9 @@
    "url": "https://openai.com/index/building-chatgpt-ad-stack",
    "date": "2026-10-21",
    "ts": "2026-10-21T07:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Using thousands of AI agents to uncover new leads in biological data",
@@ -1103,7 +1546,9 @@
    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
    "date": "2026-10-21",
    "ts": "2026-10-21T04:50:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Using Claude to reduce the attack surface of code",
@@ -1111,7 +1556,10 @@
    "url": "https://www.anthropic.com/research/attack-surface-reduction",
    "date": "2026-10-21",
    "ts": "2026-10-21T03:36:43+00:00",
-   "field": "code"
+   "field": "code",
+   "points": 137,
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
@@ -1119,7 +1567,9 @@
    "url": "https://openai.com/index/cloudflare-cyber",
    "date": "2026-10-21",
    "ts": "2026-10-21T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
@@ -1127,7 +1577,9 @@
    "url": "https://openai.com/index/empowering-cyber-defenders",
    "date": "2026-10-21",
    "ts": "2026-10-21T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
@@ -1135,7 +1587,9 @@
    "url": "https://twitter.com/Polymarket/status/2112634886070919426",
    "date": "2026-10-20",
    "ts": "2026-10-20T22:27:07+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Anthropic logged net loss of over $80B in first half of 2026",
@@ -1143,7 +1597,9 @@
    "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
    "date": "2026-10-20",
    "ts": "2026-10-20T20:09:46+00:00",
-   "field": ""
+   "field": "",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Claude designed protein binders against scorpion neurotoxins",
@@ -1151,7 +1607,9 @@
    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
    "date": "2026-10-20",
    "ts": "2026-10-20T17:48:29+00:00",
-   "field": "text"
+   "field": "text",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
@@ -1159,7 +1617,10 @@
    "url": "https://news.ycombinator.com/item?id=50167583",
    "date": "2026-10-20",
    "ts": "2026-10-20T15:09:29+00:00",
-   "field": "open-source"
+   "field": "open-source",
+   "points": 53,
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -1167,39 +1628,9 @@
    "url": "https://openai.com/index/ted-taylor-restaurant",
    "date": "2026-10-20",
    "ts": "2026-10-20T10:00:00+00:00",
-   "field": ""
-  },
-  {
-   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-   "source": "Hacker News",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T09:08:54+00:00",
-   "field": "open-source"
-  },
-  {
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/terminal-x",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T07:00:00+00:00",
-   "field": "text"
-  },
-  {
-   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/hf-torchtpu",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T00:00:00+00:00",
-   "field": "open-source"
-  },
-  {
-   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T00:00:00+00:00",
-   "field": ""
+   "field": "",
+   "score": 2,
+   "tier": "medium"
   }
  ]
 }

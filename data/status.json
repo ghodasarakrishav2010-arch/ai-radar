@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:24:43+00:00",
+ "updated": "2026-10-31T14:30:07+00:00",
  "sources": [
   {
    "source": "Hugging Face",
@@ -19,13 +19,14 @@
   {
    "source": "NVIDIA",
    "ok": true,
-   "items": 12
+   "items": 14
   },
   {
    "source": "Hacker News",
    "ok": true,
-   "items": 180,
+   "items": 123,
    "failed_queries": 0
   }
- ]
+ ],
+ "with_picture": 49
 }

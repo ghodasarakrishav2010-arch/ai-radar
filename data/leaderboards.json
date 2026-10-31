@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:24:45+00:00",
+ "updated": "2026-10-31T14:30:08+00:00",
  "fields": [
   {
    "id": "text",
@@ -108,6 +108,56 @@
      "name": "Gemini 3.1 Pro Preview",
      "company": "Google",
      "score": 1487
+    },
+    {
+     "name": "Gemini 3 Pro",
+     "company": "Google",
+     "score": 1485
+    },
+    {
+     "name": "GPT-5.6 Sol (xHigh)",
+     "company": "OpenAI",
+     "score": 1485
+    },
+    {
+     "name": "Gemini 3.6 Flash (High)",
+     "company": "Google",
+     "score": 1483
+    },
+    {
+     "name": "Qwen3.8-Max",
+     "company": "Alibaba",
+     "score": 1482
+    },
+    {
+     "name": "Claude Opus 4.8 (High)",
+     "company": "Anthropic",
+     "score": 1482
+    },
+    {
+     "name": "GPT-5.5 (High)",
+     "company": "OpenAI",
+     "score": 1482
+    },
+    {
+     "name": "GPT-6.1 Sol (Max)",
+     "company": "OpenAI",
+     "score": 1481
+    },
+    {
+     "name": "GLM-5.3 (Max)",
+     "company": "Z.ai",
+     "score": 1481
+    },
+    {
+     "name": "MiMo-V2.6-Pro",
+     "company": "Xiaomi",
+     "score": 1480
+    },
+    {
+     "name": "Gemini 3.5 Flash (High)",
+     "company": "Google",
+     "score": 1478
     }
    ]
   },
@@ -218,6 +268,56 @@
      "name": "Muse Wonder (Max)",
      "company": "Meta",
      "score": 1652
+    },
+    {
+     "name": "Grok 4.7 (xHigh)",
+     "company": "xAI",
+     "score": 1637
+    },
+    {
+     "name": "MiMo-V2.6-Flash",
+     "company": "Xiaomi",
+     "score": 1637
+    },
+    {
+     "name": "Hy4 preview",
+     "company": "Tencent",
+     "score": 1631
+    },
+    {
+     "name": "Qwen3.8-Flash-Next",
+     "company": "Alibaba",
+     "score": 1628
+    },
+    {
+     "name": "MiMo-V2.6-Pro",
+     "company": "Xiaomi",
+     "score": 1625
+    },
+    {
+     "name": "Claude Fable 5 (High)",
+     "company": "Anthropic",
+     "score": 1624
+    },
+    {
+     "name": "GLM-5.3 (Max)",
+     "company": "Z.ai",
+     "score": 1623
+    },
+    {
+     "name": "Muse Spark 1.3 (xHigh)",
+     "company": "Meta",
+     "score": 1620
+    },
+    {
+     "name": "DeepSeek-V4.1-Flash-20260910 (Max)",
+     "company": "DeepSeek",
+     "score": 1619
+    },
+    {
+     "name": "Grok 4.6 (High)",
+     "company": "xAI",
+     "score": 1616
     }
    ]
   },
@@ -328,6 +428,56 @@
      "name": "Ideogram 4.0 (Quality)",
      "company": "Ideogram",
      "score": 1200
+    },
+    {
+     "name": "Qwen-Image-2.0-Pro (2026-06-22)",
+     "company": "Alibaba",
+     "score": 1191
+    },
+    {
+     "name": "UNI-1.1 Max",
+     "company": "Luma-Ai",
+     "score": 1189
+    },
+    {
+     "name": "MAI-Image-2",
+     "company": "Microsoft-Ai",
+     "score": 1183
+    },
+    {
+     "name": "UNI-1.1",
+     "company": "Luma-Ai",
+     "score": 1183
+    },
+    {
+     "name": "Grok Imagine Image",
+     "company": "xAI",
+     "score": 1169
+    },
+    {
+     "name": "Recraft V4.1 Utility Pro",
+     "company": "Recraft",
+     "score": 1168
+    },
+    {
+     "name": "Cosmos3-Super-Text2Image (Agentic)",
+     "company": "NVIDIA",
+     "score": 1164
+    },
+    {
+     "name": "FLUX.2 [max]",
+     "company": "Bfl",
+     "score": 1161
+    },
+    {
+     "name": "Grok Imagine Image Pro",
+     "company": "xAI",
+     "score": 1161
+    },
+    {
+     "name": "FLUX.2 [flex]",
+     "company": "Bfl",
+     "score": 1156
     }
    ]
   },
@@ -438,6 +588,56 @@
      "name": "wan2.7-t2v",
      "company": "Wan",
      "score": 1337
+    },
+    {
+     "name": "wan2.6-t2v",
+     "company": "Alibaba",
+     "score": 1327
+    },
+    {
+     "name": "seedance-v1.5-pro",
+     "company": "ByteDance",
+     "score": 1256
+    },
+    {
+     "name": "veo-3",
+     "company": "Google",
+     "score": 1254
+    },
+    {
+     "name": "veo-3-fast",
+     "company": "Google",
+     "score": 1248
+    },
+    {
+     "name": "wan2.5-t2v-preview",
+     "company": "Alibaba",
+     "score": 1245
+    },
+    {
+     "name": "pixverse-v5.6",
+     "company": "",
+     "score": 1240
+    },
+    {
+     "name": "runway-gen-4.5",
+     "company": "Runway",
+     "score": 1225
+    },
+    {
+     "name": "kling-2.5-turbo-1080p",
+     "company": "Kling",
+     "score": 1220
+    },
+    {
+     "name": "kling-2.6-pro",
+     "company": "Kling",
+     "score": 1216
+    },
+    {
+     "name": "p-video",
+     "company": "",
+     "score": 1207
     }
    ]
   },
@@ -548,6 +748,56 @@
      "name": "Claude Opus 4.8 (High)",
      "company": "Anthropic",
      "score": 1286
+    },
+    {
+     "name": "GPT-6 Astra (Max)",
+     "company": "OpenAI",
+     "score": 1285
+    },
+    {
+     "name": "GPT-5.4 (High)",
+     "company": "OpenAI",
+     "score": 1284
+    },
+    {
+     "name": "Gemini 3.5 Flash (Medium)",
+     "company": "Google",
+     "score": 1282
+    },
+    {
+     "name": "Gemini 3.5 Flash (High)",
+     "company": "Google",
+     "score": 1282
+    },
+    {
+     "name": "GPT-5.5 (High)",
+     "company": "OpenAI",
+     "score": 1282
+    },
+    {
+     "name": "Gemini 3.6 Flash (High)",
+     "company": "Google",
+     "score": 1282
+    },
+    {
+     "name": "Muse Spark 1.1",
+     "company": "Meta",
+     "score": 1280
+    },
+    {
+     "name": "Gemini 3.1 Pro Preview",
+     "company": "Google",
+     "score": 1280
+    },
+    {
+     "name": "Grok 4.5",
+     "company": "xAI",
+     "score": 1279
+    },
+    {
+     "name": "Claude Opus 4.8",
+     "company": "Anthropic",
+     "score": 1279
     }
    ]
   },
@@ -658,6 +908,56 @@
      "name": "gpt-5.4-search",
      "company": "OpenAI",
      "score": 1196
+    },
+    {
+     "name": "o3-search",
+     "company": "OpenAI",
+     "score": 1196
+    },
+    {
+     "name": "claude-opus-4-8",
+     "company": "Anthropic",
+     "score": 1195
+    },
+    {
+     "name": "grok-4-1-fast-search",
+     "company": "xAI",
+     "score": 1195
+    },
+    {
+     "name": "claude-sonnet-5-search",
+     "company": "Anthropic",
+     "score": 1193
+    },
+    {
+     "name": "grok-4.3",
+     "company": "xAI",
+     "score": 1193
+    },
+    {
+     "name": "ernie-5.1",
+     "company": "Baidu",
+     "score": 1192
+    },
+    {
+     "name": "gemini-3-flash-grounding",
+     "company": "Google",
+     "score": 1189
+    },
+    {
+     "name": "gpt-5-search",
+     "company": "OpenAI",
+     "score": 1188
+    },
+    {
+     "name": "claude-opus-4-5-search",
+     "company": "Anthropic",
+     "score": 1187
+    },
+    {
+     "name": "gpt-5.1-search",
+     "company": "OpenAI",
+     "score": 1184
     }
    ]
   },
@@ -768,6 +1068,56 @@
      "name": "Muse Spark 1.3 (Max)",
      "company": "Meta",
      "score": 0.026
+    },
+    {
+     "name": "Grok 4.7 (xHigh)",
+     "company": "xAI",
+     "score": 0.024
+    },
+    {
+     "name": "GPT-6 Luna (Max)",
+     "company": "OpenAI",
+     "score": 0.022
+    },
+    {
+     "name": "DeepSeek-V4.1-Flash-20260910 (Max)",
+     "company": "DeepSeek",
+     "score": 0.019
+    },
+    {
+     "name": "Claude Haiku 5.5 (High)",
+     "company": "Anthropic",
+     "score": 0.014
+    },
+    {
+     "name": "GLM-5.2 (Max)",
+     "company": "Z.ai",
+     "score": 0.013
+    },
+    {
+     "name": "Hy4 preview",
+     "company": "Tencent",
+     "score": 0.012
+    },
+    {
+     "name": "Kimi K3 (Max)",
+     "company": "Moonshot AI",
+     "score": 0.011
+    },
+    {
+     "name": "MiMo-V2.6-Flash",
+     "company": "Xiaomi",
+     "score": 0.01
+    },
+    {
+     "name": "GLM-5.3 (Max)",
+     "company": "Z.ai",
+     "score": 0.009
+    },
+    {
+     "name": "Grok 4.6 (xHigh)",
+     "company": "xAI",
+     "score": 0.005
     }
    ]
   },
@@ -878,6 +1228,56 @@
      "name": "GLM-4.7",
      "company": "Z.ai",
      "score": 1441
+    },
+    {
+     "name": "MiniMax-M3",
+     "company": "MiniMax",
+     "score": 1439
+    },
+    {
+     "name": "DeepSeek-V4-Flash Preview (High)",
+     "company": "DeepSeek",
+     "score": 1439
+    },
+    {
+     "name": "Gemma 4 26B A4B",
+     "company": "Google",
+     "score": 1438
+    },
+    {
+     "name": "DeepSeek-V4-Flash",
+     "company": "DeepSeek",
+     "score": 1436
+    },
+    {
+     "name": "Beam 1.0 501B A23B",
+     "company": "Reflection",
+     "score": 1436
+    },
+    {
+     "name": "Qwen3.8-27B",
+     "company": "Alibaba",
+     "score": 1436
+    },
+    {
+     "name": "MiMo-V2.5",
+     "company": "Xiaomi",
+     "score": 1434
+    },
+    {
+     "name": "Kimi K2.5 (Instant)",
+     "company": "Moonshot AI",
+     "score": 1431
+    },
+    {
+     "name": "Kimi K2 Thinking Turbo",
+     "company": "Moonshot AI",
+     "score": 1430
+    },
+    {
+     "name": "NVIDIA-Nemotron-3-Ultra-550B-A55B (NVFP4)",
+     "company": "NVIDIA",
+     "score": 1427
     }
    ]
   }
