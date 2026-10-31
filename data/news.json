@@ -1,0 +1,1205 @@
+{
+ "updated": "2026-10-31T10:28:29+00:00",
+ "items": [
+  {
+   "title": "Digital Minimalism",
+   "source": "Hacker News",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T06:16:36+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI raises less than half of $30B target",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T03:22:44+00:00",
+   "field": ""
+  },
+  {
+   "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50312174",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T00:58:26+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+   "source": "Hacker News",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T23:08:12+00:00",
+   "field": ""
+  },
+  {
+   "title": "nemotron-halloween",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:57:24+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:27:25+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "source": "Hacker News",
+   "url": "https://github.com/dbreunig/nesformer",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:40:22+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Sam Altman Thinks You're Wasting DRAM",
+   "source": "Hacker News",
+   "url": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:58:39+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+   "source": "Hacker News",
+   "url": "https://sketch.wakeshift.ai/games/q5ucru",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:23:11+00:00",
+   "field": ""
+  },
+  {
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:10+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic Cracking Down on Video Game Rewrites",
+   "source": "Hacker News",
+   "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:22:52+00:00",
+   "field": "video"
+  },
+  {
+   "title": "Backdoors in official Claude Code extensions",
+   "source": "Hacker News",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T11:05:53+00:00",
+   "field": "code"
+  },
+  {
+   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+   "source": "Hacker News",
+   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T10:22:51+00:00",
+   "field": "code"
+  },
+  {
+   "title": "Making it easier for websites to express AI training preferences",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T09:30:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Community safety report and new protections for teens",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T09:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "source": "Hacker News",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T07:09:12+00:00",
+   "field": "code"
+  },
+  {
+   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+   "source": "Hacker News",
+   "url": "https://github.com/Millillion/lasm",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T02:05:41+00:00",
+   "field": ""
+  },
+  {
+   "title": "Fair use benefits everyone",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "The importance of communities around software",
+   "source": "Hacker News",
+   "url": "https://lumi.codeberg.page/blog/software-community.html",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T19:27:47+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+   "source": "Hacker News",
+   "url": "https://github.com/johncassil/dontallow",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T19:27:44+00:00",
+   "field": ""
+  },
+  {
+   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+   "source": "Hacker News",
+   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T19:25:48+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+   "source": "Hacker News",
+   "url": "https://github.com/lonthq/overtone-captions",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:48:17+00:00",
+   "field": ""
+  },
+  {
+   "title": "After 28 years walking across the globe, he's almost home",
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:42:22+00:00",
+   "field": ""
+  },
+  {
+   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+   "source": "Hacker News",
+   "url": "https://fig.blue/posts/duet-is-the-future/",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:24:25+00:00",
+   "field": "text"
+  },
+  {
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T16:00:35+00:00",
+   "field": ""
+  },
+  {
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50291116",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T15:56:32+00:00",
+   "field": ""
+  },
+  {
+   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+   "source": "Hacker News",
+   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T15:30:22+00:00",
+   "field": ""
+  },
+  {
+   "title": "LLM Voice",
+   "source": "Hacker News",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T14:57:55+00:00",
+   "field": "audio"
+  },
+  {
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:37:07+00:00",
+   "field": ""
+  },
+  {
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T12:41:56+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50286306",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T09:06:12+00:00",
+   "field": "code"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T09:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "source": "Hacker News",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T03:33:42+00:00",
+   "field": "code"
+  },
+  {
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+   "source": "Hacker News",
+   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:30:37+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "source": "Hacker News",
+   "url": "https://divagr.com/blog/qwenputer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:25:45+00:00",
+   "field": ""
+  },
+  {
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/announcing-project-protostar",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/mistral-large4",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:00:00+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/anydecisionmodel",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:00:00+00:00",
+   "field": "audio"
+  },
+  {
+   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/credit-saison",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Gemini 4 Carbon",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:01:23+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:00:58+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Double Buffering with Cloudflare Queues",
+   "source": "Hacker News",
+   "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:48:23+00:00",
+   "field": ""
+  },
+  {
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T15:00:46+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T13:15:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+   "source": "Hacker News",
+   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T12:24:25+00:00",
+   "field": ""
+  },
+  {
+   "title": "Tell HN: I'm going on strike this November",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50271808",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T11:21:28+00:00",
+   "field": ""
+  },
+  {
+   "title": "The future of the firm",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T10:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/legora",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T09:30:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Solving Postgres' Count Problem",
+   "source": "Hacker News",
+   "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T05:34:16+00:00",
+   "field": ""
+  },
+  {
+   "title": "Qwen has alter egos triggered by flipping a single neuron",
+   "source": "Hacker News",
+   "url": "https://qwen-neurons-site.vercel.app/",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T22:42:51+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T22:23:37+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Early progress on accelerating drug development with Claude",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:50:42+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "source": "Hacker News",
+   "url": "https://www.brangus.io/survival-llm",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T19:55:06+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Build specialized multimodal models with LFM3",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T17:16:52+00:00",
+   "field": "vision"
+  },
+  {
+   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+   "source": "Hacker News",
+   "url": "https://www.liquid.ai/blog/lfm3",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T17:04:50+00:00",
+   "field": ""
+  },
+  {
+   "title": "Can we trust LLMs to judge whether a research idea is novel?",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/novelty-bench",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:12:42+00:00",
+   "field": ""
+  },
+  {
+   "title": "Genie 4: A new generation of world simulation",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "source": "Hacker News",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:28:26+00:00",
+   "field": "text"
+  },
+  {
+   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:00:20+00:00",
+   "field": ""
+  },
+  {
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/retell-ai",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Is my data used for model training?",
+   "source": "Hacker News",
+   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T13:56:15+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "source": "Hacker News",
+   "url": "https://allmodels.io/llm/abliterated",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T04:53:52+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "source": "Hacker News",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T22:41:48+00:00",
+   "field": ""
+  },
+  {
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T22:00:00+00:00",
+   "field": "code"
+  },
+  {
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "source": "Hacker News",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T21:59:15+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "source": "Hacker News",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T21:24:18+00:00",
+   "field": ""
+  },
+  {
+   "title": "GPT 6.1 Terra",
+   "source": "Hacker News",
+   "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:58:24+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "source": "Hacker News",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T16:35:44+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "source": "Hacker News",
+   "url": "https://github.com/FrigadeHQ/hob",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T16:12:29+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Working with academic communities to build scientific understanding",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T14:30:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T13:45:00+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Anthropic S-1",
+   "source": "Hacker News",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T13:04:50+00:00",
+   "field": ""
+  },
+  {
+   "title": "ChatGPT’s expanding world of work",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T10:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+   "source": "Hacker News",
+   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T03:12:05+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Introducing GPT-6.1 Terra",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T00:00:00+00:00",
+   "field": "text"
+  },
+  {
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "source": "Hacker News",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T21:11:31+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+   "source": "Hacker News",
+   "url": "https://kevin-wu.ca/blog/qwn/",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T18:00:04+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "What Adobe v ArtCraft teaches us",
+   "source": "Hacker News",
+   "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T15:34:44+00:00",
+   "field": ""
+  },
+  {
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "source": "Hacker News",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T03:56:01+00:00",
+   "field": ""
+  },
+  {
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "source": "Hacker News",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T01:33:49+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+   "source": "Hacker News",
+   "url": "https://huggingface.co/destined/hurston-1",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T01:30:13+00:00",
+   "field": "audio"
+  },
+  {
+   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+   "source": "Hacker News",
+   "url": "https://adrs.systems",
+   "date": "2026-10-25",
+   "ts": "2026-10-25T00:43:47+00:00",
+   "field": ""
+  },
+  {
+   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+   "date": "2026-10-24",
+   "ts": "2026-10-24T15:35:17+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "source": "Hacker News",
+   "url": "https://corgi.computer/",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T19:46:38+00:00",
+   "field": ""
+  },
+  {
+   "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T18:24:54+00:00",
+   "field": ""
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T17:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "source": "Hacker News",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:59:08+00:00",
+   "field": ""
+  },
+  {
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "source": "Hacker News",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T11:39:54+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Securing our frontier model training environment",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T10:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T02:00:13+00:00",
+   "field": ""
+  },
+  {
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/anima",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T00:00:00+00:00",
+   "field": "text"
+  },
+  {
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T22:54:43+00:00",
+   "field": ""
+  },
+  {
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T22:24:34+00:00",
+   "field": ""
+  },
+  {
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50200997",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T21:03:55+00:00",
+   "field": ""
+  },
+  {
+   "title": "Build more responsive apps with the Decisions API",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/decisions-api",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T19:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "source": "Hacker News",
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T16:08:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T15:00:02+00:00",
+   "field": ""
+  },
+  {
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T14:30:24+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "source": "Hacker News",
+   "url": "https://github.com/dsmurrell/onkey",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T14:04:44+00:00",
+   "field": ""
+  },
+  {
+   "title": "Achieving AI-style reasoning without an LLM",
+   "source": "Hacker News",
+   "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T08:46:58+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T07:51:31+00:00",
+   "field": ""
+  },
+  {
+   "title": "What FDE means at OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T06:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI CLI",
+   "source": "Hacker News",
+   "url": "https://github.com/openai/openai-cli",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:23:11+00:00",
+   "field": ""
+  },
+  {
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:56+00:00",
+   "field": ""
+  },
+  {
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:27+00:00",
+   "field": ""
+  },
+  {
+   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:19+00:00",
+   "field": ""
+  },
+  {
+   "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:02+00:00",
+   "field": ""
+  },
+  {
+   "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T02:17:58+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Broad access through consistent standards",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T21:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Claude Duet",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T19:40:18+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Mistral Large 4",
+   "source": "Hacker News",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T19:20:55+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Anthropic's Public Benefit Charter",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/public-benefit-charter",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T18:29:54+00:00",
+   "field": ""
+  },
+  {
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T17:35:36+00:00",
+   "field": ""
+  },
+  {
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/att-legal",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T17:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "source": "Hacker News",
+   "url": "https://github.com/omnara-ai/omnara",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T16:44:53+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T16:04:43+00:00",
+   "field": ""
+  },
+  {
+   "title": "I told people I'm a convicted felon after 20 years of hiding it",
+   "source": "Hacker News",
+   "url": "https://buford.bg/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T15:46:43+00:00",
+   "field": ""
+  },
+  {
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T13:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "source": "Hacker News",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T12:22:39+00:00",
+   "field": "code"
+  },
+  {
+   "title": "OpenAI models are coming to Google Cloud",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T12:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T10:50:37+00:00",
+   "field": ""
+  },
+  {
+   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T10:30:41+00:00",
+   "field": ""
+  },
+  {
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T07:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T04:50:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Using Claude to reduce the attack surface of code",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T03:36:43+00:00",
+   "field": "code"
+  },
+  {
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+   "source": "Hacker News",
+   "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T22:27:07+00:00",
+   "field": ""
+  },
+  {
+   "title": "Anthropic logged net loss of over $80B in first half of 2026",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T20:09:46+00:00",
+   "field": ""
+  },
+  {
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T17:48:29+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50167583",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T15:09:29+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T10:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+   "source": "Hacker News",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T09:08:54+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/terminal-x",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T07:00:00+00:00",
+   "field": "text"
+  },
+  {
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "MPS in PyTorch 2.15",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
+   "field": ""
+  },
+  {
+   "title": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+   "source": "Hacker News",
+   "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T18:41:10+00:00",
+   "field": "open-source"
+  },
+  {
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T16:16:46+00:00",
+   "field": "open-source"
+  }
+ ]
+}

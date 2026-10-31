@@ -1,0 +1,31 @@
+{
+ "updated": "2026-10-31T10:28:29+00:00",
+ "sources": [
+  {
+   "source": "Hugging Face",
+   "ok": true,
+   "items": 894
+  },
+  {
+   "source": "Google DeepMind",
+   "ok": true,
+   "items": 100
+  },
+  {
+   "source": "OpenAI",
+   "ok": true,
+   "items": 1341
+  },
+  {
+   "source": "NVIDIA",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "Hacker News",
+   "ok": true,
+   "items": 180,
+   "failed_queries": 0
+  }
+ ]
+}
