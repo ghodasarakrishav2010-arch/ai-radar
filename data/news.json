@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T14:30:07+00:00",
+ "updated": "2026-10-31T17:14:50+00:00",
  "items": [
+  {
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "source": "Hacker News",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T14:29:03+00:00",
+   "field": "",
+   "points": 109,
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
    "source": "Hacker News",
@@ -8,19 +20,31 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:10+00:00",
    "field": "",
-   "points": 44,
+   "points": 73,
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/anthropic--cathedral-263559161-16x9_0.png?VersionId=hngQNnOgez44Zv0vMDM35oEeCVLPJGZC",
    "score": 0,
    "tier": "medium"
   },
   {
-   "title": "Why Anthropic's Filing Crushed Tech Stocks",
+   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T13:25:00+00:00",
+   "field": "video",
+   "points": 30,
+   "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Why Anthropic's filing crushed tech stocks",
    "source": "Hacker News",
    "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
    "date": "2026-10-31",
    "ts": "2026-10-31T12:32:10+00:00",
    "field": "",
-   "points": 36,
+   "points": 47,
    "image": "https://substackcdn.com/image/fetch/$s_!ZgR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37133ce1-424f-47a3-a941-9ca5017b2df7_1694x490.png",
    "score": -2,
    "tier": "medium"
@@ -32,7 +56,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 108,
+   "points": 208,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 1,
    "tier": "medium"
@@ -55,7 +79,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
    "field": "",
-   "points": 165,
+   "points": 173,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -78,7 +102,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T23:08:12+00:00",
    "field": "",
-   "points": 94,
+   "points": 98,
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
    "score": -4,
    "tier": "medium"
@@ -101,7 +125,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
    "field": "",
-   "points": 312,
+   "points": 319,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -113,7 +137,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 269,
+   "points": 278,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -158,7 +182,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T14:22:52+00:00",
    "field": "video",
-   "points": 110,
+   "points": 118,
    "image": "https://pbs.twimg.com/media/HV3D_otWQAAicKf?format=webp&name=large",
    "score": 1,
    "tier": "medium"
@@ -216,7 +240,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 930,
+   "points": 948,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -306,7 +330,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T17:24:25+00:00",
    "field": "text",
-   "points": 124,
+   "points": 125,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -364,7 +388,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T14:57:55+00:00",
    "field": "audio",
-   "points": 598,
+   "points": 604,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -398,7 +422,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T12:41:56+00:00",
    "field": "text",
-   "points": 337,
+   "points": 338,
    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&auto=format",
    "score": 2,
    "tier": "medium"
@@ -579,7 +603,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T12:24:25+00:00",
    "field": "",
-   "points": 237,
+   "points": 243,
    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
    "score": 3,
    "tier": "top"
@@ -750,6 +774,7 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T15:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -761,7 +786,8 @@
    "ts": "2026-10-27T13:56:15+00:00",
    "field": "",
    "score": 2,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://privacy.claude.com/assets/favicon"
   },
   {
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -770,6 +796,7 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T07:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -781,6 +808,7 @@
    "ts": "2026-10-27T04:53:52+00:00",
    "field": "open-source",
    "points": 98,
+   "image": "https://allmodels.io/assets/og/llm-abliterated-pixels-v2.png",
    "score": 1,
    "tier": "medium"
   },
@@ -791,6 +819,7 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T00:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -802,6 +831,7 @@
    "ts": "2026-10-26T22:41:48+00:00",
    "field": "",
    "points": 181,
+   "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
    "score": 2,
    "tier": "medium"
   },
@@ -812,6 +842,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T22:00:00+00:00",
    "field": "code",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -823,7 +854,8 @@
    "ts": "2026-10-26T21:59:15+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://opengraph.githubassets.com/d638f69af4611b08df6d8b3b9fff8bccc58040ffc2c6fae7fff7d90ab9781eb2/openai/math"
   },
   {
    "title": "OpenAI's agents talked to each other through the CPU Cache",
@@ -833,6 +865,7 @@
    "ts": "2026-10-26T21:24:18+00:00",
    "field": "",
    "points": 361,
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
    "score": 3,
    "tier": "top"
   },
@@ -844,6 +877,7 @@
    "ts": "2026-10-26T17:58:24+00:00",
    "field": "text",
    "points": 37,
+   "image": "https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png",
    "score": 0,
    "tier": "medium"
   },
@@ -855,6 +889,8 @@
    "ts": "2026-10-26T16:35:44+00:00",
    "field": "open-source",
    "points": 335,
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&w=1200&h=630&q=80&fit=crop&auto=format",
+   "video": true,
    "score": 4,
    "tier": "top"
   },
@@ -866,6 +902,7 @@
    "ts": "2026-10-26T16:12:29+00:00",
    "field": "open-source",
    "points": 176,
+   "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
    "score": 2,
    "tier": "medium"
   },
@@ -876,6 +913,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T14:30:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -886,6 +924,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T13:45:00+00:00",
    "field": "text",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -897,6 +936,7 @@
    "ts": "2026-10-26T13:04:50+00:00",
    "field": "",
    "points": 1708,
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -907,6 +947,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T10:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -917,6 +958,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T07:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -927,6 +969,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T07:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -938,6 +981,7 @@
    "ts": "2026-10-26T03:12:05+00:00",
    "field": "open-source",
    "points": 72,
+   "image": "https://shattered.io/wp-content/uploads/2026/10/microsoft-decision-1-qwen3-5-9b-model-2026-gen.jpg",
    "score": 2,
    "tier": "medium"
   },
@@ -948,6 +992,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T00:00:00+00:00",
    "field": "text",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -959,6 +1004,7 @@
    "ts": "2026-10-25T21:11:31+00:00",
    "field": "text",
    "points": 443,
+   "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
    "score": 2,
    "tier": "medium"
   },
@@ -970,6 +1016,7 @@
    "ts": "2026-10-25T18:00:04+00:00",
    "field": "open-source",
    "points": 31,
+   "image": "",
    "score": 1,
    "tier": "medium"
   },
@@ -981,7 +1028,8 @@
    "ts": "2026-10-25T15:34:44+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": ""
   },
   {
    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
@@ -991,7 +1039,8 @@
    "ts": "2026-10-25T03:56:01+00:00",
    "field": "",
    "score": 1,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://opengraph.githubassets.com/5cb88be64db8a026c8d47feadb7dac21f02485fe3a4c87155424981c6ebadd6f/slee-persis/GVS5H"
   },
   {
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -1001,6 +1050,7 @@
    "ts": "2026-10-25T01:33:49+00:00",
    "field": "",
    "points": 368,
+   "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
    "score": 3,
    "tier": "top"
   },
@@ -1012,7 +1062,8 @@
    "ts": "2026-10-25T01:30:13+00:00",
    "field": "audio",
    "score": 1,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/destined/hurston-1.png"
   },
   {
    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
@@ -1022,6 +1073,7 @@
    "ts": "2026-10-25T00:43:47+00:00",
    "field": "",
    "points": 66,
+   "image": "",
    "score": 0,
    "tier": "medium"
   },
@@ -1033,6 +1085,7 @@
    "ts": "2026-10-24T15:35:17+00:00",
    "field": "",
    "points": 53,
+   "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1793466888",
    "score": 0,
    "tier": "medium"
   },
@@ -1044,7 +1097,8 @@
    "ts": "2026-10-23T19:46:38+00:00",
    "field": "",
    "score": 1,
-   "tier": "medium"
+   "tier": "medium",
+   "image": ""
   },
   {
    "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
@@ -1054,7 +1108,8 @@
    "ts": "2026-10-23T18:24:54+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://artificialanalysis.ai/en/models/kimi-k3-1-pro/opengraph-image?3850766eb2d567bc"
   },
   {
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -1063,6 +1118,7 @@
    "date": "2026-10-23",
    "ts": "2026-10-23T17:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 0,
    "tier": "medium"
   },
@@ -1074,7 +1130,8 @@
    "ts": "2026-10-23T16:59:08+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp"
   },
   {
    "title": "Swedish government offices to ban ChatGPT and Claude",
@@ -1084,6 +1141,7 @@
    "ts": "2026-10-23T11:39:54+00:00",
    "field": "text",
    "points": 324,
+   "image": "",
    "score": 0,
    "tier": "medium"
   },
@@ -1094,6 +1152,7 @@
    "date": "2026-10-23",
    "ts": "2026-10-23T10:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 4,
    "tier": "top"
   },
@@ -1115,6 +1174,7 @@
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
    "field": "",
+   "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
    "score": 3,
    "tier": "top"
   },
@@ -1125,6 +1185,7 @@
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
    "field": "text",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1135,6 +1196,7 @@
    "date": "2026-10-23",
    "ts": "2026-10-23T00:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1146,6 +1208,7 @@
    "ts": "2026-10-22T22:54:43+00:00",
    "field": "",
    "points": 473,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
    "score": 2,
    "tier": "medium"
   },
@@ -1156,6 +1219,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T22:24:34+00:00",
    "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
    "score": 4,
    "tier": "top"
   },
@@ -1167,6 +1231,7 @@
    "ts": "2026-10-22T21:03:55+00:00",
    "field": "",
    "points": 680,
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -1177,6 +1242,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T19:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 4,
    "tier": "top"
   },
@@ -1188,6 +1254,7 @@
    "ts": "2026-10-22T16:08:00+00:00",
    "field": "",
    "points": 667,
+   "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=xakbss",
    "score": 3,
    "tier": "top"
   },
@@ -1221,7 +1288,8 @@
    "ts": "2026-10-22T14:04:44+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://repository-images.githubusercontent.com/1424878564/24f58d68-d92e-493a-8534-6564902cb5a4"
   },
   {
    "title": "Achieving AI-style reasoning without an LLM",
@@ -1231,6 +1299,7 @@
    "ts": "2026-10-22T08:46:58+00:00",
    "field": "text",
    "points": 48,
+   "image": "https://fleetingswallow.com/wp-content/uploads/2026/10/Minotaur-Surfer-in-a-Turquoise-Barrel-1024x683.png",
    "score": 1,
    "tier": "medium"
   },
@@ -1241,6 +1310,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T07:51:31+00:00",
    "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
    "score": 3,
    "tier": "top"
   },
@@ -1251,6 +1321,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T06:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1262,6 +1333,7 @@
    "ts": "2026-10-22T05:23:11+00:00",
    "field": "",
    "points": 244,
+   "image": "https://opengraph.githubassets.com/92a48ba88ce9735e76901751d3cac97cd141e043096a4e4df8bd238357198c02/openai/openai-cli",
    "score": 1,
    "tier": "medium"
   },
@@ -1273,7 +1345,8 @@
    "ts": "2026-10-22T05:00:56+00:00",
    "field": "",
    "score": 3,
-   "tier": "top"
+   "tier": "top",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg"
   },
   {
    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
@@ -1340,6 +1413,7 @@
    "ts": "2026-10-22T02:17:58+00:00",
    "field": "text",
    "points": 91,
+   "image": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides/opengraph-image/og",
    "score": 0,
    "tier": "medium"
   },
@@ -1350,6 +1424,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1360,6 +1435,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T21:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1372,7 +1448,8 @@
    "field": "text",
    "points": 93,
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://claude.com/resources/articles/claude-duet/opengraph-image/og"
   },
   {
    "title": "Mistral Large 4",
@@ -1382,6 +1459,7 @@
    "ts": "2026-10-21T19:20:55+00:00",
    "field": "open-source",
    "points": 327,
+   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
    "score": 2,
    "tier": "medium"
   },
@@ -1393,6 +1471,7 @@
    "ts": "2026-10-21T18:29:54+00:00",
    "field": "",
    "points": 49,
+   "image": "https://www.anthropic.com/images/mission/share.jpg",
    "score": 0,
    "tier": "medium"
   },
@@ -1403,6 +1482,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T17:35:36+00:00",
    "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png",
    "score": 3,
    "tier": "top"
   },
@@ -1413,6 +1493,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T17:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1424,6 +1505,7 @@
    "ts": "2026-10-21T16:44:53+00:00",
    "field": "open-source",
    "points": 114,
+   "image": "https://repository-images.githubusercontent.com/1016411413/ed725ee5-25c6-40a2-b2a5-1ffd4749afbe",
    "score": 3,
    "tier": "top"
   },
@@ -1434,6 +1516,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T16:04:43+00:00",
    "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png",
    "score": 2,
    "tier": "medium"
   },
@@ -1609,27 +1692,6 @@
    "ts": "2026-10-20T17:48:29+00:00",
    "field": "text",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50167583",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T15:09:29+00:00",
-   "field": "open-source",
-   "points": 53,
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T10:00:00+00:00",
-   "field": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
