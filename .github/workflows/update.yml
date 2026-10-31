@@ -18,13 +18,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install pyarrow
+        run: pip install pyarrow
+
       - name: Collect news
         run: python collect_news.py
 
+      - name: Collect leaderboards
+        if: always()
+        run: python collect_leaderboards.py
+
       - name: Save changes
+        if: always()
         run: |
           git config user.name "ai-radar-bot"
           git config user.email "ai-radar-bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || git commit -m "Update data"
+          git pull --rebase
           git push
