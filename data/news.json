@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-31T10:43:04+00:00",
+ "updated": "2026-10-31T14:03:34+00:00",
  "items": [
+  {
+   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "source": "Hacker News",
+   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T13:25:10+00:00",
+   "field": ""
+  },
+  {
+   "title": "We Took over ChatGPT Accounts",
+   "source": "Hacker News",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T10:30:11+00:00",
+   "field": ""
+  },
   {
    "title": "Digital Minimalism",
    "source": "Hacker News",
@@ -232,6 +248,14 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T14:57:55+00:00",
    "field": "audio"
+  },
+  {
+   "title": "Brief History of PDP Computers",
+   "source": "Hacker News",
+   "url": "https://entropicthoughts.com/history-of-pdp-computers",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:53:33+00:00",
+   "field": ""
   },
   {
    "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -1176,30 +1200,6 @@
    "date": "2026-10-20",
    "ts": "2026-10-20T00:00:00+00:00",
    "field": ""
-  },
-  {
-   "title": "OpenAI acquires Orchestra Bio",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T00:00:00+00:00",
-   "field": ""
-  },
-  {
-   "title": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-   "source": "Hacker News",
-   "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T18:41:10+00:00",
-   "field": "open-source"
-  },
-  {
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T16:16:46+00:00",
-   "field": "open-source"
   }
  ]
 }
