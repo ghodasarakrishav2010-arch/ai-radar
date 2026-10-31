@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Radar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#12151c; --surface:#1a1f2b; --line:#2a3142; --text:#e7e9ee; --muted:#9aa3b5;
+  --accent:#7cc4ff; --new:#f2b84b;
+  --head:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme: light){
+  :root{--bg:#f5f6f9;--surface:#ffffff;--line:#dde1ea;--text:#171b26;--muted:#5b6478;--accent:#0b6bcb;--new:#a86400}
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body)}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+header{padding:48px 0 24px;border-bottom:1px solid var(--line)}
+h1{font:700 clamp(2.4rem,7vw,4rem)/1 var(--head);margin:0 0 12px;letter-spacing:-.02em}
+.tag{color:var(--muted);margin:0;max-width:52ch}
+.status{margin-top:16px;font-size:.9rem;color:var(--muted)}
+.banner{margin:24px 0 0;padding:12px 16px;border-left:3px solid var(--new);background:var(--surface);font-size:.95rem}
+h2{font:600 1.5rem/1.2 var(--head);margin:48px 0 16px}
+.best{width:100%;border-collapse:collapse}
+.best th,.best td{text-align:left;padding:12px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.best th{font-weight:600;color:var(--muted);font-size:.9rem}
+.best td:first-child{font-weight:600;white-space:nowrap}
+.scroll{overflow-x:auto}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.tabs button{font:inherit;color:var(--text);background:transparent;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--accent);color:#0a0f18;border-color:var(--accent);font-weight:600}
+.board{list-style:none;margin:0;padding:0;counter-reset:r}
+.board li{display:flex;justify-content:space-between;gap:16px;padding:12px 4px;border-bottom:1px solid var(--line);counter-increment:r}
+.board li::before{content:counter(r);width:2ch;color:var(--muted);flex:none}
+.board .n{flex:1}
+.board .c{color:var(--muted);font-size:.9rem}
+.src{margin-top:12px;font-size:.9rem;color:var(--muted)}
+.news{list-style:none;margin:0;padding:0}
+.news li{padding:14px 0;border-bottom:1px solid var(--line)}
+.news a{font-weight:600;text-decoration:none}
+.news a:hover{text-decoration:underline}
+.meta{display:block;color:var(--muted);font-size:.85rem;margin-top:2px}
+.empty{color:var(--muted)}
+footer{margin:64px 0 40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>AI Radar</h1>
+    <p class="tag">The best AI for each job, and the newest AI news, in one place. Updated automatically.</p>
+    <div class="status" id="status">Loading…</div>
+    <div class="banner" id="banner" hidden>You are seeing sample data. Real rankings and news appear once the data collector is switched on.</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section aria-labelledby="best-h">
+    <h2 id="best-h">Best right now</h2>
+    <div class="scroll">
+      <table class="best">
+        <thead><tr><th>Field</th><th>Top model</th><th>Company</th><th>Source</th></tr></thead>
+        <tbody id="best-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="lb-h">
+    <h2 id="lb-h">Leaderboards</h2>
+    <div class="tabs" id="tabs" role="group" aria-label="Choose a field"></div>
+    <ol class="board" id="board"></ol>
+    <p class="src" id="board-src"></p>
+  </section>
+
+  <section aria-labelledby="news-h">
+    <h2 id="news-h">Latest news</h2>
+    <ul class="news" id="news"></ul>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">Rankings come from public leaderboards and differ between sources, so each one is labelled. Check the source before you decide.</div>
+</footer>
+
+<script>
+// Sample data, shown until the collector creates data/leaderboards.json and data/news.json
+const SAMPLE_LB = {
+  updated: null,
+  fields: [
+    {id:"text",   name:"Text",   source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"code",   name:"Code",   source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"image",  name:"Image",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"video",  name:"Video",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"vision", name:"Vision", source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"audio",  name:"Audio",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
+    {id:"open",   name:"Open-source", source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]}
+  ]
+};
+const SAMPLE_NEWS = {
+  updated: null,
+  items: [
+    {title:"Sample headline: news will appear here", source:"Sample", url:"", date:"", field:""},
+    {title:"Sample headline: new models will be listed with their date", source:"Sample", url:"", date:"", field:""}
+  ]
+};
+
+const $ = id => document.getElementById(id);
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
+
+async function load(path, fallback){
+  try{
+    const r = await fetch(path, {cache:"no-cache"});
+    if(!r.ok) throw new Error(r.status);
+    return {data: await r.json(), live:true};
+  }catch(e){
+    return {data: fallback, live:false};
+  }
+}
+
+function el(tag, text, cls){
+  const e = document.createElement(tag);
+  if(text) e.textContent = text;
+  if(cls) e.className = cls;
+  return e;
+}
+
+function link(text, url){
+  const u = safeUrl(url);
+  if(!u) return el("span", text);
+  const a = el("a", text);
+  a.href = u; a.target = "_blank"; a.rel = "noopener noreferrer";
+  return a;
+}
+
+function renderBest(fields){
+  const body = $("best-body");
+  body.textContent = "";
+  fields.forEach(f=>{
+    const top = f.models && f.models[0];
+    const tr = document.createElement("tr");
+    tr.appendChild(el("td", f.name));
+    tr.appendChild(el("td", top ? top.name : "No data yet"));
+    tr.appendChild(el("td", top ? (top.company || "") : ""));
+    const td = document.createElement("td");
+    td.appendChild(link(f.source || "", f.source_url));
+    tr.appendChild(td);
+    body.appendChild(tr);
+  });
+}
+
+function renderBoard(f){
+  const ol = $("board");
+  ol.textContent = "";
+  (f.models || []).forEach(m=>{
+    const li = document.createElement("li");
+    li.appendChild(el("span", m.name, "n"));
+    const right = m.company ? m.company + (m.score != null ? " · " + m.score : "") : (m.score != null ? String(m.score) : "");
+    li.appendChild(el("span", right, "c"));
+    ol.appendChild(li);
+  });
+  const s = $("board-src");
+  s.textContent = "Source: ";
+  s.appendChild(link(f.source || "unknown", f.source_url));
+}
+
+function renderTabs(fields){
+  const t = $("tabs");
+  t.textContent = "";
+  fields.forEach((f,i)=>{
+    const b = el("button", f.name);
+    b.type = "button";
+    b.setAttribute("aria-pressed", i===0 ? "true" : "false");
+    b.addEventListener("click", ()=>{
+      t.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed","false"));
+      b.setAttribute("aria-pressed","true");
+      renderBoard(f);
+    });
+    t.appendChild(b);
+  });
+  if(fields[0]) renderBoard(fields[0]);
+}
+
+function renderNews(items){
+  const ul = $("news");
+  ul.textContent = "";
+  if(!items.length){ ul.appendChild(el("li","No news yet.","empty")); return; }
+  items.forEach(n=>{
+    const li = document.createElement("li");
+    li.appendChild(link(n.title, n.url));
+    const meta = [n.source, n.date, n.field].filter(Boolean).join(" · ");
+    if(meta) li.appendChild(el("span", meta, "meta"));
+    ul.appendChild(li);
+  });
+}
+
+function fmt(iso){
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleString();
+}
+
+(async function(){
+  const [lb, nw] = await Promise.all([
+    load("data/leaderboards.json", SAMPLE_LB),
+    load("data/news.json", SAMPLE_NEWS)
+  ]);
+  const fields = lb.data.fields || [];
+  renderBest(fields);
+  renderTabs(fields);
+  renderNews(nw.data.items || []);
+
+  const live = lb.live || nw.live;
+  $("banner").hidden = live;
+  const stamps = [lb.data.updated, nw.data.updated].filter(Boolean).sort();
+  const last = stamps.length ? fmt(stamps[stamps.length-1]) : "";
+  $("status").textContent = live && last ? "Last updated: " + last : "Waiting for first update";
+})();
+</script>
+</body>
+</html>
