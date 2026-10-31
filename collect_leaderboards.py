@@ -17,7 +17,7 @@ REPO = "lmarena-ai/leaderboard-dataset"
 OUT = "data/leaderboards.json"
 OUT_STATUS = "data/lb_status.json"
 SOURCE_URL = "https://arena.ai/leaderboard"
-TOP_N = 20
+TOP_N = 30
 UA = "Mozilla/5.0 (compatible; AI-Radar-Bot/1.0)"
 
 # (id, name shown on the site, dataset subset, label of the source)

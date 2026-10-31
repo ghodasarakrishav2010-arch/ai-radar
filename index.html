@@ -11,46 +11,63 @@
 <style>
 :root{
   --bg:#12151c; --surface:#1a1f2b; --line:#2a3142; --text:#e7e9ee; --muted:#9aa3b5;
-  --accent:#7cc4ff; --new:#f2b84b;
+  --accent:#7cc4ff; --on-accent:#0a0f18; --new:#f2b84b;
   --head:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
   --body:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
 }
 @media (prefers-color-scheme: light){
-  :root{--bg:#f5f6f9;--surface:#ffffff;--line:#dde1ea;--text:#171b26;--muted:#5b6478;--accent:#0b6bcb;--new:#a86400}
+  :root{--bg:#f5f6f9;--surface:#ffffff;--line:#dde1ea;--text:#171b26;--muted:#5b6478;--accent:#0b6bcb;--on-accent:#fff;--new:#a86400}
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body)}
 a{color:var(--accent)}
-a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .wrap{max-width:960px;margin:0 auto;padding:0 20px}
 header{padding:48px 0 24px;border-bottom:1px solid var(--line)}
 h1{font:700 clamp(2.4rem,7vw,4rem)/1 var(--head);margin:0 0 12px;letter-spacing:-.02em}
 .tag{color:var(--muted);margin:0;max-width:52ch}
+nav{margin-top:20px;display:flex;gap:16px;flex-wrap:wrap;font-size:.95rem}
 .status{margin-top:16px;font-size:.9rem;color:var(--muted)}
 .banner{margin:24px 0 0;padding:12px 16px;border-left:3px solid var(--new);background:var(--surface);font-size:.95rem}
-h2{font:600 1.5rem/1.2 var(--head);margin:48px 0 16px}
-.best{width:100%;border-collapse:collapse}
-.best th,.best td{text-align:left;padding:12px 8px;border-bottom:1px solid var(--line);vertical-align:top}
-.best th{font-weight:600;color:var(--muted);font-size:.9rem}
-.best td:first-child{font-weight:600;white-space:nowrap}
+h2{font:600 1.5rem/1.2 var(--head);margin:48px 0 16px;scroll-margin-top:16px}
+.hint{color:var(--muted);font-size:.9rem;margin:0 0 16px}
+table{width:100%;border-collapse:collapse}
+th,td{text-align:left;padding:12px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--muted);font-size:.9rem}
+td:first-child{font-weight:600;white-space:nowrap}
 .scroll{overflow-x:auto}
-.tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
-.tabs button{font:inherit;color:var(--text);background:transparent;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
-.tabs button[aria-pressed="true"]{background:var(--accent);color:#0a0f18;border-color:var(--accent);font-weight:600}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.pills button{font:inherit;font-size:.92rem;color:var(--text);background:transparent;border:1px solid var(--line);border-radius:999px;padding:5px 14px;cursor:pointer}
+.pills button[aria-pressed="true"]{background:var(--accent);color:var(--on-accent);border-color:var(--accent);font-weight:600}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:12px}
+.row label{color:var(--muted);font-size:.9rem}
+select{font:inherit;color:var(--text);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:6px 10px;max-width:100%}
 .board{list-style:none;margin:0;padding:0;counter-reset:r}
 .board li{display:flex;justify-content:space-between;gap:16px;padding:12px 4px;border-bottom:1px solid var(--line);counter-increment:r}
-.board li::before{content:counter(r);width:2ch;color:var(--muted);flex:none}
+.board li::before{content:counter(r);width:2.5ch;color:var(--muted);flex:none}
 .board .n{flex:1}
-.board .c{color:var(--muted);font-size:.9rem}
+.board .c{color:var(--muted);font-size:.9rem;text-align:right}
 .src{margin-top:12px;font-size:.9rem;color:var(--muted)}
 .news{list-style:none;margin:0;padding:0}
-.news li{padding:14px 0;border-bottom:1px solid var(--line)}
-.news a{font-weight:600;text-decoration:none}
-.news a:hover{text-decoration:underline}
-.meta{display:block;color:var(--muted);font-size:.85rem;margin-top:2px}
+.news li{display:grid;grid-template-columns:136px 1fr;gap:16px;padding:16px 0;border-bottom:1px solid var(--line)}
+.thumb{position:relative;display:block;width:136px;height:88px;border-radius:8px;overflow:hidden;background:var(--surface);border:1px solid var(--line)}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.thumb.ph{display:flex;align-items:center;justify-content:center;color:var(--muted);font:600 1.6rem var(--head);text-decoration:none}
+.play{position:absolute;right:6px;bottom:6px;background:rgba(0,0,0,.72);color:#fff;font-size:.75rem;padding:2px 8px;border-radius:999px}
+.ttl{font-weight:600;text-decoration:none;color:var(--text)}
+.ttl:hover{text-decoration:underline;color:var(--accent)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;color:var(--muted);font-size:.85rem;margin-top:6px}
+.badge{font-weight:600;font-size:.75rem;padding:1px 8px;border-radius:999px;border:1px solid var(--line)}
+.badge.top{background:var(--new);color:#1a1200;border-color:var(--new)}
+.more{margin-top:16px;font:inherit;color:var(--text);background:transparent;border:1px solid var(--line);border-radius:8px;padding:8px 16px;cursor:pointer}
 .empty{color:var(--muted)}
+.win{font-weight:700;color:var(--accent)}
 footer{margin:64px 0 40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
+@media (max-width:560px){
+  .news li{grid-template-columns:96px 1fr;gap:12px}
+  .thumb{width:96px;height:68px}
+}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
@@ -59,8 +76,9 @@ footer{margin:64px 0 40px;padding-top:16px;border-top:1px solid var(--line);colo
   <div class="wrap">
     <h1>AI Radar</h1>
     <p class="tag">The best AI for each job, and the newest AI news, in one place. Updated automatically.</p>
+    <nav aria-label="Sections"><a href="#best-h">Best right now</a><a href="#lb-h">Leaderboards</a><a href="#cmp-h">Compare</a><a href="#news-h">News</a></nav>
     <div class="status" id="status">Loading…</div>
-    <div class="banner" id="banner" hidden>You are seeing sample data. Real rankings and news appear once the data collector is switched on.</div>
+    <div class="banner" id="banner" hidden>The rankings below are sample data for now. Real rankings are coming in the next step. The news list is live once the collector has run.</div>
   </div>
 </header>
 
@@ -68,7 +86,7 @@ footer{margin:64px 0 40px;padding-top:16px;border-top:1px solid var(--line);colo
   <section aria-labelledby="best-h">
     <h2 id="best-h">Best right now</h2>
     <div class="scroll">
-      <table class="best">
+      <table>
         <thead><tr><th>Field</th><th>Top model</th><th>Company</th><th>Source</th></tr></thead>
         <tbody id="best-body"></tbody>
       </table>
@@ -77,54 +95,63 @@ footer{margin:64px 0 40px;padding-top:16px;border-top:1px solid var(--line);colo
 
   <section aria-labelledby="lb-h">
     <h2 id="lb-h">Leaderboards</h2>
-    <div class="tabs" id="tabs" role="group" aria-label="Choose a field"></div>
+    <div class="pills" id="tabs" role="group" aria-label="Choose a field"></div>
     <ol class="board" id="board"></ol>
     <p class="src" id="board-src"></p>
   </section>
 
+  <section aria-labelledby="cmp-h">
+    <h2 id="cmp-h">Compare two models</h2>
+    <p class="hint">Pick two models. Each row shows their position and score in one field. Scores from different fields use different scales, so compare positions within a row.</p>
+    <div class="row">
+      <label for="selA">Model A</label><select id="selA"></select>
+      <label for="selB">Model B</label><select id="selB"></select>
+    </div>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Field</th><th id="thA">Model A</th><th id="thB">Model B</th><th>Ahead</th></tr></thead>
+        <tbody id="cmp-body"></tbody>
+      </table>
+    </div>
+    <p class="empty" id="cmp-empty" hidden>These two models do not appear together in any field list.</p>
+  </section>
+
   <section aria-labelledby="news-h">
-    <h2 id="news-h">Latest news</h2>
+    <h2 id="news-h">News</h2>
+    <p class="hint"><strong>Top</strong> = launches, research, tools and tutorials that help you learn and build. <strong>Medium</strong> = money, business and general industry news. The ranking is automatic and based on keywords, so it can be wrong sometimes.</p>
+    <div class="pills" id="tier-pills" role="group" aria-label="Importance"></div>
+    <div class="pills" id="field-pills" role="group" aria-label="Field"></div>
+    <div class="row"><label for="sort">Sort by</label>
+      <select id="sort"><option value="useful">Most useful first</option><option value="new">Newest first</option></select></div>
     <ul class="news" id="news"></ul>
+    <button class="more" id="more" type="button" hidden>Show more</button>
   </section>
 </main>
 
 <footer>
-  <div class="wrap">Rankings come from public leaderboards and differ between sources, so each one is labelled. Check the source before you decide.</div>
+  <div class="wrap">Rankings come from public leaderboards and differ between sources, so each one is labelled. Check the source before you decide. Leaderboard data: Arena (arena.ai) leaderboard dataset, licensed CC BY 4.0.</div>
 </footer>
 
 <script>
 // Sample data, shown until the collector creates data/leaderboards.json and data/news.json
-const SAMPLE_LB = {
-  updated: null,
-  fields: [
-    {id:"text",   name:"Text",   source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"code",   name:"Code",   source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"image",  name:"Image",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"video",  name:"Video",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"vision", name:"Vision", source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"audio",  name:"Audio",  source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]},
-    {id:"open",   name:"Open-source", source:"Sample source", source_url:"", models:[{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}]}
-  ]
-};
-const SAMPLE_NEWS = {
-  updated: null,
-  items: [
-    {title:"Sample headline: news will appear here", source:"Sample", url:"", date:"", field:""},
-    {title:"Sample headline: new models will be listed with their date", source:"Sample", url:"", date:"", field:""}
-  ]
-};
+const SAMPLE_MODELS = [{name:"Sample model 1",company:"Company A"},{name:"Sample model 2",company:"Company B"},{name:"Sample model 3",company:"Company C"}];
+const SAMPLE_LB = {updated:null, fields:["Text","Code","Image","Video","Vision","Audio","Open-source"].map(n=>(
+  {id:n.toLowerCase(), name:n, source:"Sample source", source_url:"", models:SAMPLE_MODELS}))};
+const SAMPLE_NEWS = {updated:null, items:[
+  {title:"Sample headline: news will appear here", source:"Sample", url:"", date:"", field:"", tier:"medium"},
+  {title:"Sample headline: new models will be listed with their date", source:"Sample", url:"", date:"", field:"", tier:"top"}]};
 
 const $ = id => document.getElementById(id);
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
+const state = {lb:[], news:[], tier:"all", field:"all", sort:"useful", shown:30};
+const TIERS = [["all","All news"],["top","Top: learn & build"],["medium","Medium: industry"]];
 
 async function load(path, fallback){
   try{
     const r = await fetch(path, {cache:"no-cache"});
     if(!r.ok) throw new Error(r.status);
     return {data: await r.json(), live:true};
-  }catch(e){
-    return {data: fallback, live:false};
-  }
+  }catch(e){ return {data: fallback, live:false}; }
 }
 
 function el(tag, text, cls){
@@ -142,6 +169,19 @@ function link(text, url){
   return a;
 }
 
+function pills(containerId, options, current, onPick){
+  const box = $(containerId);
+  box.textContent = "";
+  options.forEach(([value,label])=>{
+    const b = el("button", label);
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(value===current));
+    b.addEventListener("click", ()=>{ onPick(value); });
+    box.appendChild(b);
+  });
+}
+
+/* ---------- Best right now + leaderboards ---------- */
 function renderBest(fields){
   const body = $("best-body");
   body.textContent = "";
@@ -171,58 +211,133 @@ function renderBoard(f){
   const s = $("board-src");
   s.textContent = "Source: ";
   s.appendChild(link(f.source || "unknown", f.source_url));
+  if(f.published) s.appendChild(document.createTextNode(" · published " + f.published));
 }
 
-function renderTabs(fields){
-  const t = $("tabs");
-  t.textContent = "";
-  fields.forEach((f,i)=>{
-    const b = el("button", f.name);
-    b.type = "button";
-    b.setAttribute("aria-pressed", i===0 ? "true" : "false");
-    b.addEventListener("click", ()=>{
-      t.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed","false"));
-      b.setAttribute("aria-pressed","true");
-      renderBoard(f);
-    });
-    t.appendChild(b);
+function renderTabs(fields, activeId){
+  pills("tabs", fields.map(f=>[f.id, f.name]), activeId, id=>{
+    renderTabs(fields, id);
   });
-  if(fields[0]) renderBoard(fields[0]);
+  const f = fields.find(x=>x.id===activeId);
+  if(f) renderBoard(f);
 }
 
-function renderNews(items){
+/* ---------- Compare ---------- */
+function setupCompare(fields){
+  const names = [...new Set(fields.flatMap(f=>(f.models||[]).map(m=>m.name)))].sort((a,b)=>a.localeCompare(b));
+  [$("selA"), $("selB")].forEach(sel=>{
+    sel.textContent = "";
+    names.forEach(n=>{ const o = el("option", n); o.value = n; sel.appendChild(o); });
+    sel.addEventListener("change", renderCompare);
+  });
+  const first = fields[0] && fields[0].models || [];
+  if(first[0]) $("selA").value = first[0].name;
+  if(first[1]) $("selB").value = first[1].name;
+  renderCompare();
+}
+
+function renderCompare(){
+  const a = $("selA").value, b = $("selB").value;
+  $("thA").textContent = a || "Model A";
+  $("thB").textContent = b || "Model B";
+  const body = $("cmp-body");
+  body.textContent = "";
+  let rows = 0;
+  const cell = (m, i) => m ? "#" + (i+1) + (m.score != null ? " · " + m.score : "") : "not in list";
+  state.lb.forEach(f=>{
+    const list = f.models || [];
+    const ia = list.findIndex(m=>m.name===a), ib = list.findIndex(m=>m.name===b);
+    if(ia<0 && ib<0) return;
+    rows++;
+    const tr = document.createElement("tr");
+    tr.appendChild(el("td", f.name));
+    const ca = el("td", cell(list[ia], ia)), cb = el("td", cell(list[ib], ib));
+    let ahead = "";
+    if(ia>=0 && ib>=0 && a!==b){
+      ahead = ia<ib ? a : b;
+      (ia<ib ? ca : cb).className = "win";
+    } else if(ia>=0 && ib<0){ ahead = a + " (only one listed)"; ca.className = "win"; }
+    else if(ib>=0 && ia<0){ ahead = b + " (only one listed)"; cb.className = "win"; }
+    tr.appendChild(ca); tr.appendChild(cb); tr.appendChild(el("td", ahead));
+    body.appendChild(tr);
+  });
+  $("cmp-empty").hidden = rows > 0;
+}
+
+/* ---------- News ---------- */
+function newsFields(){
+  const set = new Set(state.news.map(n=>n.field || "general"));
+  return ["all", ...[...set].sort()];
+}
+
+function renderNewsControls(){
+  pills("tier-pills", TIERS, state.tier, v=>{ state.tier=v; state.shown=30; renderNewsControls(); });
+  pills("field-pills", newsFields().map(v=>[v, v==="all" ? "All fields" : v]), state.field,
+        v=>{ state.field=v; state.shown=30; renderNewsControls(); });
+  renderNews();
+}
+
+function thumb(n){
+  const u = safeUrl(n.image);
+  const box = el("a", "", "thumb");
+  if(safeUrl(n.url)){ box.href = n.url; box.target = "_blank"; box.rel = "noopener noreferrer"; box.tabIndex = -1; box.setAttribute("aria-hidden","true"); }
+  const placeholder = () => { box.textContent = ""; box.classList.add("ph"); box.textContent = (n.source || "?").charAt(0).toUpperCase(); };
+  if(u){
+    const img = document.createElement("img");
+    img.alt = ""; img.loading = "lazy"; img.referrerPolicy = "no-referrer"; img.src = u;
+    img.addEventListener("error", placeholder);
+    box.appendChild(img);
+  } else { placeholder(); }
+  if(n.video) box.appendChild(el("span", "▶ Video", "play"));
+  return box;
+}
+
+function renderNews(){
+  let list = state.news.filter(n=>
+    (state.tier==="all" || (n.tier||"medium")===state.tier) &&
+    (state.field==="all" || (n.field||"general")===state.field));
+  list = list.slice().sort((a,b)=> state.sort==="new"
+    ? (b.ts||b.date||"").localeCompare(a.ts||a.date||"")
+    : ((b.score||0)-(a.score||0)) || (b.ts||b.date||"").localeCompare(a.ts||a.date||""));
   const ul = $("news");
   ul.textContent = "";
-  if(!items.length){ ul.appendChild(el("li","No news yet.","empty")); return; }
-  items.forEach(n=>{
+  if(!list.length){ ul.appendChild(el("li","No news matches these filters.","empty")); $("more").hidden = true; return; }
+  list.slice(0, state.shown).forEach(n=>{
     const li = document.createElement("li");
-    li.appendChild(link(n.title, n.url));
-    const meta = [n.source, n.date, n.field].filter(Boolean).join(" · ");
-    if(meta) li.appendChild(el("span", meta, "meta"));
+    li.appendChild(thumb(n));
+    const body = document.createElement("div");
+    const t = link(n.title, n.url); t.classList.add("ttl");
+    body.appendChild(t);
+    const meta = el("div", "", "meta");
+    meta.appendChild(el("span", (n.tier||"medium")==="top" ? "Top" : "Medium", "badge " + ((n.tier||"medium"))));
+    [n.source, n.date, n.field].filter(Boolean).forEach(x=>meta.appendChild(el("span", x)));
+    body.appendChild(meta);
+    li.appendChild(body);
     ul.appendChild(li);
   });
+  $("more").hidden = list.length <= state.shown;
 }
 
-function fmt(iso){
-  const d = new Date(iso);
-  return isNaN(d) ? "" : d.toLocaleString();
-}
+function fmt(iso){ const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleString(); }
 
 (async function(){
   const [lb, nw] = await Promise.all([
     load("data/leaderboards.json", SAMPLE_LB),
     load("data/news.json", SAMPLE_NEWS)
   ]);
-  const fields = lb.data.fields || [];
-  renderBest(fields);
-  renderTabs(fields);
-  renderNews(nw.data.items || []);
+  state.lb = lb.data.fields || [];
+  state.news = nw.data.items || [];
+  renderBest(state.lb);
+  renderTabs(state.lb, state.lb[0] && state.lb[0].id);
+  setupCompare(state.lb);
+  renderNewsControls();
+  $("sort").addEventListener("change", e=>{ state.sort = e.target.value; renderNews(); });
+  $("more").addEventListener("click", ()=>{ state.shown += 30; renderNews(); });
 
-  const live = lb.live || nw.live;
-  $("banner").hidden = live;
+  $("banner").hidden = lb.live;
   const stamps = [lb.data.updated, nw.data.updated].filter(Boolean).sort();
   const last = stamps.length ? fmt(stamps[stamps.length-1]) : "";
-  $("status").textContent = live && last ? "Last updated: " + last : "Waiting for first update";
+  $("status").textContent = (lb.live || nw.live) && last ? "Last updated: " + last : "Waiting for first update";
 })();
 </script>
 </body>
