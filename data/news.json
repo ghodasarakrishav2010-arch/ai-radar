@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-31T17:14:50+00:00",
+ "updated": "2026-10-31T21:31:01+00:00",
  "items": [
+  {
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "source": "Hacker News",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T19:39:19+00:00",
+   "field": "",
+   "points": 44,
+   "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Malware uses LLMs to rank victims by how much they're worth",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 109,
+   "points": 220,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -20,7 +32,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:10+00:00",
    "field": "",
-   "points": 73,
+   "points": 74,
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/anthropic--cathedral-263559161-16x9_0.png?VersionId=hngQNnOgez44Zv0vMDM35oEeCVLPJGZC",
    "score": 0,
    "tier": "medium"
@@ -32,7 +44,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:00+00:00",
    "field": "video",
-   "points": 30,
+   "points": 55,
    "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -44,19 +56,19 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:32:10+00:00",
    "field": "",
-   "points": 47,
+   "points": 49,
    "image": "https://substackcdn.com/image/fetch/$s_!ZgR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37133ce1-424f-47a3-a941-9ca5017b2df7_1694x490.png",
    "score": -2,
    "tier": "medium"
   },
   {
-   "title": "We Took over ChatGPT Accounts",
+   "title": "Do the math: How we took over ChatGPT accounts",
    "source": "Hacker News",
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 208,
+   "points": 287,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 1,
    "tier": "medium"
@@ -79,7 +91,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
    "field": "",
-   "points": 173,
+   "points": 177,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -125,7 +137,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
    "field": "",
-   "points": 319,
+   "points": 322,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -137,7 +149,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 278,
+   "points": 281,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -182,7 +194,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T14:22:52+00:00",
    "field": "video",
-   "points": 118,
+   "points": 124,
    "image": "https://pbs.twimg.com/media/HV3D_otWQAAicKf?format=webp&name=large",
    "score": 1,
    "tier": "medium"
@@ -240,7 +252,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 948,
+   "points": 963,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -434,7 +446,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T09:06:12+00:00",
    "field": "code",
-   "points": 31,
+   "points": 32,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -603,7 +615,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T12:24:25+00:00",
    "field": "",
-   "points": 243,
+   "points": 247,
    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
    "score": 3,
    "tier": "top"
@@ -901,7 +913,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T16:12:29+00:00",
    "field": "open-source",
-   "points": 176,
+   "points": 177,
    "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
    "score": 2,
    "tier": "medium"
@@ -1230,7 +1242,7 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T21:03:55+00:00",
    "field": "",
-   "points": 680,
+   "points": 681,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -1528,7 +1540,8 @@
    "ts": "2026-10-21T15:46:43+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://buford.bg/images/buford-portrait.jpg"
   },
   {
    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -1537,6 +1550,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T13:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1548,7 +1562,8 @@
    "ts": "2026-10-21T12:22:39+00:00",
    "field": "code",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://cdn.prod.website-files.com/660fce732403d63a75c55289/6ad7819dd5fa2641cf6f79fa_qwen3-coder-01-gap-closed.png"
   },
   {
    "title": "OpenAI models are coming to Google Cloud",
@@ -1557,6 +1572,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T12:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -1568,7 +1584,8 @@
    "ts": "2026-10-21T10:50:37+00:00",
    "field": "",
    "score": 2,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg"
   },
   {
    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
@@ -1610,6 +1627,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T07:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -1620,6 +1638,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T07:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1630,6 +1649,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T04:50:00+00:00",
    "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -1642,7 +1662,8 @@
    "field": "code",
    "points": 137,
    "score": 1,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
   },
   {
    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
@@ -1651,6 +1672,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T00:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1661,6 +1683,7 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T00:00:00+00:00",
    "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -1672,7 +1695,8 @@
    "ts": "2026-10-20T22:27:07+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_400x400.jpg"
   },
   {
    "title": "Anthropic logged net loss of over $80B in first half of 2026",
@@ -1682,17 +1706,8 @@
    "ts": "2026-10-20T20:09:46+00:00",
    "field": "",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude designed protein binders against scorpion neurotoxins",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T17:48:29+00:00",
-   "field": "text",
-   "score": 0,
-   "tier": "medium"
+   "tier": "medium",
+   "image": ""
   }
  ]
 }
