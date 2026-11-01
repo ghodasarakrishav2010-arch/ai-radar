@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:58:45+00:00",
+ "updated": "2026-11-01T13:18:45+00:00",
  "sources": [
   {
    "source": "Hugging Face",
@@ -8,8 +8,8 @@
   },
   {
    "source": "Google DeepMind",
-   "ok": true,
-   "items": 100
+   "ok": false,
+   "error": "not well-formed (invalid token): line 1, column 0"
   },
   {
    "source": "OpenAI",

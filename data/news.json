@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:58:45+00:00",
+ "updated": "2026-11-01T13:18:45+00:00",
  "items": [
   {
    "title": "ChatGPT and Codex usage limits merging",
@@ -8,9 +8,9 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:49:07+00:00",
    "field": "code",
-   "points": 57,
+   "points": 183,
    "image": "",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -20,7 +20,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:07:58+00:00",
    "field": "video",
-   "points": 126,
+   "points": 157,
    "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
    "score": 1,
    "tier": "medium"
@@ -32,9 +32,9 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 288,
+   "points": 395,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
-   "score": 3,
+   "score": 4,
    "tier": "top"
   },
   {
@@ -44,7 +44,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 241,
+   "points": 249,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -68,7 +68,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:00+00:00",
    "field": "video",
-   "points": 69,
+   "points": 71,
    "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -80,7 +80,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:58:29+00:00",
    "field": "text",
-   "points": 72,
+   "points": 87,
    "image": "https://opengraph.githubassets.com/3e883a515dbf0a6380d9c891423cdce772fa756332e79d1bf39714243f7ad094/kerlenton/bootgpt",
    "score": 1,
    "tier": "medium"
@@ -92,7 +92,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:32:10+00:00",
    "field": "",
-   "points": 51,
+   "points": 53,
    "image": "https://substackcdn.com/image/fetch/$s_!ZgR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37133ce1-424f-47a3-a941-9ca5017b2df7_1694x490.png",
    "score": -2,
    "tier": "medium"
@@ -104,7 +104,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 315,
+   "points": 346,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -127,7 +127,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
    "field": "",
-   "points": 182,
+   "points": 184,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -185,7 +185,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 284,
+   "points": 288,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -242,7 +242,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T11:05:53+00:00",
    "field": "code",
-   "points": 656,
+   "points": 659,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -288,7 +288,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 972,
+   "points": 979,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -651,7 +651,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T12:24:25+00:00",
    "field": "",
-   "points": 255,
+   "points": 260,
    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
    "score": 3,
    "tier": "top"
@@ -878,7 +878,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T22:41:48+00:00",
    "field": "",
-   "points": 181,
+   "points": 182,
    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
    "score": 2,
    "tier": "medium"
@@ -936,7 +936,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T16:35:44+00:00",
    "field": "open-source",
-   "points": 335,
+   "points": 336,
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&w=1200&h=630&q=80&fit=crop&auto=format",
    "video": true,
    "score": 4,
