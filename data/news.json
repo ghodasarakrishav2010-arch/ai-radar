@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T13:18:45+00:00",
+ "updated": "2026-11-01T19:38:28+00:00",
  "items": [
+  {
+   "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+   "source": "Hacker News",
+   "url": "https://huggingface.co/burner22/numbat",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T16:43:36+00:00",
+   "field": "",
+   "points": 34,
+   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/burner22/numbat.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50326727",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T15:45:10+00:00",
+   "field": "open-source",
+   "points": 44,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "ChatGPT and Codex usage limits merging",
    "source": "Hacker News",
@@ -8,7 +32,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:49:07+00:00",
    "field": "code",
-   "points": 183,
+   "points": 207,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -20,7 +44,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:07:58+00:00",
    "field": "video",
-   "points": 157,
+   "points": 174,
    "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
    "score": 1,
    "tier": "medium"
@@ -32,7 +56,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 395,
+   "points": 436,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -44,7 +68,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 249,
+   "points": 253,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -68,7 +92,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:00+00:00",
    "field": "video",
-   "points": 71,
+   "points": 72,
    "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -80,7 +104,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:58:29+00:00",
    "field": "text",
-   "points": 87,
+   "points": 90,
    "image": "https://opengraph.githubassets.com/3e883a515dbf0a6380d9c891423cdce772fa756332e79d1bf39714243f7ad094/kerlenton/bootgpt",
    "score": 1,
    "tier": "medium"
@@ -104,7 +128,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 346,
+   "points": 357,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -127,7 +151,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
    "field": "",
-   "points": 184,
+   "points": 185,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -150,7 +174,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T23:08:12+00:00",
    "field": "",
-   "points": 100,
+   "points": 101,
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
    "score": -3,
    "tier": "medium"
@@ -173,7 +197,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
    "field": "",
-   "points": 323,
+   "points": 324,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -185,7 +209,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 288,
+   "points": 291,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -230,7 +254,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T14:22:52+00:00",
    "field": "video",
-   "points": 124,
+   "points": 125,
    "image": "https://pbs.twimg.com/media/HV3D_otWQAAicKf?format=webp&name=large",
    "score": 1,
    "tier": "medium"
@@ -242,7 +266,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T11:05:53+00:00",
    "field": "code",
-   "points": 659,
+   "points": 660,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -288,7 +312,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 979,
+   "points": 987,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -482,7 +506,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T09:06:12+00:00",
    "field": "code",
-   "points": 33,
+   "points": 34,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -516,7 +540,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T03:33:42+00:00",
    "field": "code",
-   "points": 584,
+   "points": 585,
    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
    "score": 4,
    "tier": "top"
@@ -595,7 +619,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T17:01:23+00:00",
    "field": "text",
-   "points": 1013,
+   "points": 1016,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -651,7 +675,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T12:24:25+00:00",
    "field": "",
-   "points": 260,
+   "points": 262,
    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
    "score": 3,
    "tier": "top"
@@ -912,7 +936,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T21:24:18+00:00",
    "field": "",
-   "points": 361,
+   "points": 362,
    "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
    "score": 3,
    "tier": "top"
@@ -1688,29 +1712,6 @@
    "image": "",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Using Claude to reduce the attack surface of code",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T03:36:43+00:00",
-   "field": "code",
-   "points": 137,
-   "score": 1,
-   "tier": "medium",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
-  },
-  {
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
   }
  ]
 }
