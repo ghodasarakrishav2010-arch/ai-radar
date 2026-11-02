@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:42:59+00:00",
+ "updated": "2026-11-02T10:59:09+00:00",
  "items": [
   {
    "title": "So I guess everyone uses LLMs to think now",
@@ -8,7 +8,19 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 61,
+   "points": 71,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+   "source": "Hacker News",
+   "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T17:01:34+00:00",
+   "field": "",
+   "points": 54,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -44,7 +56,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:49:07+00:00",
    "field": "code",
-   "points": 215,
+   "points": 226,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -56,7 +68,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:07:58+00:00",
    "field": "video",
-   "points": 180,
+   "points": 188,
    "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
    "score": 1,
    "tier": "medium"
@@ -68,7 +80,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 454,
+   "points": 471,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -80,7 +92,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:41:44+00:00",
    "field": "video",
-   "points": 30,
+   "points": 31,
    "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
    "score": 1,
    "tier": "medium"
@@ -92,7 +104,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 256,
+   "points": 259,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -128,9 +140,9 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:58:29+00:00",
    "field": "text",
-   "points": 95,
+   "points": 102,
    "image": "https://opengraph.githubassets.com/3e883a515dbf0a6380d9c891423cdce772fa756332e79d1bf39714243f7ad094/kerlenton/bootgpt",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -152,7 +164,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 357,
+   "points": 359,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -221,7 +233,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
    "field": "",
-   "points": 324,
+   "points": 325,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -284,6 +296,17 @@
    "tier": "medium"
   },
   {
+   "title": "Speeding up planning decisions with AI",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:18:30+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Backdoors in official Claude Code extensions",
    "source": "Hacker News",
    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
@@ -336,7 +359,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 991,
+   "points": 1002,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -484,7 +507,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T14:57:55+00:00",
    "field": "audio",
-   "points": 605,
+   "points": 606,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -530,7 +553,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T09:06:12+00:00",
    "field": "code",
-   "points": 34,
+   "points": 35,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -564,7 +587,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T03:33:42+00:00",
    "field": "code",
-   "points": 585,
+   "points": 588,
    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
    "score": 4,
    "tier": "top"
@@ -847,7 +870,7 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T15:28:26+00:00",
    "field": "text",
-   "points": 605,
+   "points": 606,
    "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
    "score": 2,
    "tier": "medium"
@@ -1692,28 +1715,6 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:30:40+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
   }
  ]
 }
