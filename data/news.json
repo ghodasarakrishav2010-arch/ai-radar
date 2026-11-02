@@ -1,6 +1,135 @@
 {
- "updated": "2026-11-02T10:59:09+00:00",
+ "updated": "2026-11-02T21:41:36+00:00",
  "items": [
+  {
+   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:36:37+00:00",
+   "field": "",
+   "points": 63,
+   "image": "",
+   "score": -2,
+   "tier": "medium"
+  },
+  {
+   "title": "Astra can read and write weights to improve Qwen",
+   "source": "Hacker News",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:21:28+00:00",
+   "field": "open-source",
+   "points": 1198,
+   "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "source": "Hacker News",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T16:40:29+00:00",
+   "field": "",
+   "points": 242,
+   "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+   "source": "Hacker News",
+   "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T16:25:33+00:00",
+   "field": "text",
+   "points": 66,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing the Grid Protectors Program",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "GPT-Rosalind-6 System Card Addendum",
+   "source": "Hacker News",
+   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:44:02+00:00",
+   "field": "text",
+   "points": 58,
+   "image": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "source": "Hacker News",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:40:05+00:00",
+   "field": "",
+   "points": 144,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:38:45+00:00",
+   "field": "",
+   "points": 220,
+   "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
+   "score": -1,
+   "tier": "medium"
+  },
+  {
+   "title": "LifeVal",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/lifeval",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T09:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "In LLM era, can software startup survive?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50331001",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T23:28:46+00:00",
+   "field": "text",
+   "points": 34,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "So I guess everyone uses LLMs to think now",
    "source": "Hacker News",
@@ -8,7 +137,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 71,
+   "points": 77,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -20,7 +149,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T17:01:34+00:00",
    "field": "",
-   "points": 54,
+   "points": 90,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -56,7 +185,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:49:07+00:00",
    "field": "code",
-   "points": 226,
+   "points": 233,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -68,7 +197,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:07:58+00:00",
    "field": "video",
-   "points": 188,
+   "points": 196,
    "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
    "score": 1,
    "tier": "medium"
@@ -80,7 +209,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 471,
+   "points": 488,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -104,7 +233,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 259,
+   "points": 260,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -128,7 +257,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:00+00:00",
    "field": "video",
-   "points": 73,
+   "points": 74,
    "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -140,7 +269,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:58:29+00:00",
    "field": "text",
-   "points": 102,
+   "points": 105,
    "image": "https://opengraph.githubassets.com/3e883a515dbf0a6380d9c891423cdce772fa756332e79d1bf39714243f7ad094/kerlenton/bootgpt",
    "score": 2,
    "tier": "medium"
@@ -164,7 +293,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 359,
+   "points": 361,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -187,7 +316,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T03:22:44+00:00",
    "field": "",
-   "points": 186,
+   "points": 187,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -210,7 +339,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T23:08:12+00:00",
    "field": "",
-   "points": 102,
+   "points": 104,
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
    "score": -3,
    "tier": "medium"
@@ -233,7 +362,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T17:27:25+00:00",
    "field": "",
-   "points": 325,
+   "points": 326,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -245,7 +374,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 292,
+   "points": 294,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -290,7 +419,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T14:22:52+00:00",
    "field": "video",
-   "points": 125,
+   "points": 126,
    "image": "https://pbs.twimg.com/media/HV3D_otWQAAicKf?format=webp&name=large",
    "score": 1,
    "tier": "medium"
@@ -319,16 +448,16 @@
    "tier": "medium"
   },
   {
-   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+   "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops",
    "source": "Hacker News",
    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "date": "2026-10-30",
-   "ts": "2026-10-30T10:22:51+00:00",
-   "field": "code",
-   "points": 399,
+   "ts": "2026-10-30T10:47:06+00:00",
+   "field": "text",
+   "points": 35,
    "image": "",
-   "score": 3,
-   "tier": "top"
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Making it easier for websites to express AI training preferences",
@@ -359,7 +488,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 1002,
+   "points": 1007,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -484,7 +613,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T15:56:32+00:00",
    "field": "",
-   "points": 78,
+   "points": 79,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -666,7 +795,7 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T17:01:23+00:00",
    "field": "text",
-   "points": 1017,
+   "points": 1018,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -1007,7 +1136,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T16:35:44+00:00",
    "field": "open-source",
-   "points": 336,
+   "points": 337,
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&w=1200&h=630&q=80&fit=crop&auto=format",
    "video": true,
    "score": 4,
@@ -1592,128 +1721,6 @@
    "points": 49,
    "image": "https://www.anthropic.com/images/mission/share.jpg",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T17:35:36+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/att-legal",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T17:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-   "source": "Hacker News",
-   "url": "https://github.com/omnara-ai/omnara",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T16:44:53+00:00",
-   "field": "open-source",
-   "points": 114,
-   "image": "https://repository-images.githubusercontent.com/1016411413/ed725ee5-25c6-40a2-b2a5-1ffd4749afbe",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T16:04:43+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "I told people I'm a convicted felon after 20 years of hiding it",
-   "source": "Hacker News",
-   "url": "https://buford.bg/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:46:43+00:00",
-   "field": "",
-   "score": 0,
-   "tier": "medium",
-   "image": "https://buford.bg/images/buford-portrait.jpg"
-  },
-  {
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T13:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-   "source": "Hacker News",
-   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T12:22:39+00:00",
-   "field": "code",
-   "score": 0,
-   "tier": "medium",
-   "image": "https://cdn.prod.website-files.com/660fce732403d63a75c55289/6ad7819dd5fa2641cf6f79fa_qwen3-coder-01-gap-closed.png"
-  },
-  {
-   "title": "OpenAI models are coming to Google Cloud",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T12:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:50:37+00:00",
-   "field": "",
-   "score": 2,
-   "tier": "medium",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg"
-  },
-  {
-   "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:45:17+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GoogleCloud-VeraRubin-1920x1080-1.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:30:41+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
-   "score": 2,
    "tier": "medium"
   }
  ]
