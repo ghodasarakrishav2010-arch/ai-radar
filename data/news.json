@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-03T06:44:18+00:00",
+ "updated": "2026-11-03T17:01:17+00:00",
  "items": [
+  {
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T16:35:36+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
+   "score": 4,
+   "tier": "top"
+  },
+  {
+   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T16:00:45+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50352757",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T14:53:41+00:00",
+   "field": "code",
+   "points": 84,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "source": "Hacker News",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T12:21:17+00:00",
+   "field": "open-source",
+   "points": 641,
+   "image": "https://honnibal.dev/social.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+   "source": "Hacker News",
+   "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T11:16:07+00:00",
+   "field": "",
+   "points": 71,
+   "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-03-image-7.jpg",
+   "score": -2,
+   "tier": "medium"
+  },
+  {
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/heimstaden",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T07:00:12+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Transformers Model Integration Contracts",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Anthropic's growth just flattened",
    "source": "Hacker News",
@@ -8,7 +99,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:33:20+00:00",
    "field": "",
-   "points": 198,
+   "points": 225,
    "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
    "score": 1,
    "tier": "medium"
@@ -20,9 +111,9 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 290,
+   "points": 384,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
-   "score": -1,
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -32,9 +123,9 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 56,
+   "points": 124,
    "image": "",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -44,7 +135,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T19:36:37+00:00",
    "field": "",
-   "points": 71,
+   "points": 74,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -56,7 +147,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2368,
+   "points": 2894,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -68,20 +159,9 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:15:01+00:00",
    "field": "",
-   "points": 31,
+   "points": 35,
    "image": "",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Rewarding defenders with bigger bug bounties",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
    "tier": "medium"
   },
   {
@@ -96,13 +176,24 @@
    "tier": "medium"
   },
   {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
    "source": "Hacker News",
    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "date": "2026-11-02",
    "ts": "2026-11-02T16:40:29+00:00",
    "field": "",
-   "points": 311,
+   "points": 341,
    "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
    "score": 2,
    "tier": "medium"
@@ -114,9 +205,9 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:25:33+00:00",
    "field": "text",
-   "points": 94,
+   "points": 105,
    "image": "",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -148,7 +239,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:44:02+00:00",
    "field": "text",
-   "points": 66,
+   "points": 71,
    "image": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
    "score": 0,
    "tier": "medium"
@@ -160,7 +251,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:40:05+00:00",
    "field": "",
-   "points": 172,
+   "points": 185,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -172,7 +263,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:45+00:00",
    "field": "",
-   "points": 229,
+   "points": 234,
    "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
    "score": -1,
    "tier": "medium"
@@ -184,7 +275,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:18+00:00",
    "field": "",
-   "points": 40,
+   "points": 50,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -195,6 +286,17 @@
    "url": "https://openai.com/index/lifeval",
    "date": "2026-11-02",
    "ts": "2026-11-02T09:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
    "field": "",
    "image": "",
    "score": 2,
@@ -212,24 +314,13 @@
    "tier": "top"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "In LLM era, can software startup survive?",
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50331001",
    "date": "2026-11-01",
    "ts": "2026-11-01T23:28:46+00:00",
    "field": "text",
-   "points": 34,
+   "points": 36,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -241,7 +332,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 78,
+   "points": 79,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -253,7 +344,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T17:01:34+00:00",
    "field": "",
-   "points": 90,
+   "points": 92,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -277,7 +368,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T15:45:10+00:00",
    "field": "open-source",
-   "points": 45,
+   "points": 46,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -313,7 +404,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 489,
+   "points": 491,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -373,7 +464,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:58:29+00:00",
    "field": "text",
-   "points": 105,
+   "points": 107,
    "image": "https://opengraph.githubassets.com/3e883a515dbf0a6380d9c891423cdce772fa756332e79d1bf39714243f7ad094/kerlenton/bootgpt",
    "score": 2,
    "tier": "medium"
@@ -397,7 +488,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 361,
+   "points": 364,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -478,7 +569,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 295,
+   "points": 297,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -820,7 +911,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T03:33:42+00:00",
    "field": "code",
-   "points": 588,
+   "points": 589,
    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
    "score": 4,
    "tier": "top"
@@ -1630,97 +1721,6 @@
    "field": "",
    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-   "source": "Hacker News",
-   "url": "https://github.com/dsmurrell/onkey",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:04:44+00:00",
-   "field": "",
-   "score": 0,
-   "tier": "medium",
-   "image": "https://repository-images.githubusercontent.com/1424878564/24f58d68-d92e-493a-8534-6564902cb5a4"
-  },
-  {
-   "title": "Achieving AI-style reasoning without an LLM",
-   "source": "Hacker News",
-   "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T08:46:58+00:00",
-   "field": "text",
-   "points": 48,
-   "image": "https://fleetingswallow.com/wp-content/uploads/2026/10/Minotaur-Surfer-in-a-Turquoise-Barrel-1024x683.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Ensemble forecasting with IBM Granite time-series models",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T07:51:31+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "What FDE means at OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T06:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "OpenAI CLI",
-   "source": "Hacker News",
-   "url": "https://github.com/openai/openai-cli",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:23:11+00:00",
-   "field": "",
-   "points": 244,
-   "image": "https://opengraph.githubassets.com/92a48ba88ce9735e76901751d3cac97cd141e043096a4e4df8bd238357198c02/openai/openai-cli",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:56+00:00",
-   "field": "",
-   "score": 3,
-   "tier": "top",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg"
-  },
-  {
-   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:27+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
-   "video": true,
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/dsx-power/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:25+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
-   "score": 1,
    "tier": "medium"
   }
  ]
