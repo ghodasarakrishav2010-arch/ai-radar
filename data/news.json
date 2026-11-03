@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-02T21:41:36+00:00",
+ "updated": "2026-11-03T06:44:18+00:00",
  "items": [
+  {
+   "title": "Anthropic's growth just flattened",
+   "source": "Hacker News",
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T22:33:20+00:00",
+   "field": "",
+   "points": 198,
+   "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "source": "Hacker News",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T22:30:47+00:00",
+   "field": "",
+   "points": 290,
+   "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
+   "score": -1,
+   "tier": "medium"
+  },
+  {
+   "title": "LLMs are not superhuman at reading and writing neural network weights",
+   "source": "Hacker News",
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T22:26:53+00:00",
+   "field": "",
+   "points": 56,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
    "source": "Hacker News",
@@ -8,7 +44,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T19:36:37+00:00",
    "field": "",
-   "points": 63,
+   "points": 71,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -20,8 +56,42 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 1198,
+   "points": 2368,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic's spending commitments surge to nearly $900B",
+   "source": "Hacker News",
+   "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:15:01+00:00",
+   "field": "",
+   "points": 31,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:00:00+00:00",
+   "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -32,9 +102,9 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:40:29+00:00",
    "field": "",
-   "points": 242,
+   "points": 311,
    "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -44,9 +114,20 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:25:33+00:00",
    "field": "text",
-   "points": 66,
+   "points": 94,
    "image": "",
    "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Scaling Git at OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:30:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -67,7 +148,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:44:02+00:00",
    "field": "text",
-   "points": 58,
+   "points": 66,
    "image": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
    "score": 0,
    "tier": "medium"
@@ -79,7 +160,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:40:05+00:00",
    "field": "",
-   "points": 144,
+   "points": 172,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -91,9 +172,21 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:45+00:00",
    "field": "",
-   "points": 220,
+   "points": 229,
    "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
    "score": -1,
+   "tier": "medium"
+  },
+  {
+   "title": "Ask HN: What hardware are you using to run local LLMs?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50337431",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:38:18+00:00",
+   "field": "",
+   "points": 40,
+   "image": "",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -119,6 +212,17 @@
    "tier": "top"
   },
   {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "In LLM era, can software startup survive?",
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50331001",
@@ -137,7 +241,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 77,
+   "points": 78,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -161,7 +265,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T16:43:36+00:00",
    "field": "",
-   "points": 35,
+   "points": 36,
    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/burner22/numbat.png",
    "score": 0,
    "tier": "medium"
@@ -209,7 +313,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 488,
+   "points": 489,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -233,7 +337,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 260,
+   "points": 261,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -374,7 +478,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 294,
+   "points": 295,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -442,7 +546,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T11:05:53+00:00",
    "field": "code",
-   "points": 661,
+   "points": 662,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -488,7 +592,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 1007,
+   "points": 1008,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -1149,7 +1253,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T16:12:29+00:00",
    "field": "open-source",
-   "points": 177,
+   "points": 179,
    "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
    "score": 2,
    "tier": "medium"
@@ -1617,110 +1721,6 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:23+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:19+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
-   "video": true,
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T05:00:02+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Now Works with Google Docs, Sheets, and Slides",
-   "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T02:17:58+00:00",
-   "field": "text",
-   "points": 91,
-   "image": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides/opengraph-image/og",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Broad access through consistent standards",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T21:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Duet",
-   "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/claude-duet",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T19:40:18+00:00",
-   "field": "text",
-   "points": 93,
-   "score": 0,
-   "tier": "medium",
-   "image": "https://claude.com/resources/articles/claude-duet/opengraph-image/og"
-  },
-  {
-   "title": "Mistral Large 4",
-   "source": "Hacker News",
-   "url": "https://mistral.ai/news/mistral-large-4/",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T19:20:55+00:00",
-   "field": "open-source",
-   "points": 327,
-   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic's Public Benefit Charter",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/public-benefit-charter",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T18:29:54+00:00",
-   "field": "",
-   "points": 49,
-   "image": "https://www.anthropic.com/images/mission/share.jpg",
-   "score": 0,
    "tier": "medium"
   }
  ]
