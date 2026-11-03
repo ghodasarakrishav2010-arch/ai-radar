@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-03T17:01:17+00:00",
+ "updated": "2026-11-03T23:20:15+00:00",
  "items": [
+  {
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "source": "Hacker News",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T17:40:00+00:00",
+   "field": "open-source",
+   "points": 433,
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T17:15:21+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Palette: teaching a small model to build decks in your design language",
    "source": "Hugging Face",
@@ -24,16 +47,28 @@
    "tier": "medium"
   },
   {
+   "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+   "source": "Hacker News",
+   "url": "https://concepts.laxmena.com/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T15:48:35+00:00",
+   "field": "text",
+   "points": 38,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50352757",
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 84,
+   "points": 414,
    "image": "",
-   "score": 2,
-   "tier": "medium"
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
@@ -42,8 +77,19 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 641,
+   "points": 859,
    "image": "https://honnibal.dev/social.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Accelerating engineering for the physical world",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T12:00:00+00:00",
+   "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -54,9 +100,20 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T11:16:07+00:00",
    "field": "",
-   "points": 71,
+   "points": 78,
    "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-03-image-7.jpg",
    "score": -2,
+   "tier": "medium"
+  },
+  {
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -82,6 +139,17 @@
    "tier": "medium"
   },
   {
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Transformers Model Integration Contracts",
    "source": "Hugging Face",
    "url": "https://huggingface.co/blog/transformers-mic",
@@ -93,13 +161,24 @@
    "tier": "top"
   },
   {
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Anthropic's growth just flattened",
    "source": "Hacker News",
    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
    "date": "2026-11-02",
    "ts": "2026-11-02T22:33:20+00:00",
    "field": "",
-   "points": 225,
+   "points": 227,
    "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
    "score": 1,
    "tier": "medium"
@@ -111,7 +190,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 384,
+   "points": 397,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
    "score": 0,
    "tier": "medium"
@@ -123,7 +202,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 124,
+   "points": 139,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -147,7 +226,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2894,
+   "points": 2921,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -193,7 +272,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:40:29+00:00",
    "field": "",
-   "points": 341,
+   "points": 348,
    "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
    "score": 2,
    "tier": "medium"
@@ -251,7 +330,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:40:05+00:00",
    "field": "",
-   "points": 185,
+   "points": 187,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -263,7 +342,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:45+00:00",
    "field": "",
-   "points": 234,
+   "points": 236,
    "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
    "score": -1,
    "tier": "medium"
@@ -320,7 +399,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T23:28:46+00:00",
    "field": "text",
-   "points": 36,
+   "points": 37,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -404,7 +483,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 491,
+   "points": 492,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -428,7 +507,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T14:29:03+00:00",
    "field": "",
-   "points": 261,
+   "points": 262,
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
    "score": 1,
    "tier": "medium"
@@ -440,7 +519,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T13:25:10+00:00",
    "field": "",
-   "points": 74,
+   "points": 75,
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/anthropic--cathedral-263559161-16x9_0.png?VersionId=hngQNnOgez44Zv0vMDM35oEeCVLPJGZC",
    "score": 0,
    "tier": "medium"
@@ -683,7 +762,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 1008,
+   "points": 1009,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -978,6 +1057,17 @@
    "url": "https://openai.com/index/credit-saison",
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "source": "OpenAI",
+   "url": "https://openai.com/ads/customers/evernote",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T19:40:49+00:00",
    "field": "",
    "image": "",
    "score": 2,
@@ -1313,6 +1403,17 @@
    "tier": "top"
   },
   {
+   "title": "Introducing GPT-6.1 Terra",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T18:00:00+00:00",
+   "field": "text",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
    "title": "GPT 6.1 Terra",
    "source": "Hacker News",
    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
@@ -1344,7 +1445,7 @@
    "date": "2026-10-26",
    "ts": "2026-10-26T16:12:29+00:00",
    "field": "open-source",
-   "points": 179,
+   "points": 180,
    "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
    "score": 2,
    "tier": "medium"
@@ -1427,17 +1528,6 @@
    "image": "https://shattered.io/wp-content/uploads/2026/10/microsoft-decision-1-qwen3-5-9b-model-2026-gen.jpg",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "Introducing GPT-6.1 Terra",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T00:00:00+00:00",
-   "field": "text",
-   "image": "",
-   "score": 3,
-   "tier": "top"
   },
   {
    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -1629,97 +1719,6 @@
    "ts": "2026-10-23T00:00:00+00:00",
    "field": "text",
    "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T22:54:43+00:00",
-   "field": "",
-   "points": 473,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T22:24:34+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50200997",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T21:03:55+00:00",
-   "field": "",
-   "points": 681,
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Build more responsive apps with the Decisions API",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/decisions-api",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T19:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "source": "Hacker News",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T16:08:00+00:00",
-   "field": "",
-   "points": 667,
-   "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=xakbss",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T15:00:02+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:30:24+00:00",
-   "field": "",
-   "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
    "score": 2,
    "tier": "medium"
   }
