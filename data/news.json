@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:20:15+00:00",
+ "updated": "2026-11-04T06:15:32+00:00",
  "items": [
   {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -8,7 +8,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 433,
+   "points": 559,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -53,7 +53,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T15:48:35+00:00",
    "field": "text",
-   "points": 38,
+   "points": 40,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -65,10 +65,22 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 414,
+   "points": 464,
    "image": "",
    "score": 4,
    "tier": "top"
+  },
+  {
+   "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+   "source": "Hacker News",
+   "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T13:26:43+00:00",
+   "field": "",
+   "points": 30,
+   "image": "",
+   "score": -2,
+   "tier": "medium"
   },
   {
    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
@@ -77,7 +89,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 859,
+   "points": 950,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -100,7 +112,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T11:16:07+00:00",
    "field": "",
-   "points": 78,
+   "points": 81,
    "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-03-image-7.jpg",
    "score": -2,
    "tier": "medium"
@@ -202,7 +214,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 139,
+   "points": 142,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -226,7 +238,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2921,
+   "points": 2927,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -272,7 +284,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:40:29+00:00",
    "field": "",
-   "points": 348,
+   "points": 351,
    "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
    "score": 2,
    "tier": "medium"
@@ -330,7 +342,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:40:05+00:00",
    "field": "",
-   "points": 187,
+   "points": 188,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -342,7 +354,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:45+00:00",
    "field": "",
-   "points": 236,
+   "points": 237,
    "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
    "score": -1,
    "tier": "medium"
@@ -371,17 +383,6 @@
    "tier": "medium"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Qodo builds context into AI code review with Codex",
    "source": "OpenAI",
    "url": "https://openai.com/index/qodo-codex-plugin",
@@ -391,6 +392,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -435,7 +447,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T16:43:36+00:00",
    "field": "",
-   "points": 36,
+   "points": 37,
    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/burner22/numbat.png",
    "score": 0,
    "tier": "medium"
@@ -555,7 +567,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T12:32:10+00:00",
    "field": "",
-   "points": 53,
+   "points": 54,
    "image": "https://substackcdn.com/image/fetch/$s_!ZgR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37133ce1-424f-47a3-a941-9ca5017b2df7_1694x490.png",
    "score": -2,
    "tier": "medium"
@@ -567,7 +579,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T10:30:11+00:00",
    "field": "",
-   "points": 364,
+   "points": 365,
    "image": "https://www.parameter.ai/opengraph-image.png",
    "score": 2,
    "tier": "medium"
@@ -762,7 +774,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 1009,
+   "points": 1010,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -1710,17 +1722,6 @@
    "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/anima",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T00:00:00+00:00",
-   "field": "text",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
   }
  ]
 }
