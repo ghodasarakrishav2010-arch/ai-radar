@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-04T06:15:32+00:00",
+ "updated": "2026-11-04T14:36:31+00:00",
  "items": [
+  {
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T10:10:27+00:00",
+   "field": "text",
+   "points": 267,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "source": "Hacker News",
+   "url": "https://uncracked.city",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T21:20:03+00:00",
+   "field": "text",
+   "points": 93,
+   "image": "https://uncracked.city/og/en.png",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
    "source": "Hacker News",
@@ -8,7 +32,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 559,
+   "points": 679,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -23,6 +47,17 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T17:01:49+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Palette: teaching a small model to build decks in your design language",
@@ -53,7 +88,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T15:48:35+00:00",
    "field": "text",
-   "points": 40,
+   "points": 41,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -65,7 +100,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 464,
+   "points": 502,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -89,7 +124,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 950,
+   "points": 1003,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -112,7 +147,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T11:16:07+00:00",
    "field": "",
-   "points": 81,
+   "points": 84,
    "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-03-image-7.jpg",
    "score": -2,
    "tier": "medium"
@@ -148,6 +183,18 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
    "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Mass attempted replication of old findings of LLMs with new models",
+   "source": "Hacker News",
+   "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T03:41:29+00:00",
+   "field": "",
+   "points": 30,
+   "image": "https://zou-group.github.io/llm-claims-shelf-life/preview.png",
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -202,7 +249,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 397,
+   "points": 400,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
    "score": 0,
    "tier": "medium"
@@ -214,7 +261,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 142,
+   "points": 145,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -238,7 +285,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2927,
+   "points": 2933,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -284,7 +331,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T16:40:29+00:00",
    "field": "",
-   "points": 351,
+   "points": 352,
    "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
    "score": 2,
    "tier": "medium"
@@ -423,7 +470,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 79,
+   "points": 80,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -471,7 +518,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:49:07+00:00",
    "field": "code",
-   "points": 233,
+   "points": 234,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1677,51 +1724,6 @@
    "score": 0,
    "tier": "medium",
    "image": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp"
-  },
-  {
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "source": "Hacker News",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T11:39:54+00:00",
-   "field": "text",
-   "points": 324,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Securing our frontier model training environment",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T10:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Kazakhstan Expands Compute for Its AI Future",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T02:00:13+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Does Your Model Run on AWS Trainium? Look It Up",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T00:00:00+00:00",
-   "field": "",
-   "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
-   "score": 3,
-   "tier": "top"
   }
  ]
 }
