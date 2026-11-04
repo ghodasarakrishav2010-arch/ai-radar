@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-04T14:36:31+00:00",
+ "updated": "2026-11-04T21:19:07+00:00",
  "sources": [
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 896
+   "items": 897
   },
   {
    "source": "Google DeepMind",
-   "ok": true,
-   "items": 100
+   "ok": false,
+   "error": "not well-formed (invalid token): line 1, column 0"
   },
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 1354
+   "items": 1356
   },
   {
    "source": "NVIDIA",
@@ -24,9 +24,9 @@
   {
    "source": "Hacker News",
    "ok": true,
-   "items": 121,
+   "items": 124,
    "failed_queries": 0
   }
  ],
- "with_picture": 79
+ "with_picture": 78
 }
