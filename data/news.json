@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-05T06:42:18+00:00",
+ "updated": "2026-11-05T17:23:14+00:00",
  "items": [
+  {
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T17:05:16+00:00",
+   "field": "text",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T17:00:35+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "video": true,
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:00:05+00:00",
+   "field": "open-source",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Chris-Alexiuk_portrait-1280-720.png",
+   "video": true,
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:00:00+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T14:00:34+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "source": "Hacker News",
+   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T07:44:30+00:00",
+   "field": "text",
+   "points": 163,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T02:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T00:00:00+00:00",
+   "field": "audio",
+   "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
    "source": "Hugging Face",
@@ -19,7 +110,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 83,
+   "points": 94,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -31,7 +122,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:17:46+00:00",
    "field": "",
-   "points": 206,
+   "points": 235,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
    "score": 3,
    "tier": "top"
@@ -43,9 +134,9 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 257,
+   "points": 479,
    "image": "",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -66,7 +157,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 652,
+   "points": 691,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -122,7 +213,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T21:20:03+00:00",
    "field": "text",
-   "points": 124,
+   "points": 127,
    "image": "https://uncracked.city/og/en.png",
    "score": 1,
    "tier": "medium"
@@ -134,7 +225,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 722,
+   "points": 731,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -202,7 +293,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 518,
+   "points": 521,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -226,7 +317,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1029,
+   "points": 1034,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -351,7 +442,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 404,
+   "points": 405,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
    "score": 0,
    "tier": "medium"
@@ -363,7 +454,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 147,
+   "points": 148,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -387,7 +478,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2947,
+   "points": 2949,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -405,9 +496,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -416,9 +507,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -532,17 +623,6 @@
    "tier": "medium"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Qodo builds context into AI code review with Codex",
    "source": "OpenAI",
    "url": "https://openai.com/index/qodo-codex-plugin",
@@ -552,6 +632,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -644,7 +735,7 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T19:39:19+00:00",
    "field": "",
-   "points": 492,
+   "points": 493,
    "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
    "score": 4,
    "tier": "top"
@@ -1028,18 +1119,6 @@
    "image": "",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T16:00:35+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
-   "video": true,
-   "score": 2,
-   "tier": "medium"
   },
   {
    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
@@ -1644,86 +1723,6 @@
    "image": "",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "ChatGPT’s expanding world of work",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/openai-cut-incident-investigation",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-   "source": "Hacker News",
-   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T03:12:05+00:00",
-   "field": "open-source",
-   "points": 72,
-   "image": "https://shattered.io/wp-content/uploads/2026/10/microsoft-decision-1-qwen3-5-9b-model-2026-gen.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "source": "Hacker News",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T21:11:31+00:00",
-   "field": "text",
-   "points": 443,
-   "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
-   "source": "Hacker News",
-   "url": "https://kevin-wu.ca/blog/qwn/",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T18:00:04+00:00",
-   "field": "open-source",
-   "points": 31,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "What Adobe v ArtCraft teaches us",
-   "source": "Hacker News",
-   "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T15:34:44+00:00",
-   "field": "",
-   "score": 0,
-   "tier": "medium",
-   "image": ""
   }
  ]
 }
