@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:19:07+00:00",
+ "updated": "2026-11-05T06:42:18+00:00",
  "items": [
   {
    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -19,7 +19,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 42,
+   "points": 83,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -31,7 +31,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:17:46+00:00",
    "field": "",
-   "points": 141,
+   "points": 206,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
    "score": 3,
    "tier": "top"
@@ -43,9 +43,9 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 63,
+   "points": 257,
    "image": "",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -66,7 +66,18 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 561,
+   "points": 652,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "A thousand fewer paths to root",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T08:00:00+00:00",
+   "field": "",
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -83,13 +94,35 @@
    "tier": "medium"
   },
   {
+   "title": "Introducing Images 2.6",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T00:00:00+00:00",
+   "field": "image",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T00:00:00+00:00",
+   "field": "text",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
    "source": "Hacker News",
    "url": "https://uncracked.city",
    "date": "2026-11-03",
    "ts": "2026-11-03T21:20:03+00:00",
    "field": "text",
-   "points": 120,
+   "points": 124,
    "image": "https://uncracked.city/og/en.png",
    "score": 1,
    "tier": "medium"
@@ -101,7 +134,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 711,
+   "points": 722,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -169,7 +202,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 516,
+   "points": 518,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -181,7 +214,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T13:26:43+00:00",
    "field": "",
-   "points": 30,
+   "points": 31,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -193,7 +226,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1019,
+   "points": 1029,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -318,7 +351,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 403,
+   "points": 404,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
    "score": 0,
    "tier": "medium"
@@ -330,7 +363,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 146,
+   "points": 147,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -354,7 +387,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2940,
+   "points": 2947,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -372,9 +405,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -383,9 +416,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -482,7 +515,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T14:38:18+00:00",
    "field": "",
-   "points": 51,
+   "points": 52,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -890,7 +923,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T07:09:12+00:00",
    "field": "code",
-   "points": 1010,
+   "points": 1011,
    "image": "https://phorion.io/images/default-social-card.png",
    "score": 2,
    "tier": "medium"
@@ -1118,7 +1151,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T03:33:42+00:00",
    "field": "code",
-   "points": 589,
+   "points": 590,
    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
    "score": 4,
    "tier": "top"
@@ -1691,40 +1724,6 @@
    "score": 0,
    "tier": "medium",
    "image": ""
-  },
-  {
-   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-   "source": "Hacker News",
-   "url": "https://github.com/slee-persis/GVS5H",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T03:56:01+00:00",
-   "field": "",
-   "score": 1,
-   "tier": "medium",
-   "image": "https://opengraph.githubassets.com/5cb88be64db8a026c8d47feadb7dac21f02485fe3a4c87155424981c6ebadd6f/slee-persis/GVS5H"
-  },
-  {
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T01:33:49+00:00",
-   "field": "",
-   "points": 368,
-   "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-   "source": "Hacker News",
-   "url": "https://huggingface.co/destined/hurston-1",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T01:30:13+00:00",
-   "field": "audio",
-   "score": 1,
-   "tier": "medium",
-   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/destined/hurston-1.png"
   }
  ]
 }
