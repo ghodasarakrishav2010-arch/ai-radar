@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-05T17:23:14+00:00",
+ "updated": "2026-11-05T23:37:20+00:00",
  "items": [
+  {
+   "title": "Claude Code sends your email address to websites",
+   "source": "Hacker News",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T22:17:15+00:00",
+   "field": "code",
+   "points": 198,
+   "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+   "source": "Hacker News",
+   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T20:21:43+00:00",
+   "field": "open-source",
+   "points": 63,
+   "image": "https://www.tencent.com/wp-content/uploads/2026/11/H4_thumbnail_4x3-1.png",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T19:35:16+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
    "source": "Google DeepMind",
@@ -59,13 +94,35 @@
    "tier": "medium"
   },
   {
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T09:00:00+00:00",
+   "field": "text",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 4,
+   "tier": "top"
+  },
+  {
    "title": "GPT-6 Astra covertly underperforms on safety research",
    "source": "Hacker News",
    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 163,
+   "points": 274,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -110,9 +167,9 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 94,
+   "points": 101,
    "image": "",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -134,7 +191,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 479,
+   "points": 498,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -157,7 +214,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 691,
+   "points": 705,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -225,7 +282,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 731,
+   "points": 735,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -293,7 +350,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 521,
+   "points": 522,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -317,7 +374,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1034,
+   "points": 1036,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -478,7 +535,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2949,
+   "points": 2950,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -623,17 +680,6 @@
    "tier": "medium"
   },
   {
-   "title": "Qodo builds context into AI code review with Codex",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "code",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
    "source": "OpenAI",
    "url": "https://openai.com/index/dan-driscoll-joins-openai",
@@ -643,6 +689,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -663,7 +720,7 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T21:49:04+00:00",
    "field": "",
-   "points": 80,
+   "points": 81,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -1663,65 +1720,6 @@
    "points": 37,
    "image": "https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Concerning behavior from a popular open-weight AI model",
-   "source": "Hacker News",
-   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T16:35:44+00:00",
-   "field": "open-source",
-   "points": 337,
-   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&w=1200&h=630&q=80&fit=crop&auto=format",
-   "video": true,
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-   "source": "Hacker News",
-   "url": "https://github.com/FrigadeHQ/hob",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T16:12:29+00:00",
-   "field": "open-source",
-   "points": 180,
-   "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Working with academic communities to build scientific understanding",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T14:30:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T13:45:00+00:00",
-   "field": "text",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic S-1",
-   "source": "Hacker News",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T13:04:50+00:00",
-   "field": "",
-   "points": 1709,
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
