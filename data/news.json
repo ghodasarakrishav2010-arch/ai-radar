@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T23:37:20+00:00",
+ "updated": "2026-11-06T06:39:03+00:00",
  "items": [
+  {
+   "title": "Closed AI models dominate the price-performance frontier",
+   "source": "Hacker News",
+   "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T02:49:56+00:00",
+   "field": "",
+   "points": 50,
+   "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T00:31:11+00:00",
+   "field": "",
+   "points": 75,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
   {
    "title": "Claude Code sends your email address to websites",
    "source": "Hacker News",
@@ -8,9 +32,9 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 198,
+   "points": 869,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -22,6 +46,17 @@
    "field": "open-source",
    "points": 63,
    "image": "https://www.tencent.com/wp-content/uploads/2026/11/H4_thumbnail_4x3-1.png",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T20:00:00+00:00",
+   "field": "code",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -56,6 +91,17 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
    "video": true,
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T17:00:00+00:00",
+   "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -122,10 +168,10 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 274,
+   "points": 316,
    "image": "",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Setting a new standard for responsible AI infrastructure",
@@ -139,6 +185,17 @@
    "tier": "medium"
   },
   {
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "source": "OpenAI",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T00:45:15+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
    "source": "Hugging Face",
    "url": "https://huggingface.co/blog/phonon-tts",
@@ -146,6 +203,17 @@
    "ts": "2026-11-05T00:00:00+00:00",
    "field": "audio",
    "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/franklin-templeton",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T00:00:00+00:00",
+   "field": "",
+   "image": "",
    "score": 3,
    "tier": "top"
   },
@@ -167,7 +235,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 101,
+   "points": 103,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -179,7 +247,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:17:46+00:00",
    "field": "",
-   "points": 235,
+   "points": 236,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
    "score": 3,
    "tier": "top"
@@ -191,7 +259,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 498,
+   "points": 517,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -214,7 +282,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 705,
+   "points": 714,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -350,7 +418,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 522,
+   "points": 525,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -535,7 +603,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2950,
+   "points": 2951,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -680,17 +748,6 @@
    "tier": "medium"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Qodo builds context into AI code review with Codex",
    "source": "OpenAI",
    "url": "https://openai.com/index/qodo-codex-plugin",
@@ -700,6 +757,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -1652,75 +1720,6 @@
    "image": "",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-   "source": "Hacker News",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T22:41:48+00:00",
-   "field": "",
-   "points": 182,
-   "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T22:00:00+00:00",
-   "field": "code",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T21:59:15+00:00",
-   "field": "",
-   "score": 0,
-   "tier": "medium",
-   "image": "https://opengraph.githubassets.com/d638f69af4611b08df6d8b3b9fff8bccc58040ffc2c6fae7fff7d90ab9781eb2/openai/math"
-  },
-  {
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "source": "Hacker News",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T21:24:18+00:00",
-   "field": "",
-   "points": 362,
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Introducing GPT-6.1 Terra",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T18:00:00+00:00",
-   "field": "text",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "GPT 6.1 Terra",
-   "source": "Hacker News",
-   "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:58:24+00:00",
-   "field": "text",
-   "points": 37,
-   "image": "https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png",
-   "score": 0,
-   "tier": "medium"
   }
  ]
 }

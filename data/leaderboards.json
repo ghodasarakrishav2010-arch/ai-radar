@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:37:23+00:00",
+ "updated": "2026-11-06T06:39:06+00:00",
  "fields": [
   {
    "id": "text",
@@ -487,157 +487,157 @@
    "source": "Arena text-to-video leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-09-22",
+   "published": "2026-11-05",
    "models": [
     {
-     "name": "gemini-omni-1.1-flash",
+     "name": "Gemini Omni 1.2 Flash",
      "company": "Google",
-     "score": 1516
+     "score": 1541
+    },
+    {
+     "name": "Gemini Omni 1.1 Flash",
+     "company": "Google",
+     "score": 1514
     },
     {
      "name": "gemini-omni-flash",
      "company": "Google",
-     "score": 1513
+     "score": 1509
     },
     {
-     "name": "flux-3-video",
+     "name": "FLUX 3 Video",
      "company": "Bfl",
-     "score": 1493
+     "score": 1491
     },
     {
-     "name": "grok-imagine-video-1.5-agent",
+     "name": "Grok Imagine Video 1.5",
      "company": "xAI",
-     "score": 1492
+     "score": 1486
     },
     {
-     "name": "dreamina-seedance-2.0-720p",
+     "name": "Dreamina Seedance 2.0 (720p)",
      "company": "ByteDance",
-     "score": 1479
+     "score": 1481
     },
     {
-     "name": "wan3.0",
+     "name": "Dreamina Seedance 2.5 (720p)",
+     "company": "ByteDance",
+     "score": 1480
+    },
+    {
+     "name": "Wan 3.0",
      "company": "Alibaba",
-     "score": 1476
+     "score": 1477
     },
     {
-     "name": "dreamina-seedance-2.5-720p",
-     "company": "ByteDance",
-     "score": 1474
+     "name": "SkyReels V4",
+     "company": "Skyreel",
+     "score": 1457
     },
     {
-     "name": "minimax-h3",
-     "company": "MiniMax",
-     "score": 1460
-    },
-    {
-     "name": "muse-video",
+     "name": "Muse Video",
      "company": "Meta",
+     "score": 1457
+    },
+    {
+     "name": "MiniMax H3",
+     "company": "MiniMax",
      "score": 1456
     },
     {
-     "name": "happyhorse-1.0",
+     "name": "HappyHorse 1.0",
      "company": "Aorizon",
-     "score": 1427
+     "score": 1428
     },
     {
-     "name": "sora-2-pro",
+     "name": "Sora 2 Pro",
      "company": "OpenAI",
-     "score": 1368
+     "score": 1367
     },
     {
-     "name": "veo-3.1-audio",
+     "name": "Veo 3.1 (Audio)",
      "company": "Google",
-     "score": 1364
+     "score": 1363
     },
     {
-     "name": "veo-3.1-audio-1080p",
+     "name": "Veo 3.1 (Audio, 1080p)",
      "company": "Google",
-     "score": 1362
+     "score": 1363
     },
     {
-     "name": "veo-3.1-fast-audio",
+     "name": "Veo 3.1 Fast (Audio)",
      "company": "Google",
-     "score": 1362
+     "score": 1361
     },
     {
-     "name": "veo-3.1-fast-audio-1080p",
+     "name": "Veo 3.1 Fast (Audio, 1080p)",
      "company": "Google",
-     "score": 1358
+     "score": 1357
     },
     {
-     "name": "veo-3-fast-audio",
+     "name": "Veo 3 Fast (Audio)",
      "company": "Google",
-     "score": 1348
+     "score": 1347
     },
     {
-     "name": "sora-2",
+     "name": "Sora 2",
      "company": "OpenAI",
      "score": 1343
     },
     {
-     "name": "grok-imagine-video-720p",
+     "name": "Grok Imagine Video (720p)",
      "company": "xAI",
-     "score": 1342
+     "score": 1341
     },
     {
-     "name": "veo-3-audio",
+     "name": "Veo 3 (Audio)",
      "company": "Google",
-     "score": 1340
+     "score": 1341
     },
     {
-     "name": "wan2.7-t2v",
-     "company": "Wan",
+     "name": "Wan 2.7",
+     "company": "Alibaba",
      "score": 1337
     },
     {
-     "name": "wan2.6-t2v",
+     "name": "Wan 2.6",
      "company": "Alibaba",
-     "score": 1327
+     "score": 1324
     },
     {
-     "name": "seedance-v1.5-pro",
+     "name": "Seedance 1.5 Pro",
      "company": "ByteDance",
      "score": 1256
     },
     {
-     "name": "veo-3",
+     "name": "Veo 3",
      "company": "Google",
-     "score": 1254
+     "score": 1255
     },
     {
-     "name": "veo-3-fast",
+     "name": "Veo 3 Fast",
      "company": "Google",
-     "score": 1248
+     "score": 1251
     },
     {
-     "name": "wan2.5-t2v-preview",
+     "name": "Wan 2.5 Preview",
      "company": "Alibaba",
-     "score": 1245
+     "score": 1244
     },
     {
-     "name": "pixverse-v5.6",
+     "name": "PixVerse V5.6",
      "company": "",
-     "score": 1240
+     "score": 1238
     },
     {
-     "name": "runway-gen-4.5",
+     "name": "Runway Gen-4.5",
      "company": "Runway",
-     "score": 1225
+     "score": 1223
     },
     {
-     "name": "kling-2.5-turbo-1080p",
+     "name": "Kling 2.5 Turbo (1080p)",
      "company": "Kling",
      "score": 1220
-    },
-    {
-     "name": "kling-2.6-pro",
-     "company": "Kling",
-     "score": 1216
-    },
-    {
-     "name": "p-video",
-     "company": "",
-     "score": 1207
     }
    ]
   },
