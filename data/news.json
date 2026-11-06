@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-06T06:39:03+00:00",
+ "updated": "2026-11-06T16:44:33+00:00",
  "items": [
+  {
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T16:00:35+00:00",
+   "field": "open-source",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
+   "score": 4,
+   "tier": "top"
+  },
+  {
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T14:00:48+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T13:35:27+00:00",
+   "field": "text",
+   "points": 181,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T09:13:30+00:00",
+   "field": "text",
+   "points": 42,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Closed AI models dominate the price-performance frontier",
    "source": "Hacker News",
@@ -8,7 +54,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T02:49:56+00:00",
    "field": "",
-   "points": 50,
+   "points": 76,
    "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
    "score": 1,
    "tier": "medium"
@@ -20,9 +66,20 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T00:31:11+00:00",
    "field": "",
-   "points": 75,
+   "points": 88,
    "image": "",
    "score": -4,
+   "tier": "medium"
+  },
+  {
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -32,7 +89,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 869,
+   "points": 1455,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -48,6 +105,18 @@
    "image": "https://www.tencent.com/wp-content/uploads/2026/11/H4_thumbnail_4x3-1.png",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "source": "Hacker News",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T20:16:19+00:00",
+   "field": "",
+   "points": 40,
+   "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "Cult.fit builds operational muscle with Codex",
@@ -168,7 +237,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 316,
+   "points": 336,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -235,7 +304,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 103,
+   "points": 108,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -247,7 +316,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:17:46+00:00",
    "field": "",
-   "points": 236,
+   "points": 238,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
    "score": 3,
    "tier": "top"
@@ -259,7 +328,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 517,
+   "points": 535,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -282,7 +351,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 714,
+   "points": 722,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -350,7 +419,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 735,
+   "points": 736,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -418,7 +487,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 525,
+   "points": 527,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -430,7 +499,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T13:26:43+00:00",
    "field": "",
-   "points": 31,
+   "points": 33,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -442,7 +511,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1036,
+   "points": 1038,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -579,7 +648,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 148,
+   "points": 149,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -603,7 +672,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2951,
+   "points": 2955,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -1653,73 +1722,6 @@
    "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T15:00:20+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/retell-ai",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T15:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Is my data used for model training?",
-   "source": "Hacker News",
-   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T13:56:15+00:00",
-   "field": "",
-   "score": 2,
-   "tier": "medium",
-   "image": "https://privacy.claude.com/assets/favicon"
-  },
-  {
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "There are now 5 inference providers for abliterated DeepSeek",
-   "source": "Hacker News",
-   "url": "https://allmodels.io/llm/abliterated",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T04:53:52+00:00",
-   "field": "open-source",
-   "points": 100,
-   "image": "https://allmodels.io/assets/og/llm-abliterated-pixels-v2.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "How Check Point accelerates vulnerability research with Daybreak",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/check-point-daybreak",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
   }
  ]
 }
