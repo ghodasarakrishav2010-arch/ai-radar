@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-06T16:44:33+00:00",
+ "updated": "2026-11-06T23:06:21+00:00",
  "items": [
+  {
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2610.21375",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:03:33+00:00",
+   "field": "",
+   "points": 70,
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic IPO valuation talks drop to $1.3T",
+   "source": "Hacker News",
+   "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T17:21:15+00:00",
+   "field": "",
+   "points": 93,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "source": "Hacker News",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T16:54:36+00:00",
+   "field": "",
+   "points": 184,
+   "image": "",
+   "score": -3,
+   "tier": "medium"
+  },
   {
    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
    "source": "NVIDIA",
@@ -30,9 +66,21 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 181,
+   "points": 278,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+   "source": "Hacker News",
+   "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T12:59:43+00:00",
+   "field": "",
+   "points": 32,
+   "image": "https://www.phoronix.net/image.php?id=2026&image=openai_948_lpe",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -42,9 +90,20 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T09:13:30+00:00",
    "field": "text",
-   "points": 42,
+   "points": 84,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
    "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -66,7 +125,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T00:31:11+00:00",
    "field": "",
-   "points": 88,
+   "points": 89,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -83,13 +142,24 @@
    "tier": "medium"
   },
   {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
    "title": "Claude Code sends your email address to websites",
    "source": "Hacker News",
    "url": "https://github.com/anthropics/claude-code/issues/107757",
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1455,
+   "points": 1544,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -113,7 +183,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 40,
+   "points": 44,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -237,7 +307,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 336,
+   "points": 340,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -304,7 +374,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 108,
+   "points": 109,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -328,7 +398,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 535,
+   "points": 540,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -351,7 +421,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 722,
+   "points": 724,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -648,7 +718,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:26:53+00:00",
    "field": "",
-   "points": 149,
+   "points": 151,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -672,7 +742,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2955,
+   "points": 2956,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -690,9 +760,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -701,9 +771,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -817,17 +887,6 @@
    "tier": "medium"
   },
   {
-   "title": "Qodo builds context into AI code review with Codex",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "code",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
    "source": "OpenAI",
    "url": "https://openai.com/index/dan-driscoll-joins-openai",
@@ -837,6 +896,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -1378,7 +1448,7 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T12:41:56+00:00",
    "field": "text",
-   "points": 338,
+   "points": 339,
    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&auto=format",
    "score": 2,
    "tier": "medium"
@@ -1652,74 +1722,6 @@
    "field": "text",
    "points": 328,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "source": "Hacker News",
-   "url": "https://www.brangus.io/survival-llm",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T19:55:06+00:00",
-   "field": "text",
-   "points": 543,
-   "image": "https://www.brangus.io/survival-llm/social-card.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Build specialized multimodal models with LFM3",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T17:16:52+00:00",
-   "field": "vision",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-   "source": "Hacker News",
-   "url": "https://www.liquid.ai/blog/lfm3",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T17:04:50+00:00",
-   "field": "",
-   "image": "https://www.liquid.ai/og/og-default.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Can we trust LLMs to judge whether a research idea is novel?",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/allenai/novelty-bench",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:12:42+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Genie 4: A new generation of world simulation",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:01:38+00:00",
-   "field": "",
-   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "source": "Hacker News",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T15:28:26+00:00",
-   "field": "text",
-   "points": 606,
-   "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
    "score": 2,
    "tier": "medium"
   }
