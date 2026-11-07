@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:56:07+00:00",
+ "updated": "2026-11-07T12:56:52+00:00",
  "items": [
   {
    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
@@ -8,7 +8,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T22:50:43+00:00",
    "field": "",
-   "points": 84,
+   "points": 89,
    "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
    "score": 0,
    "tier": "medium"
@@ -20,7 +20,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 101,
+   "points": 108,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -44,7 +44,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 265,
+   "points": 284,
    "image": "",
    "score": -3,
    "tier": "medium"
@@ -56,7 +56,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:04:58+00:00",
    "field": "",
-   "points": 34,
+   "points": 35,
    "image": "https://storage.ghost.io/c/b3/b2/b3b26a57-5e5d-4e73-b391-44b83d9ec569/content/images/2026/10/DAF-Web-1.png",
    "score": 0,
    "tier": "medium"
@@ -90,7 +90,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 311,
+   "points": 345,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -114,7 +114,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T09:13:30+00:00",
    "field": "text",
-   "points": 91,
+   "points": 94,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
    "score": 0,
    "tier": "medium"
@@ -183,7 +183,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1563,
+   "points": 1578,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -422,7 +422,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 544,
+   "points": 547,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -445,7 +445,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 724,
+   "points": 726,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -581,7 +581,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 529,
+   "points": 530,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -605,7 +605,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1038,
+   "points": 1039,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -730,7 +730,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T22:30:47+00:00",
    "field": "",
-   "points": 405,
+   "points": 406,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
    "score": 0,
    "tier": "medium"
@@ -766,7 +766,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2957,
+   "points": 2958,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
