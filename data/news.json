@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T23:06:21+00:00",
+ "updated": "2026-11-07T05:56:07+00:00",
  "items": [
+  {
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "source": "Hacker News",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T22:50:43+00:00",
+   "field": "",
+   "points": 84,
+   "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Memorilla: Latent Semantic Memory for LLMs",
    "source": "Hacker News",
@@ -8,9 +20,9 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 70,
+   "points": 101,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -32,9 +44,21 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 184,
+   "points": 265,
    "image": "",
    "score": -3,
+   "tier": "medium"
+  },
+  {
+   "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+   "source": "Hacker News",
+   "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T16:04:58+00:00",
+   "field": "",
+   "points": 34,
+   "image": "https://storage.ghost.io/c/b3/b2/b3b26a57-5e5d-4e73-b391-44b83d9ec569/content/images/2026/10/DAF-Web-1.png",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -66,9 +90,9 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 278,
+   "points": 311,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -78,7 +102,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T12:59:43+00:00",
    "field": "",
-   "points": 32,
+   "points": 33,
    "image": "https://www.phoronix.net/image.php?id=2026&image=openai_948_lpe",
    "score": 0,
    "tier": "medium"
@@ -90,7 +114,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T09:13:30+00:00",
    "field": "text",
-   "points": 84,
+   "points": 91,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
    "score": 0,
    "tier": "medium"
@@ -113,7 +137,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T02:49:56+00:00",
    "field": "",
-   "points": 76,
+   "points": 77,
    "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
    "score": 1,
    "tier": "medium"
@@ -125,7 +149,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T00:31:11+00:00",
    "field": "",
-   "points": 89,
+   "points": 90,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -159,7 +183,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1544,
+   "points": 1563,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -183,7 +207,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 44,
+   "points": 46,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -307,7 +331,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 340,
+   "points": 341,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -374,7 +398,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 109,
+   "points": 111,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -386,7 +410,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:17:46+00:00",
    "field": "",
-   "points": 238,
+   "points": 239,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
    "score": 3,
    "tier": "top"
@@ -398,7 +422,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 540,
+   "points": 544,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -557,7 +581,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 527,
+   "points": 529,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -742,7 +766,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2956,
+   "points": 2957,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -1699,30 +1723,6 @@
    "points": 60,
    "image": "https://neuronpersonas.com/og.png",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T22:23:37+00:00",
-   "field": "text",
-   "points": 51,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Early progress on accelerating drug development with Claude",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:50:42+00:00",
-   "field": "text",
-   "points": 328,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
-   "score": 2,
    "tier": "medium"
   }
  ]
