@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:16:21+00:00",
+ "updated": "2026-11-08T17:54:52+00:00",
  "sources": [
   {
    "source": "Hugging Face",
@@ -24,9 +24,9 @@
   {
    "source": "Hacker News",
    "ok": true,
-   "items": 108,
+   "items": 114,
    "failed_queries": 0
   }
  ],
- "with_picture": 73
+ "with_picture": 74
 }

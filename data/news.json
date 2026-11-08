@@ -1,14 +1,62 @@
 {
- "updated": "2026-11-08T10:16:21+00:00",
+ "updated": "2026-11-08T17:54:52+00:00",
  "items": [
   {
-   "title": "Goodbye Claude, Hello Pi",
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "source": "Hacker News",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T14:49:23+00:00",
+   "field": "",
+   "points": 143,
+   "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
+   "score": -3,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T12:41:25+00:00",
+   "field": "",
+   "points": 33,
+   "image": "",
+   "score": -2,
+   "tier": "medium"
+  },
+  {
+   "title": "Why I will not be using LLMs in my coding",
+   "source": "Hacker News",
+   "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T12:14:10+00:00",
+   "field": "code",
+   "points": 91,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "source": "Hacker News",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T10:22:04+00:00",
+   "field": "open-source",
+   "points": 218,
+   "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Goodbye Claude, hello Pi",
    "source": "Hacker News",
    "url": "https://caleb.software/posts/claude-to-pi.html",
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 316,
+   "points": 567,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -20,7 +68,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 396,
+   "points": 507,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -44,7 +92,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 116,
+   "points": 119,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -68,7 +116,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 317,
+   "points": 318,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -114,7 +162,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 362,
+   "points": 365,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -138,7 +186,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T09:13:30+00:00",
    "field": "text",
-   "points": 101,
+   "points": 103,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0c1a04cc7042949252ee54565755780fe21d5ecf-1200x630.jpg",
    "score": 1,
    "tier": "medium"
@@ -207,7 +255,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1596,
+   "points": 1597,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -446,7 +494,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 557,
+   "points": 560,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -469,7 +517,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 730,
+   "points": 733,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -697,7 +745,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T03:41:29+00:00",
    "field": "",
-   "points": 30,
+   "points": 31,
    "image": "https://zou-group.github.io/llm-claims-shelf-life/preview.png",
    "score": 1,
    "tier": "medium"
@@ -1680,51 +1728,6 @@
    "image": "",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-   "source": "Hacker News",
-   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T12:24:25+00:00",
-   "field": "",
-   "points": 262,
-   "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Tell HN: I'm going on strike this November",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50271808",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T11:21:28+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "The future of the firm",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T10:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Legora is building the agentic operating system for legal work",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/legora",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T09:30:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
   }
  ]
 }
