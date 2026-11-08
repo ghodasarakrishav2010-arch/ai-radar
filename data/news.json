@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T19:24:52+00:00",
+ "updated": "2026-11-08T00:33:15+00:00",
  "items": [
+  {
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "source": "Hacker News",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "date": "2026-11-07",
+   "ts": "2026-11-07T20:45:32+00:00",
+   "field": "code",
+   "points": 125,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T22:50:43+00:00",
    "field": "",
-   "points": 92,
+   "points": 93,
    "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
    "score": 0,
    "tier": "medium"
@@ -20,7 +32,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 114,
+   "points": 115,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -44,7 +56,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 300,
+   "points": 308,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -56,7 +68,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:04:58+00:00",
    "field": "",
-   "points": 37,
+   "points": 39,
    "image": "https://storage.ghost.io/c/b3/b2/b3b26a57-5e5d-4e73-b391-44b83d9ec569/content/images/2026/10/DAF-Web-1.png",
    "score": 0,
    "tier": "medium"
@@ -90,7 +102,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 356,
+   "points": 359,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -183,7 +195,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1586,
+   "points": 1590,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -422,7 +434,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 551,
+   "points": 554,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -445,7 +457,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 728,
+   "points": 729,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -513,7 +525,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 736,
+   "points": 737,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -593,7 +605,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T13:26:43+00:00",
    "field": "",
-   "points": 33,
+   "points": 34,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -605,7 +617,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1039,
+   "points": 1040,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -1710,18 +1722,6 @@
    "ts": "2026-10-28T05:34:16+00:00",
    "field": "",
    "image": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2/images/opengraph-image.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Qwen has alter egos triggered by flipping a single neuron",
-   "source": "Hacker News",
-   "url": "https://qwen-neurons-site.vercel.app/",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T22:42:51+00:00",
-   "field": "open-source",
-   "points": 60,
-   "image": "https://neuronpersonas.com/og.png",
    "score": 0,
    "tier": "medium"
   }
