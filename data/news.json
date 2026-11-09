@@ -1,14 +1,58 @@
 {
- "updated": "2026-11-08T22:01:01+00:00",
+ "updated": "2026-11-09T06:21:23+00:00",
  "items": [
   {
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T05:00:40+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T05:00:39+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T05:00:04+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T05:00:00+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
    "source": "Hacker News",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 452,
+   "points": 695,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -20,7 +64,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T14:49:23+00:00",
    "field": "",
-   "points": 176,
+   "points": 185,
    "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
    "score": -3,
    "tier": "medium"
@@ -32,7 +76,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:41:25+00:00",
    "field": "",
-   "points": 38,
+   "points": 40,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -44,7 +88,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:14:10+00:00",
    "field": "code",
-   "points": 101,
+   "points": 111,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -56,7 +100,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 315,
+   "points": 402,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -68,7 +112,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 647,
+   "points": 728,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -80,9 +124,21 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 556,
+   "points": 599,
    "image": "",
    "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50403153",
+   "date": "2026-11-07",
+   "ts": "2026-11-07T10:01:48+00:00",
+   "field": "",
+   "points": 39,
+   "image": "",
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -104,7 +160,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 123,
+   "points": 124,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -128,7 +184,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 318,
+   "points": 319,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -174,7 +230,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 366,
+   "points": 367,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -233,7 +289,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T00:31:11+00:00",
    "field": "",
-   "points": 90,
+   "points": 91,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -267,7 +323,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1599,
+   "points": 1604,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -506,7 +562,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 561,
+   "points": 564,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -665,7 +721,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T14:53:41+00:00",
    "field": "code",
-   "points": 533,
+   "points": 535,
    "image": "",
    "score": 4,
    "tier": "top"
@@ -689,7 +745,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1041,
+   "points": 1042,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -1673,62 +1729,6 @@
    "image": "",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "Evernote turns AI-driven discovery into paid subscriptions",
-   "source": "OpenAI",
-   "url": "https://openai.com/ads/customers/evernote",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T19:40:49+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Gemini 4 Carbon",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T17:01:23+00:00",
-   "field": "text",
-   "points": 1019,
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T17:00:58+00:00",
-   "field": "text",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Double Buffering with Cloudflare Queues",
-   "source": "Hacker News",
-   "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T16:48:23+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T15:00:46+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
-   "score": 4,
-   "tier": "top"
   }
  ]
 }
