@@ -1,6 +1,109 @@
 {
- "updated": "2026-11-09T06:21:23+00:00",
+ "updated": "2026-11-09T19:46:41+00:00",
  "items": [
+  {
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T19:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:56:29+00:00",
+   "field": "text",
+   "points": 336,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T15:05:57+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T14:00:01+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+   "video": true,
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T12:34:29+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+   "source": "Hacker News",
+   "url": "https://github.com/samir-sarwar/samir-vllm",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T11:36:55+00:00",
+   "field": "text",
+   "points": 69,
+   "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50422628",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T08:17:49+00:00",
+   "field": "",
+   "points": 189,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T08:00:53+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/kuken",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
    "source": "NVIDIA",
@@ -52,7 +155,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 695,
+   "points": 873,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -64,7 +167,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T14:49:23+00:00",
    "field": "",
-   "points": 185,
+   "points": 189,
    "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
    "score": -3,
    "tier": "medium"
@@ -76,7 +179,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:41:25+00:00",
    "field": "",
-   "points": 40,
+   "points": 42,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -88,7 +191,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:14:10+00:00",
    "field": "code",
-   "points": 111,
+   "points": 116,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -100,7 +203,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 402,
+   "points": 470,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -112,7 +215,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 728,
+   "points": 800,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -124,7 +227,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 599,
+   "points": 621,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -136,7 +239,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 39,
+   "points": 79,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -184,7 +287,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T16:54:36+00:00",
    "field": "",
-   "points": 319,
+   "points": 322,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -230,7 +333,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T13:35:27+00:00",
    "field": "text",
-   "points": 367,
+   "points": 369,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -323,7 +426,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1604,
+   "points": 1609,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -347,7 +450,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 47,
+   "points": 48,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -538,7 +641,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T17:31:53+00:00",
    "field": "video",
-   "points": 111,
+   "points": 112,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -562,7 +665,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 564,
+   "points": 568,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -653,7 +756,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T17:40:00+00:00",
    "field": "open-source",
-   "points": 739,
+   "points": 740,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -906,7 +1009,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2960,
+   "points": 2962,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -1051,17 +1154,6 @@
    "tier": "medium"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Qodo builds context into AI code review with Codex",
    "source": "OpenAI",
    "url": "https://openai.com/index/qodo-codex-plugin",
@@ -1071,6 +1163,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -1328,7 +1431,7 @@
    "date": "2026-10-30",
    "ts": "2026-10-30T16:40:22+00:00",
    "field": "open-source",
-   "points": 297,
+   "points": 298,
    "image": "https://opengraph.githubassets.com/1c0f720d9117b1821c716e3916e0ec1ef9ad610708072eb19a7be9bde9a7c6d0/dbreunig/nesformer",
    "score": 1,
    "tier": "medium"
@@ -1627,107 +1730,6 @@
    "points": 35,
    "image": "",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "How we detect frontier model misalignment",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T09:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "source": "Hacker News",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T03:33:42+00:00",
-   "field": "code",
-   "points": 590,
-   "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-   "source": "Hacker News",
-   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:30:37+00:00",
-   "field": "text",
-   "points": 57,
-   "image": "https://repository-images.githubusercontent.com/349134426/ad5d8e71-d4a8-496c-a54b-c4c0042eb88b",
-   "score": -2,
-   "tier": "medium"
-  },
-  {
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "source": "Hacker News",
-   "url": "https://divagr.com/blog/qwenputer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:25:45+00:00",
-   "field": "",
-   "image": "https://divagr.com/qwenputer/og.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/announcing-project-protostar",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:00:00+00:00",
-   "field": "",
-   "image": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/mistral-large4",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:00:00+00:00",
-   "field": "open-source",
-   "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/anydecisionmodel",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:00:00+00:00",
-   "field": "audio",
-   "image": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/credit-saison",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
