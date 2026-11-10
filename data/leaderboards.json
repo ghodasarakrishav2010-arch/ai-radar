@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:33:28+00:00",
+ "updated": "2026-11-10T14:50:22+00:00",
  "fields": [
   {
    "id": "text",
@@ -7,12 +7,12 @@
    "source": "Arena text leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "Gemini 4 Carbon (High)",
      "company": "Google",
-     "score": 1527
+     "score": 1526
     },
     {
      "name": "Gemini 4 Argon (High)",
@@ -22,7 +22,7 @@
     {
      "name": "Muse Wonder (Max)",
      "company": "Meta",
-     "score": 1512
+     "score": 1511
     },
     {
      "name": "Claude Opus 5.5 (High)",
@@ -35,12 +35,12 @@
      "score": 1504
     },
     {
-     "name": "Claude Fable 5.1 (Max)",
+     "name": "Claude Opus 4.6 (High)",
      "company": "Anthropic",
      "score": 1503
     },
     {
-     "name": "Claude Opus 4.6 (High)",
+     "name": "Claude Fable 5.1 (Max)",
      "company": "Anthropic",
      "score": 1503
     },
@@ -52,7 +52,7 @@
     {
      "name": "Gemini 3.8 Flash (High)",
      "company": "Google",
-     "score": 1498
+     "score": 1497
     },
     {
      "name": "Claude Opus 4.6",
@@ -65,14 +65,14 @@
      "score": 1496
     },
     {
-     "name": "Muse Spark 1.2 (xHigh)",
-     "company": "Meta",
-     "score": 1494
-    },
-    {
      "name": "Claude Opus 4.7",
      "company": "Anthropic",
      "score": 1494
+    },
+    {
+     "name": "Muse Spark 1.2 (xHigh)",
+     "company": "Meta",
+     "score": 1493
     },
     {
      "name": "Muse Spark 1.1",
@@ -125,6 +125,11 @@
      "score": 1484
     },
     {
+     "name": "Kimi K3.1 Pro (Max)",
+     "company": "Moonshot AI",
+     "score": 1483
+    },
+    {
      "name": "Gemini 3.6 Flash (High)",
      "company": "Google",
      "score": 1483
@@ -135,13 +140,13 @@
      "score": 1483
     },
     {
-     "name": "Claude Opus 4.8 (High)",
-     "company": "Anthropic",
+     "name": "GPT-6.1 Sol (Max)",
+     "company": "OpenAI",
      "score": 1482
     },
     {
-     "name": "GPT-6.1 Sol (Max)",
-     "company": "OpenAI",
+     "name": "Claude Opus 4.8 (High)",
+     "company": "Anthropic",
      "score": 1482
     },
     {
@@ -153,11 +158,6 @@
      "name": "MiMo-V2.6-Pro",
      "company": "Xiaomi",
      "score": 1480
-    },
-    {
-     "name": "Gemini 3.5 Flash (High)",
-     "company": "Google",
-     "score": 1478
     }
    ]
   },
@@ -167,7 +167,7 @@
    "source": "Arena Code (WebDev) leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "Claude Opus 5.5 (Max)",
@@ -177,7 +177,7 @@
     {
      "name": "Claude Sonnet 5.5 (xHigh)",
      "company": "Anthropic",
-     "score": 1773
+     "score": 1774
     },
     {
      "name": "Gemini 4 Carbon (High)",
@@ -192,7 +192,7 @@
     {
      "name": "Claude Fable 5.1 (Max)",
      "company": "Anthropic",
-     "score": 1744
+     "score": 1745
     },
     {
      "name": "GPT-6.1 Sol (Max)",
@@ -217,7 +217,7 @@
     {
      "name": "Kimi K3.1 Pro (Max)",
      "company": "Moonshot AI",
-     "score": 1687
+     "score": 1688
     },
     {
      "name": "Gemini 4 Argon (High)",
@@ -227,7 +227,7 @@
     {
      "name": "GPT-6.1 Terra (Max)",
      "company": "OpenAI",
-     "score": 1678
+     "score": 1679
     },
     {
      "name": "Qwen3.8-Max (0902)",
@@ -257,7 +257,7 @@
     {
      "name": "Claude Opus 5 (High)",
      "company": "Anthropic",
-     "score": 1656
+     "score": 1657
     },
     {
      "name": "Muse Spark 1.3 (Max)",
@@ -277,17 +277,17 @@
     {
      "name": "Grok 4.7 (xHigh)",
      "company": "xAI",
-     "score": 1640
+     "score": 1639
     },
     {
      "name": "MiMo-V2.6-Flash",
      "company": "Xiaomi",
-     "score": 1636
+     "score": 1637
     },
     {
      "name": "Hy4 preview",
      "company": "Tencent",
-     "score": 1632
+     "score": 1631
     },
     {
      "name": "Claude Fable 5 (High)",
@@ -295,13 +295,13 @@
      "score": 1625
     },
     {
-     "name": "MiMo-V2.6-Pro",
-     "company": "Xiaomi",
+     "name": "Qwen3.8-Flash-Next",
+     "company": "Alibaba",
      "score": 1624
     },
     {
-     "name": "Qwen3.8-Flash-Next",
-     "company": "Alibaba",
+     "name": "MiMo-V2.6-Pro",
+     "company": "Xiaomi",
      "score": 1624
     },
     {
@@ -310,13 +310,13 @@
      "score": 1622
     },
     {
-     "name": "Muse Spark 1.3 (xHigh)",
-     "company": "Meta",
+     "name": "DeepSeek-V4.1-Flash-20260910 (Max)",
+     "company": "DeepSeek",
      "score": 1621
     },
     {
-     "name": "DeepSeek-V4.1-Flash-20260910 (Max)",
-     "company": "DeepSeek",
+     "name": "Muse Spark 1.3 (xHigh)",
+     "company": "Meta",
      "score": 1621
     }
    ]
@@ -327,12 +327,12 @@
    "source": "Arena text-to-image leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "GPT-Image-2.5 Sunburst",
      "company": "OpenAI",
-     "score": 1428
+     "score": 1429
     },
     {
      "name": "GPT-Image-2.6 Sunburst (Medium)",
@@ -357,7 +357,7 @@
     {
      "name": "MAI-Image-2.6",
      "company": "Microsoft-Ai",
-     "score": 1330
+     "score": 1329
     },
     {
      "name": "Gemini Nano Banana 2.1",
@@ -377,7 +377,7 @@
     {
      "name": "Grok Imagine Image 2.0 (20260801)",
      "company": "xAI",
-     "score": 1290
+     "score": 1288
     },
     {
      "name": "Reve 2.0",
@@ -392,7 +392,7 @@
     {
      "name": "Gemini 3.1 Flash Image (nano-banana-2, Web Search)",
      "company": "Google",
-     "score": 1257
+     "score": 1256
     },
     {
      "name": "Qwen-Image-3.0-Pro",
@@ -487,7 +487,7 @@
    "source": "Arena text-to-video leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "Gemini Omni 1.2 Flash",
@@ -602,7 +602,7 @@
     {
      "name": "Wan 2.6",
      "company": "Alibaba",
-     "score": 1323
+     "score": 1324
     },
     {
      "name": "Seedance 1.5 Pro",
@@ -617,7 +617,7 @@
     {
      "name": "Veo 3 Fast",
      "company": "Google",
-     "score": 1251
+     "score": 1250
     },
     {
      "name": "Wan 2.5 Preview",
@@ -637,7 +637,7 @@
     {
      "name": "Kling 2.5 Turbo (1080p)",
      "company": "Kling",
-     "score": 1220
+     "score": 1219
     }
    ]
   },
@@ -647,7 +647,7 @@
    "source": "Arena vision leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "Claude Fable 5 (High)",
@@ -695,19 +695,19 @@
      "score": 1294
     },
     {
-     "name": "Gemini 3.8 Flash (High)",
-     "company": "Google",
-     "score": 1293
-    },
-    {
      "name": "Claude Opus 4.6",
      "company": "Anthropic",
      "score": 1293
     },
     {
+     "name": "Gemini 3.8 Flash (High)",
+     "company": "Google",
+     "score": 1293
+    },
+    {
      "name": "GPT-6.1 Sol (Max)",
      "company": "OpenAI",
-     "score": 1292
+     "score": 1293
     },
     {
      "name": "Muse Spark 1.3 (Max)",
@@ -725,13 +725,13 @@
      "score": 1289
     },
     {
-     "name": "Muse Spark 1.3 (xHigh)",
-     "company": "Meta",
+     "name": "GPT-5.6 Sol (xHigh)",
+     "company": "OpenAI",
      "score": 1288
     },
     {
-     "name": "GPT-5.6 Sol (xHigh)",
-     "company": "OpenAI",
+     "name": "Muse Spark 1.3 (xHigh)",
+     "company": "Meta",
      "score": 1288
     },
     {
@@ -752,7 +752,7 @@
     {
      "name": "GPT-6 Astra (Max)",
      "company": "OpenAI",
-     "score": 1284
+     "score": 1283
     },
     {
      "name": "GPT-5.5 (High)",
@@ -807,17 +807,17 @@
    "source": "Arena search leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "GPT-5.6 Sol (xHigh)",
      "company": "OpenAI",
-     "score": 1256
+     "score": 1255
     },
     {
      "name": "GPT-6.1 Sol (Max)",
      "company": "OpenAI",
-     "score": 1249
+     "score": 1248
     },
     {
      "name": "GPT-6 Astra (Max)",
@@ -835,19 +835,19 @@
      "score": 1229
     },
     {
-     "name": "Claude Fable 5.1 (High)",
-     "company": "Anthropic",
-     "score": 1228
-    },
-    {
      "name": "Qwen3.8-Max",
      "company": "Alibaba",
-     "score": 1226
+     "score": 1227
+    },
+    {
+     "name": "Claude Fable 5.1 (High)",
+     "company": "Anthropic",
+     "score": 1227
     },
     {
      "name": "GPT-5.5 (Search)",
      "company": "OpenAI",
-     "score": 1225
+     "score": 1226
     },
     {
      "name": "Claude Opus 4.6 (Search)",
@@ -855,14 +855,14 @@
      "score": 1222
     },
     {
-     "name": "Claude Opus 5.5 (Medium)",
-     "company": "Anthropic",
-     "score": 1214
-    },
-    {
      "name": "Claude Opus 5 (High)",
      "company": "Anthropic",
-     "score": 1214
+     "score": 1213
+    },
+    {
+     "name": "Claude Opus 5.5 (Medium)",
+     "company": "Anthropic",
+     "score": 1213
     },
     {
      "name": "GPT-6 Luna (Max)",
@@ -887,7 +887,7 @@
     {
      "name": "Grok 4.5",
      "company": "xAI",
-     "score": 1206
+     "score": 1205
     },
     {
      "name": "Claude Sonnet 4.6 (Search)",
@@ -1127,12 +1127,17 @@
    "source": "Arena text leaderboard, open licences only",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "models": [
     {
      "name": "Kimi K3 (Max)",
      "company": "Moonshot AI",
      "score": 1487
+    },
+    {
+     "name": "Kimi K3.1 Pro (Max)",
+     "company": "Moonshot AI",
+     "score": 1483
     },
     {
      "name": "GLM-5.3 (Max)",
@@ -1157,12 +1162,12 @@
     {
      "name": "GLM-5.3-Flash",
      "company": "Z.ai",
-     "score": 1475
+     "score": 1474
     },
     {
      "name": "MiMo-V2.5-Pro",
      "company": "Xiaomi",
-     "score": 1466
+     "score": 1467
     },
     {
      "name": "GLM-5.1",
@@ -1220,13 +1225,13 @@
      "score": 1443
     },
     {
-     "name": "GLM-4.7",
-     "company": "Z.ai",
+     "name": "Qwen3.5-397B-A17B",
+     "company": "Alibaba",
      "score": 1441
     },
     {
-     "name": "Qwen3.5-397B-A17B",
-     "company": "Alibaba",
+     "name": "GLM-4.7",
+     "company": "Z.ai",
      "score": 1441
     },
     {
@@ -1273,11 +1278,6 @@
      "name": "Kimi K2 Thinking Turbo",
      "company": "Moonshot AI",
      "score": 1430
-    },
-    {
-     "name": "NVIDIA-Nemotron-3-Ultra-550B-A55B (NVFP4)",
-     "company": "NVIDIA",
-     "score": 1426
     }
    ]
   }

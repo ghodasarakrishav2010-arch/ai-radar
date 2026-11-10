@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-10T03:33:25+00:00",
+ "updated": "2026-11-10T14:50:19+00:00",
  "items": [
+  {
+   "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+   "source": "Hacker News",
+   "url": "https://neuracryption.com/research",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T13:51:51+00:00",
+   "field": "text",
+   "points": 34,
+   "image": "https://neuracryption.com/assets/neuracryption_social_card.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic to Seek $1.3T Valuation in IPO",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T12:49:32+00:00",
+   "field": "",
+   "points": 42,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T12:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Closing the AI guidance gap in education",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T09:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T03:20:06+00:00",
+   "field": "",
+   "points": 181,
+   "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "A year after the 100% AI mandate nobody understands our code",
    "source": "Hacker News",
@@ -8,7 +66,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 114,
+   "points": 136,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -20,7 +78,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T20:04:55+00:00",
    "field": "text",
-   "points": 302,
+   "points": 358,
    "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
    "score": 2,
    "tier": "medium"
@@ -37,13 +95,25 @@
    "tier": "medium"
   },
   {
+   "title": "Testing Claude on real-world electronics design",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/claude-electronics-design",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:58:48+00:00",
+   "field": "text",
+   "points": 33,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
    "title": "Claude Fable 5.2",
    "source": "Hacker News",
    "url": "https://twitter.com/claudeai/status/2119867114450268322",
    "date": "2026-11-09",
    "ts": "2026-11-09T18:58:35+00:00",
    "field": "text",
-   "points": 30,
+   "points": 33,
    "image": "https://pbs.twimg.com/media/HWtIJNLWUAAcc7I?format=webp&name=large",
    "score": 0,
    "tier": "medium"
@@ -55,7 +125,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 965,
+   "points": 980,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -67,7 +137,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 462,
+   "points": 680,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -124,7 +194,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T11:36:55+00:00",
    "field": "text",
-   "points": 77,
+   "points": 78,
    "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
    "score": 1,
    "tier": "medium"
@@ -136,7 +206,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 206,
+   "points": 212,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -225,9 +295,21 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 884,
+   "points": 891,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+   "source": "Hacker News",
+   "url": "https://github.com/sshah03/recalc",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T15:12:07+00:00",
+   "field": "code",
+   "points": 33,
+   "image": "https://repository-images.githubusercontent.com/1444840798/af648455-e25f-46ff-bdc6-280cd3a8c373",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -261,7 +343,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:14:10+00:00",
    "field": "code",
-   "points": 117,
+   "points": 119,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -273,7 +355,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 475,
+   "points": 481,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -285,7 +367,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 805,
+   "points": 809,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -297,7 +379,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 622,
+   "points": 624,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -309,7 +391,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 91,
+   "points": 94,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -520,7 +602,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 48,
+   "points": 49,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -644,7 +726,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T07:44:30+00:00",
    "field": "text",
-   "points": 341,
+   "points": 342,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -735,7 +817,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 569,
+   "points": 571,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -758,7 +840,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 736,
+   "points": 737,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1079,7 +1161,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2962,
+   "points": 2963,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -1097,9 +1179,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1108,9 +1190,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1651,86 +1733,6 @@
    "field": "",
    "image": "",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
-   "source": "Hacker News",
-   "url": "https://github.com/johncassil/dontallow",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T19:27:44+00:00",
-   "field": "",
-   "image": "https://opengraph.githubassets.com/7bc0e3f1f5d1d8b3f95bb7d4a615e54373369f5cdd940155906331238fb98a17/johncassil/dontallow",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-   "source": "Hacker News",
-   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T19:25:48+00:00",
-   "field": "text",
-   "points": 52,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
-   "source": "Hacker News",
-   "url": "https://github.com/lonthq/overtone-captions",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:48:17+00:00",
-   "field": "",
-   "image": "https://opengraph.githubassets.com/79c09fe12134e9ada064baec1ec4025d80652b9b59a13963b23745f2b9a7f813/lonthq/overtone-captions",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "After 28 years walking across the globe, he's almost home",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:42:22+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-   "source": "Hacker News",
-   "url": "https://fig.blue/posts/duet-is-the-future/",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:24:25+00:00",
-   "field": "text",
-   "points": 126,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/updated-model-spec",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50291116",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T15:56:32+00:00",
-   "field": "",
-   "points": 80,
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
