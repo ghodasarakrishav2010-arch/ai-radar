@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-10T14:50:19+00:00",
+ "updated": "2026-11-10T21:17:22+00:00",
  "items": [
+  {
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T17:55:07+00:00",
+   "field": "text",
+   "points": 106,
+   "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Life on Claude Nine",
+   "source": "Hacker News",
+   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T17:44:44+00:00",
+   "field": "text",
+   "points": 43,
+   "image": "https://babuschk.in/images/social-card.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Gemini 4 Carbon is now available",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:07:15+00:00",
+   "field": "text",
+   "points": 257,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:00:03+00:00",
+   "field": "open-source",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
    "source": "Hacker News",
@@ -20,7 +67,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T12:49:32+00:00",
    "field": "",
-   "points": 42,
+   "points": 58,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -37,11 +84,33 @@
    "tier": "medium"
   },
   {
+   "title": "Introducing Businesses in ChatGPT",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T10:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
    "title": "Closing the AI guidance gap in education",
    "source": "OpenAI",
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "date": "2026-11-10",
    "ts": "2026-11-10T09:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T07:00:00+00:00",
    "field": "",
    "image": "",
    "score": 2,
@@ -54,10 +123,32 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T03:20:06+00:00",
    "field": "",
-   "points": 181,
+   "points": 190,
    "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
    "score": 1,
    "tier": "medium"
+  },
+  {
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T00:00:00+00:00",
+   "field": "open-source",
+   "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Decision Models in Hugging Face",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T00:00:00+00:00",
+   "field": "open-source",
+   "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "A year after the 100% AI mandate nobody understands our code",
@@ -66,7 +157,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 136,
+   "points": 144,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -78,7 +169,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T20:04:55+00:00",
    "field": "text",
-   "points": 358,
+   "points": 368,
    "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
    "score": 2,
    "tier": "medium"
@@ -101,7 +192,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:58:48+00:00",
    "field": "text",
-   "points": 33,
+   "points": 34,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
    "score": 0,
    "tier": "medium"
@@ -125,7 +216,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 980,
+   "points": 985,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -137,7 +228,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 680,
+   "points": 706,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -194,7 +285,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T11:36:55+00:00",
    "field": "text",
-   "points": 78,
+   "points": 79,
    "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
    "score": 1,
    "tier": "medium"
@@ -206,7 +297,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 212,
+   "points": 213,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -295,7 +386,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 891,
+   "points": 896,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -307,7 +398,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T15:12:07+00:00",
    "field": "code",
-   "points": 33,
+   "points": 36,
    "image": "https://repository-images.githubusercontent.com/1444840798/af648455-e25f-46ff-bdc6-280cd3a8c373",
    "score": 0,
    "tier": "medium"
@@ -331,7 +422,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:41:25+00:00",
    "field": "",
-   "points": 42,
+   "points": 43,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -355,7 +446,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 481,
+   "points": 482,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -367,7 +458,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 809,
+   "points": 813,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -391,7 +482,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 94,
+   "points": 97,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -578,7 +669,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1612,
+   "points": 1613,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -1000,7 +1091,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1042,
+   "points": 1043,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -1179,9 +1270,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1190,9 +1281,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1642,97 +1733,6 @@
    "field": "",
    "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Backdoors in official Claude Code extensions",
-   "source": "Hacker News",
-   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T11:05:53+00:00",
-   "field": "code",
-   "points": 662,
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops",
-   "source": "Hacker News",
-   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:47:06+00:00",
-   "field": "text",
-   "points": 35,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Making it easier for websites to express AI training preferences",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T09:30:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Community safety report and new protections for teens",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T09:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "source": "Hacker News",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T07:09:12+00:00",
-   "field": "code",
-   "points": 1011,
-   "image": "https://phorion.io/images/default-social-card.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-   "source": "Hacker News",
-   "url": "https://github.com/Millillion/lasm",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T02:05:41+00:00",
-   "field": "",
-   "image": "https://repository-images.githubusercontent.com/1383708351/edc8f018-5dfd-4df7-b4e1-dacb8573208c",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Fair use benefits everyone",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "The importance of communities around software",
-   "source": "Hacker News",
-   "url": "https://lumi.codeberg.page/blog/software-community.html",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T19:27:47+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
    "tier": "medium"
   }
  ]
