@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T19:46:41+00:00",
+ "updated": "2026-11-10T03:33:25+00:00",
  "items": [
+  {
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "source": "Hacker News",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T22:19:12+00:00",
+   "field": "code",
+   "points": 114,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T20:04:55+00:00",
+   "field": "text",
+   "points": 302,
+   "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "ChatGPT Enterprise now available in AWS Marketplace",
    "source": "OpenAI",
@@ -13,14 +37,38 @@
    "tier": "medium"
   },
   {
+   "title": "Claude Fable 5.2",
+   "source": "Hacker News",
+   "url": "https://twitter.com/claudeai/status/2119867114450268322",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:58:35+00:00",
+   "field": "text",
+   "points": 30,
+   "image": "https://pbs.twimg.com/media/HWtIJNLWUAAcc7I?format=webp&name=large",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
    "title": "Claude Fable 5.2 and Mythos 5.2",
    "source": "Hacker News",
    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 336,
+   "points": 965,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "source": "Hacker News",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:24:38+00:00",
+   "field": "text",
+   "points": 462,
+   "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
   },
@@ -48,6 +96,17 @@
    "tier": "medium"
   },
   {
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/control-room",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T13:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 4,
+   "tier": "top"
+  },
+  {
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "source": "Hugging Face",
    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -65,7 +124,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T11:36:55+00:00",
    "field": "text",
-   "points": 69,
+   "points": 77,
    "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
    "score": 1,
    "tier": "medium"
@@ -77,7 +136,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 189,
+   "points": 206,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -90,6 +149,17 @@
    "ts": "2026-11-09T08:00:53+00:00",
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T08:00:00+00:00",
+   "field": "",
+   "image": "",
    "score": 2,
    "tier": "medium"
   },
@@ -155,7 +225,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 873,
+   "points": 884,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -191,7 +261,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T12:14:10+00:00",
    "field": "code",
-   "points": 116,
+   "points": 117,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -203,7 +273,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 470,
+   "points": 475,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -215,7 +285,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 800,
+   "points": 805,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -227,7 +297,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 621,
+   "points": 622,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -239,7 +309,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 79,
+   "points": 91,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -426,7 +496,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1609,
+   "points": 1612,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -665,7 +735,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T14:37:22+00:00",
    "field": "",
-   "points": 568,
+   "points": 569,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -688,7 +758,7 @@
    "date": "2026-11-04",
    "ts": "2026-11-04T10:10:27+00:00",
    "field": "text",
-   "points": 734,
+   "points": 736,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1027,9 +1097,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1038,9 +1108,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1154,17 +1224,6 @@
    "tier": "medium"
   },
   {
-   "title": "Qodo builds context into AI code review with Codex",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "code",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
    "source": "OpenAI",
    "url": "https://openai.com/index/dan-driscoll-joins-openai",
@@ -1174,6 +1233,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -1661,75 +1731,6 @@
    "points": 80,
    "image": "",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-   "source": "Hacker News",
-   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T15:30:22+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "LLM Voice",
-   "source": "Hacker News",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T14:57:55+00:00",
-   "field": "audio",
-   "points": 606,
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Brief History of PDP Computers",
-   "source": "Hacker News",
-   "url": "https://entropicthoughts.com/history-of-pdp-computers",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T13:53:33+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T13:37:07+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T12:41:56+00:00",
-   "field": "text",
-   "points": 339,
-   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&auto=format",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50286306",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T09:06:12+00:00",
-   "field": "code",
-   "points": 35,
-   "image": "",
-   "score": 1,
    "tier": "medium"
   }
  ]
