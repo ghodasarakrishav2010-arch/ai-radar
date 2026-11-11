@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:10:57+00:00",
+ "updated": "2026-11-11T14:16:49+00:00",
  "items": [
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -52,7 +52,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T00:37:05+00:00",
    "field": "",
-   "points": 36,
+   "points": 83,
    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
    "score": 0,
    "tier": "medium"
@@ -64,7 +64,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T22:17:56+00:00",
    "field": "",
-   "points": 368,
+   "points": 431,
    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
    "score": 2,
    "tier": "medium"
@@ -76,10 +76,10 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 127,
+   "points": 368,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
@@ -88,7 +88,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 168,
+   "points": 256,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -100,9 +100,9 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:44:44+00:00",
    "field": "text",
-   "points": 96,
+   "points": 116,
    "image": "https://babuschk.in/images/social-card.png",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -112,7 +112,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
-   "points": 282,
+   "points": 287,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
    "score": 1,
    "tier": "medium"
@@ -147,7 +147,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T12:49:32+00:00",
    "field": "",
-   "points": 59,
+   "points": 60,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -198,6 +198,17 @@
    "tier": "medium"
   },
   {
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Work at the Frontier: AI’s effect on freelance work",
    "source": "OpenAI",
    "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -215,7 +226,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T03:20:06+00:00",
    "field": "",
-   "points": 193,
+   "points": 194,
    "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
    "score": 1,
    "tier": "medium"
@@ -260,7 +271,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 153,
+   "points": 158,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -272,7 +283,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T20:04:55+00:00",
    "field": "text",
-   "points": 375,
+   "points": 376,
    "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
    "score": 2,
    "tier": "medium"
@@ -319,7 +330,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 990,
+   "points": 993,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -331,7 +342,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 717,
+   "points": 723,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -489,7 +500,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 899,
+   "points": 901,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -561,7 +572,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T03:11:48+00:00",
    "field": "text",
-   "points": 816,
+   "points": 817,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -573,7 +584,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T20:45:32+00:00",
    "field": "code",
-   "points": 624,
+   "points": 626,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -585,7 +596,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 97,
+   "points": 98,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -609,7 +620,7 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T18:03:33+00:00",
    "field": "",
-   "points": 124,
+   "points": 125,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -1090,7 +1101,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T21:20:03+00:00",
    "field": "text",
-   "points": 127,
+   "points": 128,
    "image": "https://uncracked.city/og/en.png",
    "score": 1,
    "tier": "medium"
@@ -1373,9 +1384,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1384,9 +1395,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1722,17 +1733,6 @@
    "points": 188,
    "image": "",
    "score": -1,
-   "tier": "medium"
-  },
-  {
-   "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50312174",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T00:58:26+00:00",
-   "field": "",
-   "image": "",
-   "score": 0,
    "tier": "medium"
   }
  ]
