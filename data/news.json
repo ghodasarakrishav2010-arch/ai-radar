@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-12T17:34:47+00:00",
+ "updated": "2026-11-12T23:36:27+00:00",
  "items": [
+  {
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "source": "Hacker News",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T21:56:11+00:00",
+   "field": "",
+   "points": 82,
+   "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/amplitude",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T19:07:35+00:00",
+   "field": "text",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "source": "Hacker News",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:52:01+00:00",
+   "field": "text",
+   "points": 236,
+   "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Gemini 4 Hydrogen",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:01:48+00:00",
+   "field": "text",
+   "points": 424,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing Gemini 4 Hydrogen",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:00:50+00:00",
+   "field": "text",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "I'm making LLMs work on small and old devices",
    "source": "Hacker News",
@@ -8,9 +77,9 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 65,
+   "points": 261,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -26,13 +95,24 @@
    "tier": "top"
   },
   {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T12:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
    "title": "Anthropic IPO",
    "source": "Hacker News",
    "url": "https://ipo.anthropic.com/us/",
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 565,
+   "points": 785,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -100,7 +180,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 533,
+   "points": 553,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -156,7 +236,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T00:37:05+00:00",
    "field": "",
-   "points": 91,
+   "points": 93,
    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
    "score": 0,
    "tier": "medium"
@@ -214,7 +294,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 548,
+   "points": 550,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -226,7 +306,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 288,
+   "points": 290,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -255,7 +335,7 @@
    "tier": "medium"
   },
   {
-   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
    "source": "NVIDIA",
    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
    "date": "2026-11-10",
@@ -419,7 +499,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 160,
+   "points": 161,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -501,7 +581,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 996,
+   "points": 997,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -1555,9 +1635,9 @@
    "tier": "medium"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
+   "title": "Preparing our next security sprint to harden OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1566,9 +1646,9 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
+   "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "date": "2026-11-02",
    "ts": "2026-11-02T18:00:00+00:00",
    "field": "",
@@ -1644,87 +1724,6 @@
    "points": 188,
    "image": "",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:38:45+00:00",
-   "field": "",
-   "points": 238,
-   "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&w=1920&h=1080",
-   "score": -1,
-   "tier": "medium"
-  },
-  {
-   "title": "Ask HN: What hardware are you using to run local LLMs?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50337431",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:38:18+00:00",
-   "field": "",
-   "points": 52,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "LifeVal",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/lifeval",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T09:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Qodo builds context into AI code review with Codex",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "code",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "In LLM era, can software startup survive?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50331001",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T23:28:46+00:00",
-   "field": "text",
-   "points": 37,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "So I guess everyone uses LLMs to think now",
-   "source": "Hacker News",
-   "url": "https://eva.ac/blog/llms/",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T21:49:04+00:00",
-   "field": "",
-   "points": 81,
-   "image": "",
-   "score": 0,
    "tier": "medium"
   }
  ]
