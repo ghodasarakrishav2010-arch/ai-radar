@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-12T07:06:46+00:00",
+ "updated": "2026-11-12T17:34:47+00:00",
  "items": [
+  {
+   "title": "I'm making LLMs work on small and old devices",
+   "source": "Hacker News",
+   "url": "https://github.com/hyperionaidev/smolmaxxing/",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T15:23:10+00:00",
+   "field": "",
+   "points": 65,
+   "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA Announces CEO Transition",
+   "source": "Hacker News",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T13:52:29+00:00",
+   "field": "",
+   "points": 1487,
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Anthropic IPO",
+   "source": "Hacker News",
+   "url": "https://ipo.anthropic.com/us/",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T11:46:41+00:00",
+   "field": "",
+   "points": 565,
+   "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T09:30:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Why Every AI Model Will Ship as a Torrent",
+   "source": "Hacker News",
+   "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T07:20:22+00:00",
+   "field": "",
+   "points": 33,
+   "image": "https://pirateface.co/og/article?slug=every-ai-model-should-be-a-torrent&rev=20261027-refresh",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+   "score": 5,
+   "tier": "top"
+  },
+  {
+   "title": "Supporting research on AI and children’s safety",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/children-first-declaration",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "source": "OpenAI",
@@ -19,10 +100,21 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 378,
+   "points": 533,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T15:00:15+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -110,7 +202,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T22:17:56+00:00",
    "field": "",
-   "points": 449,
+   "points": 457,
    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
    "score": 2,
    "tier": "medium"
@@ -122,7 +214,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 528,
+   "points": 548,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -134,7 +226,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 285,
+   "points": 288,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -146,21 +238,20 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:44:44+00:00",
    "field": "text",
-   "points": 133,
+   "points": 137,
    "image": "https://babuschk.in/images/social-card.png",
    "score": 1,
    "tier": "medium"
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 294,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -197,6 +288,17 @@
    "image": "",
    "score": -4,
    "tier": "medium"
+  },
+  {
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T12:02:28+00:00",
+   "field": "code",
+   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Helping caregivers use AI in everyday life",
@@ -272,7 +374,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T03:20:06+00:00",
    "field": "",
-   "points": 195,
+   "points": 196,
    "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
    "score": 1,
    "tier": "medium"
@@ -317,7 +419,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 158,
+   "points": 160,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -331,6 +433,17 @@
    "field": "text",
    "points": 379,
    "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T19:51:47+00:00",
+   "field": "text",
+   "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
    "score": 2,
    "tier": "medium"
   },
@@ -364,7 +477,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:58:48+00:00",
    "field": "text",
-   "points": 34,
+   "points": 35,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
    "score": 0,
    "tier": "medium"
@@ -400,7 +513,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 736,
+   "points": 737,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -469,7 +582,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 217,
+   "points": 219,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -654,7 +767,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 98,
+   "points": 99,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -841,7 +954,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T22:17:15+00:00",
    "field": "code",
-   "points": 1614,
+   "points": 1615,
    "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
    "score": 2,
    "tier": "medium"
@@ -865,7 +978,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 50,
+   "points": 51,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -1424,7 +1537,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2964,
+   "points": 2965,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"
@@ -1569,17 +1682,6 @@
    "tier": "medium"
   },
   {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Qodo builds context into AI code review with Codex",
    "source": "OpenAI",
    "url": "https://openai.com/index/qodo-codex-plugin",
@@ -1589,6 +1691,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "In LLM era, can software startup survive?",
@@ -1611,126 +1724,6 @@
    "field": "",
    "points": 81,
    "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-   "source": "Hacker News",
-   "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T17:01:34+00:00",
-   "field": "",
-   "points": 92,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
-   "source": "Hacker News",
-   "url": "https://huggingface.co/burner22/numbat",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T16:43:36+00:00",
-   "field": "",
-   "points": 37,
-   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/burner22/numbat.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50326727",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T15:45:10+00:00",
-   "field": "open-source",
-   "points": 46,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "ChatGPT and Codex usage limits merging",
-   "source": "Hacker News",
-   "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T21:49:07+00:00",
-   "field": "code",
-   "points": 236,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-   "source": "Hacker News",
-   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T21:07:58+00:00",
-   "field": "video",
-   "points": 196,
-   "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic blocks users for anything touching training larger models",
-   "source": "Hacker News",
-   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T19:39:19+00:00",
-   "field": "",
-   "points": 493,
-   "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Anthropic orders AI tool Claude to stop remaking video games",
-   "source": "Hacker News",
-   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T14:41:44+00:00",
-   "field": "video",
-   "points": 31,
-   "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Malware uses LLMs to rank victims by how much they're worth",
-   "source": "Hacker News",
-   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T14:29:03+00:00",
-   "field": "",
-   "points": 263,
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-   "source": "Hacker News",
-   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T13:25:10+00:00",
-   "field": "",
-   "points": 75,
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/anthropic--cathedral-263559161-16x9_0.png?VersionId=hngQNnOgez44Zv0vMDM35oEeCVLPJGZC",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T13:25:00+00:00",
-   "field": "video",
-   "points": 74,
-   "image": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-2169-80.jpg",
    "score": 0,
    "tier": "medium"
   }
