@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:55:20+00:00",
+ "updated": "2026-11-12T07:06:46+00:00",
  "items": [
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -19,10 +19,10 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 136,
+   "points": 378,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -64,7 +64,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T00:37:05+00:00",
    "field": "",
-   "points": 90,
+   "points": 91,
    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
    "score": 0,
    "tier": "medium"
@@ -110,7 +110,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T22:17:56+00:00",
    "field": "",
-   "points": 445,
+   "points": 449,
    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
    "score": 2,
    "tier": "medium"
@@ -122,7 +122,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 505,
+   "points": 528,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -134,7 +134,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 277,
+   "points": 285,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -146,7 +146,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:44:44+00:00",
    "field": "text",
-   "points": 127,
+   "points": 133,
    "image": "https://babuschk.in/images/social-card.png",
    "score": 1,
    "tier": "medium"
@@ -158,7 +158,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
-   "points": 291,
+   "points": 294,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
    "score": 1,
    "tier": "medium"
@@ -272,7 +272,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T03:20:06+00:00",
    "field": "",
-   "points": 194,
+   "points": 195,
    "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
    "score": 1,
    "tier": "medium"
@@ -388,7 +388,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 995,
+   "points": 996,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -400,7 +400,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 733,
+   "points": 736,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -457,7 +457,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T11:36:55+00:00",
    "field": "text",
-   "points": 79,
+   "points": 80,
    "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
    "score": 1,
    "tier": "medium"
@@ -558,7 +558,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 901,
+   "points": 902,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"
@@ -865,7 +865,7 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T20:16:19+00:00",
    "field": "",
-   "points": 49,
+   "points": 50,
    "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
    "score": 0,
    "tier": "medium"
@@ -1424,7 +1424,7 @@
    "date": "2026-11-02",
    "ts": "2026-11-02T18:21:28+00:00",
    "field": "open-source",
-   "points": 2963,
+   "points": 2964,
    "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
    "score": 2,
    "tier": "medium"

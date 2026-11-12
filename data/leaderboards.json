@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:55:22+00:00",
+ "updated": "2026-11-12T07:06:49+00:00",
  "fields": [
   {
    "id": "text",
@@ -967,17 +967,22 @@
    "source": "Arena Agent leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-08",
+   "published": "2026-11-11",
    "models": [
+    {
+     "name": "Claude Fable 5.2 (Max)",
+     "company": "Anthropic",
+     "score": 0.304
+    },
     {
      "name": "Claude Opus 5.5 (Max)",
      "company": "Anthropic",
-     "score": 0.2
+     "score": 0.195
     },
     {
      "name": "Gemini 4 Carbon (High)",
      "company": "Google",
-     "score": 0.166
+     "score": 0.17
     },
     {
      "name": "Claude Sonnet 5.5 (Max)",
@@ -987,12 +992,12 @@
     {
      "name": "Claude Fable 5.1 (Max)",
      "company": "Anthropic",
-     "score": 0.143
+     "score": 0.148
     },
     {
      "name": "GPT-6 Astra (Max)",
      "company": "OpenAI",
-     "score": 0.142
+     "score": 0.145
     },
     {
      "name": "GPT-6.1 Sol (Max)",
@@ -1002,47 +1007,47 @@
     {
      "name": "GPT-6.1 Terra (Max)",
      "company": "OpenAI",
-     "score": 0.121
+     "score": 0.12
     },
     {
      "name": "Gemini 4 Argon (High)",
      "company": "Google",
-     "score": 0.108
+     "score": 0.107
     },
     {
      "name": "Muse Wonder Full (Max)",
      "company": "Meta",
-     "score": 0.091
+     "score": 0.09
     },
     {
      "name": "Claude Fable 5 (High)",
      "company": "Anthropic",
-     "score": 0.077
+     "score": 0.073
     },
     {
      "name": "Claude Opus 5 (Max)",
      "company": "Anthropic",
-     "score": 0.075
+     "score": 0.072
     },
     {
      "name": "GPT-6 Sol (Max)",
      "company": "OpenAI",
-     "score": 0.07
-    },
-    {
-     "name": "Kimi K3.1 Pro (Max)",
-     "company": "Moonshot AI",
-     "score": 0.052
+     "score": 0.069
     },
     {
      "name": "Hy4",
      "company": "Tencent",
-     "score": 0.047
+     "score": 0.053
+    },
+    {
+     "name": "Kimi K3.1 Pro (Max)",
+     "company": "Moonshot AI",
+     "score": 0.049
     },
     {
      "name": "GPT-5.6 Sol (xHigh)",
      "company": "OpenAI",
-     "score": 0.045
+     "score": 0.046
     },
     {
      "name": "Grok 4.7 (xHigh)",
@@ -1050,13 +1055,18 @@
      "score": 0.026
     },
     {
-     "name": "Gemini 3.8 Flash (High)",
-     "company": "Google",
-     "score": 0.024
+     "name": "Inkling 2 Small",
+     "company": "Thinky",
+     "score": 0.025
     },
     {
      "name": "MiMo-V2.6-Pro",
      "company": "Xiaomi",
+     "score": 0.024
+    },
+    {
+     "name": "Gemini 3.8 Flash (High)",
+     "company": "Google",
      "score": 0.023
     },
     {
@@ -1067,22 +1077,27 @@
     {
      "name": "DeepSeek-V4.1-Flash-20261017 (Max)",
      "company": "DeepSeek",
-     "score": 0.021
+     "score": 0.02
     },
     {
      "name": "Claude Sonnet 5 (High)",
      "company": "Anthropic",
-     "score": 0.021
+     "score": 0.02
     },
     {
      "name": "Muse Wonder (Max)",
      "company": "Meta",
-     "score": 0.019
+     "score": 0.018
+    },
+    {
+     "name": "Muse Ember (Max)",
+     "company": "Meta",
+     "score": 0.017
     },
     {
      "name": "GPT-6 Luna (Max)",
      "company": "OpenAI",
-     "score": 0.015
+     "score": 0.016
     },
     {
      "name": "GLM-5.3 (Max)",
@@ -1095,29 +1110,14 @@
      "score": 0.006
     },
     {
-     "name": "Hy4 preview",
-     "company": "Tencent",
-     "score": 0.004
-    },
-    {
      "name": "Claude Haiku 5.5 (High)",
      "company": "Anthropic",
-     "score": 0.004
+     "score": 0.005
     },
     {
-     "name": "GLM-5.2 (Max)",
-     "company": "Z.ai",
-     "score": 0.004
-    },
-    {
-     "name": "Qwen3.8-Max",
-     "company": "Alibaba",
-     "score": 0.003
-    },
-    {
-     "name": "MiMo-V2.6-Flash",
-     "company": "Xiaomi",
-     "score": 0.001
+     "name": "Hy4 preview",
+     "company": "Tencent",
+     "score": 0.005
     }
    ]
   },
