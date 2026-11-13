@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:36:27+00:00",
+ "updated": "2026-11-13T06:40:59+00:00",
  "items": [
   {
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -8,15 +8,15 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 82,
+   "points": 253,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
    "source": "OpenAI",
-   "url": "https://openai.com/index/amplitude",
+   "url": "https://openai.com/business/customer-stories/amplitude",
    "date": "2026-11-12",
    "ts": "2026-11-12T20:00:00+00:00",
    "field": "",
@@ -42,9 +42,9 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 236,
+   "points": 381,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -54,7 +54,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 424,
+   "points": 506,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -77,9 +77,9 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 261,
+   "points": 329,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -112,7 +112,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 785,
+   "points": 890,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -180,7 +180,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 553,
+   "points": 557,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -236,7 +236,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T00:37:05+00:00",
    "field": "",
-   "points": 93,
+   "points": 94,
    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
    "score": 0,
    "tier": "medium"
@@ -294,7 +294,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 550,
+   "points": 555,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -306,7 +306,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 290,
+   "points": 294,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -325,13 +325,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -499,7 +500,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 161,
+   "points": 162,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -581,7 +582,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 997,
+   "points": 998,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -751,7 +752,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T18:16:07+00:00",
    "field": "code",
-   "points": 902,
+   "points": 903,
    "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
    "score": 2,
    "tier": "medium"

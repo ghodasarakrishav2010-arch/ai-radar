@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:36:30+00:00",
+ "updated": "2026-11-13T06:41:00+00:00",
  "fields": [
   {
    "id": "text",
@@ -7,7 +7,7 @@
    "source": "Arena text leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-09",
+   "published": "2026-11-11",
    "models": [
     {
      "name": "Gemini 4 Carbon (High)",
@@ -27,7 +27,7 @@
     {
      "name": "Claude Opus 5.5 (High)",
      "company": "Anthropic",
-     "score": 1506
+     "score": 1507
     },
     {
      "name": "Claude Fable 5 (High)",
@@ -42,7 +42,7 @@
     {
      "name": "Claude Fable 5.1 (Max)",
      "company": "Anthropic",
-     "score": 1503
+     "score": 1502
     },
     {
      "name": "Claude Opus 4.7 (High)",
@@ -55,13 +55,13 @@
      "score": 1497
     },
     {
-     "name": "Claude Opus 4.6",
-     "company": "Anthropic",
-     "score": 1496
-    },
-    {
      "name": "Muse Spark 1.3 (Max)",
      "company": "Meta",
+     "score": 1497
+    },
+    {
+     "name": "Claude Opus 4.6",
+     "company": "Anthropic",
      "score": 1496
     },
     {
@@ -78,6 +78,11 @@
      "name": "Muse Spark 1.1",
      "company": "Meta",
      "score": 1491
+    },
+    {
+     "name": "Gemini 4 Hydrogen (High)",
+     "company": "Google",
+     "score": 1490
     },
     {
      "name": "Claude Opus 5 (High)",
@@ -120,14 +125,14 @@
      "score": 1485
     },
     {
+     "name": "Kimi K3.1 Pro (Max)",
+     "company": "Moonshot AI",
+     "score": 1485
+    },
+    {
      "name": "Qwen3.8-Max",
      "company": "Alibaba",
      "score": 1484
-    },
-    {
-     "name": "Kimi K3.1 Pro (Max)",
-     "company": "Moonshot AI",
-     "score": 1483
     },
     {
      "name": "Gemini 3.6 Flash (High)",
@@ -135,18 +140,13 @@
      "score": 1483
     },
     {
-     "name": "GLM-5.3 (Max)",
-     "company": "Z.ai",
-     "score": 1483
-    },
-    {
-     "name": "GPT-6.1 Sol (Max)",
-     "company": "OpenAI",
+     "name": "Claude Opus 4.8 (High)",
+     "company": "Anthropic",
      "score": 1482
     },
     {
-     "name": "Claude Opus 4.8 (High)",
-     "company": "Anthropic",
+     "name": "GLM-5.3 (Max)",
+     "company": "Z.ai",
      "score": 1482
     },
     {
@@ -155,9 +155,9 @@
      "score": 1481
     },
     {
-     "name": "MiMo-V2.6-Pro",
-     "company": "Xiaomi",
-     "score": 1480
+     "name": "GPT-6.1 Sol (Max)",
+     "company": "OpenAI",
+     "score": 1481
     }
    ]
   },
@@ -167,22 +167,22 @@
    "source": "Arena Code (WebDev) leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-10",
+   "published": "2026-11-11",
    "models": [
     {
      "name": "Claude Fable 5.2 (xHigh)",
      "company": "Anthropic",
-     "score": 1836
+     "score": 1838
     },
     {
      "name": "Claude Opus 5.5 (Max)",
      "company": "Anthropic",
-     "score": 1814
+     "score": 1815
     },
     {
      "name": "Claude Sonnet 5.5 (xHigh)",
      "company": "Anthropic",
-     "score": 1773
+     "score": 1772
     },
     {
      "name": "Gemini 4 Carbon (High)",
@@ -215,6 +215,11 @@
      "score": 1715
     },
     {
+     "name": "Gemini 4 Hydrogen (High)",
+     "company": "Google",
+     "score": 1704
+    },
+    {
      "name": "Claude Opus 5 (Max)",
      "company": "Anthropic",
      "score": 1691
@@ -222,17 +227,17 @@
     {
      "name": "Kimi K3.1 Pro (Max)",
      "company": "Moonshot AI",
-     "score": 1688
+     "score": 1687
     },
     {
      "name": "Gemini 4 Argon (High)",
      "company": "Google",
-     "score": 1682
+     "score": 1681
     },
     {
      "name": "GPT-6.1 Terra (Max)",
      "company": "OpenAI",
-     "score": 1679
+     "score": 1678
     },
     {
      "name": "Qwen3.8-Max (0902)",
@@ -272,12 +277,12 @@
     {
      "name": "Muse Wonder (Max)",
      "company": "Meta",
-     "score": 1649
+     "score": 1647
     },
     {
      "name": "Inkling 2 Small",
      "company": "Thinky",
-     "score": 1646
+     "score": 1647
     },
     {
      "name": "Grok 4.7 (xHigh)",
@@ -302,7 +307,7 @@
     {
      "name": "MiMo-V2.6-Pro",
      "company": "Xiaomi",
-     "score": 1624
+     "score": 1625
     },
     {
      "name": "Qwen3.8-Flash-Next",
@@ -313,11 +318,6 @@
      "name": "GLM-5.3 (Max)",
      "company": "Z.ai",
      "score": 1622
-    },
-    {
-     "name": "DeepSeek-V4.1-Flash-20260910 (Max)",
-     "company": "DeepSeek",
-     "score": 1621
     }
    ]
   },
@@ -327,7 +327,7 @@
    "source": "Arena text-to-image leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-09",
+   "published": "2026-11-12",
    "models": [
     {
      "name": "GPT-Image-2.5 Sunburst",
@@ -342,12 +342,12 @@
     {
      "name": "GPT-Image-2.5 Flare",
      "company": "OpenAI",
-     "score": 1400
+     "score": 1398
     },
     {
      "name": "GPT-Image-2.6 Flare (Medium)",
      "company": "OpenAI",
-     "score": 1383
+     "score": 1384
     },
     {
      "name": "GPT-Image-2 (Medium)",
@@ -357,27 +357,27 @@
     {
      "name": "MAI-Image-2.6",
      "company": "Microsoft-Ai",
-     "score": 1329
+     "score": 1330
     },
     {
      "name": "Gemini Nano Banana 2.1",
      "company": "Google",
-     "score": 1328
+     "score": 1327
     },
     {
      "name": "Grok Imagine Image 2.0",
      "company": "xAI",
-     "score": 1319
+     "score": 1318
     },
     {
      "name": "Reve 2.1",
      "company": "Reve",
-     "score": 1302
+     "score": 1301
     },
     {
      "name": "Grok Imagine Image 2.0 (20260801)",
      "company": "xAI",
-     "score": 1288
+     "score": 1287
     },
     {
      "name": "Reve 2.0",
@@ -412,7 +412,7 @@
     {
      "name": "Seedream 5.0 Pro",
      "company": "ByteDance",
-     "score": 1249
+     "score": 1248
     },
     {
      "name": "Gemini 3 Pro Image (nano-banana-pro, 2K)",
@@ -440,6 +440,11 @@
      "score": 1199
     },
     {
+     "name": "MiniMax H3-Image",
+     "company": "MiniMax",
+     "score": 1197
+    },
+    {
      "name": "Qwen-Image-2.0-Pro (2026-06-22)",
      "company": "Alibaba",
      "score": 1190
@@ -457,7 +462,7 @@
     {
      "name": "UNI-1.1",
      "company": "Luma-Ai",
-     "score": 1182
+     "score": 1181
     },
     {
      "name": "Recraft V4.1 Utility Pro",
@@ -467,17 +472,12 @@
     {
      "name": "Grok Imagine Image",
      "company": "xAI",
-     "score": 1168
+     "score": 1169
     },
     {
      "name": "Cosmos3-Super-Text2Image (Agentic)",
      "company": "NVIDIA",
      "score": 1164
-    },
-    {
-     "name": "FLUX.2 [max]",
-     "company": "Bfl",
-     "score": 1161
     }
    ]
   },
@@ -1127,7 +1127,7 @@
    "source": "Arena text leaderboard, open licences only",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-09",
+   "published": "2026-11-11",
    "models": [
     {
      "name": "Kimi K3 (Max)",
@@ -1137,12 +1137,12 @@
     {
      "name": "Kimi K3.1 Pro (Max)",
      "company": "Moonshot AI",
-     "score": 1483
+     "score": 1485
     },
     {
      "name": "GLM-5.3 (Max)",
      "company": "Z.ai",
-     "score": 1483
+     "score": 1482
     },
     {
      "name": "MiMo-V2.6-Pro",
@@ -1150,7 +1150,7 @@
      "score": 1480
     },
     {
-     "name": "GLM-5.2 (Max)",
+     "name": "GLM-5.3-Flash",
      "company": "Z.ai",
      "score": 1475
     },
@@ -1160,14 +1160,14 @@
      "score": 1475
     },
     {
-     "name": "GLM-5.3-Flash",
+     "name": "GLM-5.2 (Max)",
      "company": "Z.ai",
-     "score": 1474
+     "score": 1475
     },
     {
      "name": "MiMo-V2.5-Pro",
      "company": "Xiaomi",
-     "score": 1467
+     "score": 1466
     },
     {
      "name": "GLM-5.1",
@@ -1222,7 +1222,7 @@
     {
      "name": "Inkling",
      "company": "Thinky",
-     "score": 1443
+     "score": 1442
     },
     {
      "name": "Qwen3.5-397B-A17B",
@@ -1245,29 +1245,29 @@
      "score": 1437
     },
     {
-     "name": "MiniMax-M3",
-     "company": "MiniMax",
-     "score": 1436
-    },
-    {
      "name": "DeepSeek-V4-Flash",
      "company": "DeepSeek",
      "score": 1436
     },
     {
-     "name": "Beam 1.0 501B A23B",
-     "company": "Reflection",
-     "score": 1435
+     "name": "MiniMax-M3",
+     "company": "MiniMax",
+     "score": 1436
     },
     {
-     "name": "MiMo-V2.5",
-     "company": "Xiaomi",
+     "name": "Beam 1.0 501B A23B",
+     "company": "Reflection",
      "score": 1434
     },
     {
      "name": "Qwen3.8-27B",
      "company": "Alibaba",
-     "score": 1433
+     "score": 1434
+    },
+    {
+     "name": "MiMo-V2.5",
+     "company": "Xiaomi",
+     "score": 1434
     },
     {
      "name": "Kimi K2.5 (Instant)",
