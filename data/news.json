@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-13T17:11:30+00:00",
+ "updated": "2026-11-13T23:30:54+00:00",
  "items": [
+  {
+   "title": "Claude Meetings",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/claude-meetings",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T22:39:15+00:00",
+   "field": "text",
+   "points": 51,
+   "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T18:00:39+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "source": "Hacker News",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:55:23+00:00",
+   "field": "",
+   "points": 134,
+   "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:30:10+00:00",
+   "field": "",
+   "points": 293,
+   "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "XYBench: Helping with the problem behind the question",
    "source": "Hugging Face",
@@ -22,6 +69,18 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+   "source": "Hacker News",
+   "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T14:34:13+00:00",
+   "field": "",
+   "points": 31,
+   "image": "https://i.insider.com/6af486880cc3ffba8779beeb?width=1200&format=jpeg",
+   "score": 0,
+   "tier": "medium"
   },
   {
    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -52,7 +111,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:20:09+00:00",
    "field": "text",
-   "points": 184,
+   "points": 193,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -64,7 +123,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:18:13+00:00",
    "field": "code",
-   "points": 428,
+   "points": 480,
    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
    "score": 2,
    "tier": "medium"
@@ -88,7 +147,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 335,
+   "points": 355,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -122,7 +181,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 475,
+   "points": 494,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -134,7 +193,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 554,
+   "points": 556,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -157,7 +216,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 448,
+   "points": 463,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -192,7 +251,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 984,
+   "points": 993,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -362,7 +421,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T22:17:56+00:00",
    "field": "",
-   "points": 458,
+   "points": 459,
    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
    "score": 2,
    "tier": "medium"
@@ -374,7 +433,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 560,
+   "points": 565,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -405,14 +464,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -483,6 +541,17 @@
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "score": 1,
    "tier": "medium"
+  },
+  {
+   "title": "Opening the datasets behind our AI weather models",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T11:13:04+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
+   "score": 4,
+   "tier": "top"
   },
   {
    "title": "Introducing Businesses in ChatGPT",
@@ -662,7 +731,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:56:29+00:00",
    "field": "text",
-   "points": 998,
+   "points": 999,
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "score": 2,
    "tier": "medium"
@@ -1537,7 +1606,7 @@
    "date": "2026-11-03",
    "ts": "2026-11-03T12:21:17+00:00",
    "field": "open-source",
-   "points": 1043,
+   "points": 1044,
    "image": "https://honnibal.dev/social.png",
    "score": 2,
    "tier": "medium"
@@ -1653,77 +1722,6 @@
    "points": 228,
    "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-   "source": "Hacker News",
-   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T22:30:47+00:00",
-   "field": "",
-   "points": 406,
-   "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "LLMs are not superhuman at reading and writing neural network weights",
-   "source": "Hacker News",
-   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T22:26:53+00:00",
-   "field": "",
-   "points": 151,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T19:36:37+00:00",
-   "field": "",
-   "points": 74,
-   "image": "",
-   "score": -2,
-   "tier": "medium"
-  },
-  {
-   "title": "Astra can read and write weights to improve Qwen",
-   "source": "Hacker News",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:21:28+00:00",
-   "field": "open-source",
-   "points": 2965,
-   "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic's spending commitments surge to nearly $900B",
-   "source": "Hacker News",
-   "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:15:01+00:00",
-   "field": "",
-   "points": 35,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Rewarding defenders with bigger bug bounties",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
