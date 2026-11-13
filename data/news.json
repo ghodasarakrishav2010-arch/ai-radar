@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-13T06:40:59+00:00",
+ "updated": "2026-11-13T17:11:30+00:00",
  "items": [
+  {
+   "title": "XYBench: Helping with the problem behind the question",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:02:35+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing ChatGPT Wallet",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T15:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T14:05:22+00:00",
+   "field": "open-source",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T13:00:42+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Is Down",
+   "source": "Hacker News",
+   "url": "https://status.claude.com/history",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T10:20:09+00:00",
+   "field": "text",
+   "points": 184,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "source": "Hacker News",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T10:18:13+00:00",
+   "field": "code",
+   "points": 428,
+   "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Tell HN: Claude Code Is Down",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50480909",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T09:51:59+00:00",
+   "field": "code",
+   "points": 37,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
    "source": "Hacker News",
@@ -8,10 +88,10 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 253,
+   "points": 335,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -42,7 +122,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 381,
+   "points": 475,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -54,7 +134,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 506,
+   "points": 554,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -77,7 +157,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 329,
+   "points": 448,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -112,7 +192,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 890,
+   "points": 984,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -180,7 +260,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 557,
+   "points": 565,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -282,7 +362,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T22:17:56+00:00",
    "field": "",
-   "points": 457,
+   "points": 458,
    "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
    "score": 2,
    "tier": "medium"
@@ -294,7 +374,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 555,
+   "points": 560,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -306,7 +386,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 294,
+   "points": 296,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -663,7 +743,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 219,
+   "points": 220,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -848,9 +928,9 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 99,
+   "points": 100,
    "image": "",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1636,17 +1716,6 @@
    "tier": "medium"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Rewarding defenders with bigger bug bounties",
    "source": "OpenAI",
    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
@@ -1655,76 +1724,6 @@
    "field": "",
    "image": "",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "source": "Hacker News",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T16:40:29+00:00",
-   "field": "",
-   "points": 352,
-   "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-   "source": "Hacker News",
-   "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T16:25:33+00:00",
-   "field": "text",
-   "points": 106,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Scaling Git at OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T15:30:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Introducing the Grid Protectors Program",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/grid-protectors-program",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T15:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "GPT-Rosalind-6 System Card Addendum",
-   "source": "Hacker News",
-   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:44:02+00:00",
-   "field": "text",
-   "points": 71,
-   "image": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:40:05+00:00",
-   "field": "",
-   "points": 188,
-   "image": "",
-   "score": 1,
    "tier": "medium"
   }
  ]
