@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-14T13:36:40+00:00",
+ "updated": "2026-11-14T19:56:20+00:00",
  "items": [
+  {
+   "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T17:51:13+00:00",
+   "field": "text",
+   "points": 32,
+   "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-2000-80.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "source": "Hacker News",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T15:04:15+00:00",
+   "field": "open-source",
+   "points": 77,
+   "image": "https://opengraph.githubassets.com/a7114746111eb85003f08f3f70fc96eb305e9ed8d6db61614a788ee0fac7007f/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "source": "Hacker News",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T14:09:25+00:00",
+   "field": "",
+   "points": 107,
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "The Claude Delusion",
+   "source": "Hacker News",
+   "url": "https://www.netmeister.org/blog/claude-delusion.html",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T13:36:17+00:00",
+   "field": "text",
+   "points": 132,
+   "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
    "source": "Hacker News",
@@ -8,7 +56,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 56,
+   "points": 70,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -20,7 +68,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T00:28:11+00:00",
    "field": "code",
-   "points": 92,
+   "points": 97,
    "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
    "score": 0,
    "tier": "medium"
@@ -32,7 +80,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T22:39:15+00:00",
    "field": "text",
-   "points": 103,
+   "points": 107,
    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -55,7 +103,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:55:23+00:00",
    "field": "",
-   "points": 172,
+   "points": 174,
    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
    "score": 2,
    "tier": "medium"
@@ -67,7 +115,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:39:03+00:00",
    "field": "open-source",
-   "points": 62,
+   "points": 67,
    "image": "https://opengraph.githubassets.com/74ae0e87241545fb3ca289fb90f4a0c40321060463259af1c2bdcd1e54e96528/basetenlabs/deepseek-ultrafast",
    "score": 0,
    "tier": "medium"
@@ -79,7 +127,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 401,
+   "points": 416,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -125,7 +173,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T14:34:13+00:00",
    "field": "",
-   "points": 33,
+   "points": 34,
    "image": "https://i.insider.com/6af486880cc3ffba8779beeb?width=1200&format=jpeg",
    "score": 0,
    "tier": "medium"
@@ -171,7 +219,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:18:13+00:00",
    "field": "code",
-   "points": 489,
+   "points": 491,
    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
    "score": 2,
    "tier": "medium"
@@ -206,7 +254,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 365,
+   "points": 370,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -252,7 +300,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 565,
+   "points": 568,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -275,7 +323,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 475,
+   "points": 478,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -310,7 +358,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 996,
+   "points": 1001,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -492,7 +540,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 567,
+   "points": 569,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -523,14 +571,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1679,51 +1726,6 @@
    "ts": "2026-11-03T12:00:00+00:00",
    "field": "",
    "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T11:16:07+00:00",
-   "field": "",
-   "points": 84,
-   "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-03-image-7.jpg",
-   "score": -2,
-   "tier": "medium"
-  },
-  {
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/heimstaden",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T07:00:12+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
    "score": 2,
    "tier": "medium"
   }
