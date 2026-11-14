@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T06:16:52+00:00",
+ "updated": "2026-11-14T13:36:40+00:00",
  "items": [
+  {
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50494696",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T06:56:42+00:00",
+   "field": "",
+   "points": 56,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T00:28:11+00:00",
    "field": "code",
-   "points": 75,
+   "points": 92,
    "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
    "score": 0,
    "tier": "medium"
@@ -20,9 +32,9 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T22:39:15+00:00",
    "field": "text",
-   "points": 87,
+   "points": 103,
    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -43,7 +55,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:55:23+00:00",
    "field": "",
-   "points": 156,
+   "points": 172,
    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
    "score": 2,
    "tier": "medium"
@@ -55,7 +67,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:39:03+00:00",
    "field": "open-source",
-   "points": 43,
+   "points": 62,
    "image": "https://opengraph.githubassets.com/74ae0e87241545fb3ca289fb90f4a0c40321060463259af1c2bdcd1e54e96528/basetenlabs/deepseek-ultrafast",
    "score": 0,
    "tier": "medium"
@@ -67,7 +79,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 367,
+   "points": 401,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -95,13 +107,25 @@
    "tier": "top"
   },
   {
+   "title": "Ask HN: Can anyone name anything new that AI has done?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50484426",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T14:53:56+00:00",
+   "field": "",
+   "points": 30,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
    "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
    "source": "Hacker News",
    "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
    "date": "2026-11-13",
    "ts": "2026-11-13T14:34:13+00:00",
    "field": "",
-   "points": 32,
+   "points": 33,
    "image": "https://i.insider.com/6af486880cc3ffba8779beeb?width=1200&format=jpeg",
    "score": 0,
    "tier": "medium"
@@ -135,7 +159,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:20:09+00:00",
    "field": "text",
-   "points": 198,
+   "points": 199,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -147,7 +171,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:18:13+00:00",
    "field": "code",
-   "points": 488,
+   "points": 489,
    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
    "score": 2,
    "tier": "medium"
@@ -182,7 +206,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 357,
+   "points": 365,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -216,7 +240,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 497,
+   "points": 501,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -228,7 +252,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 564,
+   "points": 565,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -251,7 +275,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 470,
+   "points": 475,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -354,7 +378,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 567,
+   "points": 568,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -468,7 +492,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 566,
+   "points": 567,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -499,13 +523,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -996,7 +1021,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 484,
+   "points": 485,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
@@ -1032,7 +1057,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 100,
+   "points": 101,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1699,29 +1724,6 @@
    "ts": "2026-11-03T07:00:12+00:00",
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Mass attempted replication of old findings of LLMs with new models",
-   "source": "Hacker News",
-   "url": "https://zou-group.github.io/llm-claims-shelf-life/",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T03:41:29+00:00",
-   "field": "",
-   "points": 31,
-   "image": "https://zou-group.github.io/llm-claims-shelf-life/preview.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "CWE-bench v2: More coverage, quality, and transparency",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/cwe-bench",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T00:00:00+00:00",
-   "field": "",
-   "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
    "score": 2,
    "tier": "medium"
   }
