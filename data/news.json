@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:01:11+00:00",
+ "updated": "2026-11-15T10:49:10+00:00",
  "items": [
   {
    "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
@@ -8,7 +8,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T17:51:13+00:00",
    "field": "text",
-   "points": 41,
+   "points": 48,
    "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-2000-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -20,7 +20,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T15:04:15+00:00",
    "field": "open-source",
-   "points": 163,
+   "points": 236,
    "image": "https://opengraph.githubassets.com/a7114746111eb85003f08f3f70fc96eb305e9ed8d6db61614a788ee0fac7007f/Vaibhaav-Tiwari/deepseek-v3-jax",
    "score": 1,
    "tier": "medium"
@@ -32,7 +32,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T14:09:25+00:00",
    "field": "",
-   "points": 128,
+   "points": 138,
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
    "score": 1,
    "tier": "medium"
@@ -44,7 +44,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T13:36:17+00:00",
    "field": "text",
-   "points": 145,
+   "points": 148,
    "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
    "score": 1,
    "tier": "medium"
@@ -56,7 +56,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 76,
+   "points": 83,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -80,7 +80,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T22:39:15+00:00",
    "field": "text",
-   "points": 109,
+   "points": 111,
    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -103,7 +103,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:55:23+00:00",
    "field": "",
-   "points": 174,
+   "points": 177,
    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
    "score": 2,
    "tier": "medium"
@@ -115,7 +115,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:39:03+00:00",
    "field": "open-source",
-   "points": 69,
+   "points": 70,
    "image": "https://opengraph.githubassets.com/74ae0e87241545fb3ca289fb90f4a0c40321060463259af1c2bdcd1e54e96528/basetenlabs/deepseek-ultrafast",
    "score": 0,
    "tier": "medium"
@@ -127,7 +127,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 422,
+   "points": 430,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -207,7 +207,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:20:09+00:00",
    "field": "text",
-   "points": 199,
+   "points": 200,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -254,7 +254,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 373,
+   "points": 402,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -288,7 +288,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 501,
+   "points": 503,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -323,7 +323,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 478,
+   "points": 479,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -358,7 +358,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1001,
+   "points": 1002,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -540,7 +540,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 569,
+   "points": 571,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -571,14 +571,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1069,7 +1068,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T10:22:04+00:00",
    "field": "open-source",
-   "points": 485,
+   "points": 487,
    "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
    "score": 2,
    "tier": "medium"
