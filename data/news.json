@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T01:01:07+00:00",
+ "updated": "2026-11-16T11:10:56+00:00",
  "items": [
+  {
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T09:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
    "source": "NVIDIA",
@@ -41,7 +52,7 @@
    "date": "2026-11-15",
    "ts": "2026-11-15T12:14:06+00:00",
    "field": "",
-   "points": 196,
+   "points": 228,
    "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
    "score": 1,
    "tier": "medium"
@@ -65,7 +76,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T15:04:15+00:00",
    "field": "open-source",
-   "points": 272,
+   "points": 273,
    "image": "https://opengraph.githubassets.com/a7114746111eb85003f08f3f70fc96eb305e9ed8d6db61614a788ee0fac7007f/Vaibhaav-Tiwari/deepseek-v3-jax",
    "score": 1,
    "tier": "medium"
@@ -89,7 +100,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T13:36:17+00:00",
    "field": "text",
-   "points": 151,
+   "points": 152,
    "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
    "score": 1,
    "tier": "medium"
@@ -101,7 +112,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 88,
+   "points": 90,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -125,7 +136,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T22:39:15+00:00",
    "field": "text",
-   "points": 111,
+   "points": 112,
    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -252,7 +263,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:26:01+00:00",
    "field": "text",
-   "points": 111,
+   "points": 123,
    "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
    "score": 2,
    "tier": "medium"
@@ -311,7 +322,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 437,
+   "points": 442,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -345,7 +356,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 504,
+   "points": 506,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -357,7 +368,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 570,
+   "points": 572,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -380,7 +391,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 480,
+   "points": 481,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -415,7 +426,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1003,
+   "points": 1004,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -452,7 +463,7 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 330,
+   "points": 426,
    "score": 2,
    "tier": "medium"
   },
@@ -610,7 +621,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 574,
+   "points": 575,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -838,7 +849,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T20:04:55+00:00",
    "field": "text",
-   "points": 379,
+   "points": 380,
    "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
    "score": 2,
    "tier": "medium"
@@ -920,7 +931,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 737,
+   "points": 738,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -1717,17 +1728,6 @@
    "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
    "score": 2,
    "tier": "medium"
-  },
-  {
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T16:35:36+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
-   "score": 4,
-   "tier": "top"
   }
  ]
 }
