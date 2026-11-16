@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T18:49:07+00:00",
+ "updated": "2026-11-16T01:01:07+00:00",
  "items": [
+  {
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T00:00:28+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "A step toward defining the Standard Model on a lattice",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "date": "2026-11-15",
+   "ts": "2026-11-15T22:00:01+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Our new blog for science",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "date": "2026-11-15",
+   "ts": "2026-11-15T22:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Understanding Positional Embeddings in Modern LLMs",
    "source": "Hacker News",
@@ -8,7 +41,7 @@
    "date": "2026-11-15",
    "ts": "2026-11-15T12:14:06+00:00",
    "field": "",
-   "points": 138,
+   "points": 196,
    "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
    "score": 1,
    "tier": "medium"
@@ -20,7 +53,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T17:51:13+00:00",
    "field": "text",
-   "points": 49,
+   "points": 50,
    "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-2000-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -32,7 +65,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T15:04:15+00:00",
    "field": "open-source",
-   "points": 264,
+   "points": 272,
    "image": "https://opengraph.githubassets.com/a7114746111eb85003f08f3f70fc96eb305e9ed8d6db61614a788ee0fac7007f/Vaibhaav-Tiwari/deepseek-v3-jax",
    "score": 1,
    "tier": "medium"
@@ -44,7 +77,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T14:09:25+00:00",
    "field": "",
-   "points": 142,
+   "points": 144,
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
    "score": 1,
    "tier": "medium"
@@ -56,7 +89,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T13:36:17+00:00",
    "field": "text",
-   "points": 149,
+   "points": 151,
    "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
    "score": 1,
    "tier": "medium"
@@ -68,7 +101,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 87,
+   "points": 88,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -80,9 +113,9 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T00:28:11+00:00",
    "field": "code",
-   "points": 99,
+   "points": 100,
    "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -115,7 +148,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:55:23+00:00",
    "field": "",
-   "points": 178,
+   "points": 179,
    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
    "score": 2,
    "tier": "medium"
@@ -139,7 +172,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 434,
+   "points": 438,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -219,9 +252,9 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:26:01+00:00",
    "field": "text",
-   "points": 77,
+   "points": 111,
    "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -278,7 +311,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 417,
+   "points": 437,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -312,7 +345,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 503,
+   "points": 504,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -419,8 +452,8 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 135,
-   "score": 1,
+   "points": 330,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -577,7 +610,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 572,
+   "points": 574,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -589,7 +622,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 297,
+   "points": 298,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -608,14 +641,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -794,7 +826,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T22:19:12+00:00",
    "field": "code",
-   "points": 162,
+   "points": 163,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1694,41 +1726,6 @@
    "ts": "2026-11-03T16:35:36+00:00",
    "field": "",
    "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T16:00:45+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-   "source": "Hacker News",
-   "url": "https://concepts.laxmena.com/",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T15:48:35+00:00",
-   "field": "text",
-   "points": 41,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50352757",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T14:53:41+00:00",
-   "field": "code",
-   "points": 535,
-   "image": "",
    "score": 4,
    "tier": "top"
   }
