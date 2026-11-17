@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-16T21:58:50+00:00",
+ "updated": "2026-11-17T07:51:50+00:00",
  "items": [
+  {
+   "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T01:35:16+00:00",
+   "field": "text",
+   "points": 43,
+   "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T23:00:05+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
    "source": "NVIDIA",
@@ -101,6 +135,17 @@
    "tier": "medium"
   },
   {
+   "title": "How Revolut raises ambition without lowering the bar",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T09:30:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
    "source": "OpenAI",
    "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -123,17 +168,6 @@
    "tier": "medium"
   },
   {
-   "title": "Advancing computer-use agents for healthcare teams",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T06:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "More ways to move care forward with ChatGPT for Healthcare",
    "source": "OpenAI",
    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
@@ -143,6 +177,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Advancing computer-use agents for healthcare teams",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T06:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -217,7 +262,7 @@
    "date": "2026-11-15",
    "ts": "2026-11-15T12:14:06+00:00",
    "field": "",
-   "points": 241,
+   "points": 245,
    "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
    "score": 1,
    "tier": "medium"
@@ -241,7 +286,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T15:04:15+00:00",
    "field": "open-source",
-   "points": 275,
+   "points": 276,
    "image": "https://opengraph.githubassets.com/a7114746111eb85003f08f3f70fc96eb305e9ed8d6db61614a788ee0fac7007f/Vaibhaav-Tiwari/deepseek-v3-jax",
    "score": 1,
    "tier": "medium"
@@ -348,7 +393,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 442,
+   "points": 443,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -428,7 +473,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:26:01+00:00",
    "field": "text",
-   "points": 128,
+   "points": 130,
    "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
    "score": 2,
    "tier": "medium"
@@ -487,7 +532,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 448,
+   "points": 450,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -591,7 +636,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1004,
+   "points": 1005,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -628,7 +673,7 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 445,
+   "points": 451,
    "score": 2,
    "tier": "medium"
   },
@@ -798,7 +843,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T17:55:07+00:00",
    "field": "text",
-   "points": 298,
+   "points": 299,
    "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -817,13 +862,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1676,51 +1722,6 @@
    "field": "",
    "image": "",
    "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "GPT-6 Astra covertly underperforms on safety research",
-   "source": "Hacker News",
-   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T07:44:30+00:00",
-   "field": "text",
-   "points": 342,
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T02:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "source": "OpenAI",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T00:45:15+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/phonon-tts",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T00:00:00+00:00",
-   "field": "audio",
-   "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
-   "score": 3,
    "tier": "top"
   }
  ]
