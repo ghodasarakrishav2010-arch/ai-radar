@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-17T07:51:50+00:00",
+ "updated": "2026-11-17T18:31:52+00:00",
  "items": [
+  {
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T17:45:00+00:00",
+   "field": "text",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T14:00:10+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Regulatory Capture by Anthropic Through METR",
+   "source": "Hacker News",
+   "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T12:21:57+00:00",
+   "field": "",
+   "points": 135,
+   "image": "https://pbs.twimg.com/media/HSNXaLrW4AEnwuB.jpg",
+   "score": -1,
+   "tier": "medium"
+  },
+  {
+   "title": "How the Claude Code team thinks about verification",
+   "source": "Hacker News",
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T10:20:40+00:00",
+   "field": "code",
+   "points": 180,
+   "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Tokendoctor – See what your Claude Code use overpays",
+   "source": "Hacker News",
+   "url": "https://github.com/localixai/tokendoctor",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T02:19:50+00:00",
+   "field": "code",
+   "points": 31,
+   "image": "https://opengraph.githubassets.com/a5d6048c79da4736f098e9675b8036ed8e4d46902a22c46e8f8e4c520c4b11aa/localixai/tokendoctor",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
    "source": "Hacker News",
@@ -8,7 +66,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T01:35:16+00:00",
    "field": "text",
-   "points": 43,
+   "points": 50,
    "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -17,6 +75,28 @@
    "title": "Strengthening NATO and allied cyber defenses with AI",
    "source": "OpenAI",
    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing OpenAI for Chile",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/astra-law-6-2",
    "date": "2026-11-17",
    "ts": "2026-11-17T00:00:00+00:00",
    "field": "",
@@ -168,17 +248,6 @@
    "tier": "medium"
   },
   {
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T06:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Advancing computer-use agents for healthcare teams",
    "source": "OpenAI",
    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
@@ -188,6 +257,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T06:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -262,7 +342,7 @@
    "date": "2026-11-15",
    "ts": "2026-11-15T12:14:06+00:00",
    "field": "",
-   "points": 245,
+   "points": 246,
    "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
    "score": 1,
    "tier": "medium"
@@ -298,7 +378,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T14:09:25+00:00",
    "field": "",
-   "points": 148,
+   "points": 149,
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
    "score": 1,
    "tier": "medium"
@@ -322,7 +402,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 91,
+   "points": 92,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -393,7 +473,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 443,
+   "points": 444,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -497,7 +577,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:18:13+00:00",
    "field": "code",
-   "points": 493,
+   "points": 494,
    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
    "score": 2,
    "tier": "medium"
@@ -532,7 +612,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 450,
+   "points": 451,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -578,7 +658,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 572,
+   "points": 573,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -636,7 +716,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1005,
+   "points": 1006,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -673,7 +753,7 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 451,
+   "points": 454,
    "score": 2,
    "tier": "medium"
   },
@@ -698,6 +778,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "ChatGPT Ads increases its market presence in 44 countries",
+   "source": "OpenAI",
+   "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -831,7 +922,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 576,
+   "points": 577,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -1211,7 +1302,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T08:17:49+00:00",
    "field": "",
-   "points": 221,
+   "points": 222,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1294,6 +1385,17 @@
    "tier": "medium"
   },
   {
+   "title": "How VistaPrint helps small businesses get the word out",
+   "source": "OpenAI",
+   "url": "https://openai.com/ads/customers/vistaprint",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
    "source": "Hacker News",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
@@ -1324,7 +1426,7 @@
    "date": "2026-11-08",
    "ts": "2026-11-08T14:49:23+00:00",
    "field": "",
-   "points": 190,
+   "points": 191,
    "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
    "score": -3,
    "tier": "medium"
@@ -1396,7 +1498,7 @@
    "date": "2026-11-07",
    "ts": "2026-11-07T10:01:48+00:00",
    "field": "",
-   "points": 102,
+   "points": 103,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1621,107 +1723,6 @@
    "field": "code",
    "image": "",
    "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T19:35:16+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T17:05:16+00:00",
-   "field": "text",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T17:00:35+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
-   "video": true,
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Australian universities are creating AI-native graduates",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T17:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T16:00:05+00:00",
-   "field": "open-source",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Chris-Alexiuk_portrait-1280-720.png",
-   "video": true,
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T16:00:00+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T14:00:34+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T09:00:00+00:00",
-   "field": "text",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 4,
    "tier": "top"
   }
  ]
