@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-17T18:31:52+00:00",
+ "updated": "2026-11-18T02:53:33+00:00",
  "items": [
+  {
+   "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+   "source": "Hacker News",
+   "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:08:45+00:00",
+   "field": "",
+   "points": 70,
+   "image": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/Blue-tie%20speaker%20in%20sharp%20focus.png?h=06268292&itok=WghwqoNQ",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Not Everything Needs an LLM",
+   "source": "Hacker News",
+   "url": "https://newsletter.posthog.com/p/decision-models",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T18:16:18+00:00",
+   "field": "text",
+   "points": 107,
+   "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "Introducing GPT-6.2 Astra and Sol",
    "source": "OpenAI",
@@ -11,6 +35,18 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "source": "Hacker News",
+   "url": "https://github.com/RunanywhereAI/trnrt",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T16:01:04+00:00",
+   "field": "open-source",
+   "points": 46,
+   "image": "https://repository-images.githubusercontent.com/1440096236/8057fa03-91df-46f8-9d49-309f457392f0",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
@@ -30,7 +66,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T12:21:57+00:00",
    "field": "",
-   "points": 135,
+   "points": 138,
    "image": "https://pbs.twimg.com/media/HSNXaLrW4AEnwuB.jpg",
    "score": -1,
    "tier": "medium"
@@ -42,10 +78,21 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 180,
+   "points": 269,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
+  },
+  {
+   "title": "Introducing ChatGPT for Sales",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Tokendoctor – See what your Claude Code use overpays",
@@ -66,7 +113,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T01:35:16+00:00",
    "field": "text",
-   "points": 50,
+   "points": 54,
    "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -75,6 +122,17 @@
    "title": "Strengthening NATO and allied cyber defenses with AI",
    "source": "OpenAI",
    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/astra-law-6-2",
    "date": "2026-11-17",
    "ts": "2026-11-17T00:00:00+00:00",
    "field": "",
@@ -92,17 +150,6 @@
    "image": "",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Astra for Law leads in legal intelligence",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/astra-law-6-2",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
   },
   {
    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -248,17 +295,6 @@
    "tier": "medium"
   },
   {
-   "title": "Advancing computer-use agents for healthcare teams",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T06:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "More ways to move care forward with ChatGPT for Healthcare",
    "source": "OpenAI",
    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
@@ -268,6 +304,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Advancing computer-use agents for healthcare teams",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T06:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -449,7 +496,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:55:23+00:00",
    "field": "",
-   "points": 179,
+   "points": 180,
    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
    "score": 2,
    "tier": "medium"
@@ -612,7 +659,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 451,
+   "points": 452,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -681,7 +728,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T15:23:10+00:00",
    "field": "",
-   "points": 483,
+   "points": 484,
    "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
@@ -716,7 +763,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1006,
+   "points": 1007,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -753,7 +800,7 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 454,
+   "points": 455,
    "score": 2,
    "tier": "medium"
   },
@@ -922,7 +969,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 577,
+   "points": 578,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -953,14 +1000,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 295,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1674,53 +1720,6 @@
    "date": "2026-11-06",
    "ts": "2026-11-06T00:00:00+00:00",
    "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Claude Code sends your email address to websites",
-   "source": "Hacker News",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T22:17:15+00:00",
-   "field": "code",
-   "points": 1616,
-   "image": "https://opengraph.githubassets.com/f09b1abc217848d0fe3e4399d117da25951048acca80b56c4c695477a9464f9b/anthropics/claude-code/issues/107757",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-   "source": "Hacker News",
-   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T20:21:43+00:00",
-   "field": "open-source",
-   "points": 63,
-   "image": "https://www.tencent.com/wp-content/uploads/2026/11/H4_thumbnail_4x3-1.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "source": "Hacker News",
-   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T20:16:19+00:00",
-   "field": "",
-   "points": 51,
-   "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Cult.fit builds operational muscle with Codex",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T20:00:00+00:00",
-   "field": "code",
    "image": "",
    "score": 3,
    "tier": "top"
