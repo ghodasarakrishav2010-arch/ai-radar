@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-18T02:53:33+00:00",
+ "updated": "2026-11-18T11:37:00+00:00",
  "items": [
+  {
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "source": "Hacker News",
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T04:14:04+00:00",
+   "field": "text",
+   "points": 110,
+   "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude was trained on protein sequences at scale",
+   "source": "Hacker News",
+   "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T03:47:43+00:00",
+   "field": "text",
+   "points": 66,
+   "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
    "source": "Hacker News",
@@ -8,7 +43,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T19:08:45+00:00",
    "field": "",
-   "points": 70,
+   "points": 93,
    "image": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/Blue-tie%20speaker%20in%20sharp%20focus.png?h=06268292&itok=WghwqoNQ",
    "score": 0,
    "tier": "medium"
@@ -20,7 +55,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 107,
+   "points": 160,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -43,7 +78,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T16:01:04+00:00",
    "field": "open-source",
-   "points": 46,
+   "points": 50,
    "image": "https://repository-images.githubusercontent.com/1440096236/8057fa03-91df-46f8-9d49-309f457392f0",
    "score": 2,
    "tier": "medium"
@@ -66,7 +101,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T12:21:57+00:00",
    "field": "",
-   "points": 138,
+   "points": 140,
    "image": "https://pbs.twimg.com/media/HSNXaLrW4AEnwuB.jpg",
    "score": -1,
    "tier": "medium"
@@ -78,7 +113,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 269,
+   "points": 282,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -101,7 +136,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T02:19:50+00:00",
    "field": "code",
-   "points": 31,
+   "points": 33,
    "image": "https://opengraph.githubassets.com/a5d6048c79da4736f098e9675b8036ed8e4d46902a22c46e8f8e4c520c4b11aa/localixai/tokendoctor",
    "score": 0,
    "tier": "medium"
@@ -113,7 +148,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T01:35:16+00:00",
    "field": "text",
-   "points": 54,
+   "points": 55,
    "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
    "score": 0,
    "tier": "medium"
@@ -295,17 +330,6 @@
    "tier": "medium"
   },
   {
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T06:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Advancing computer-use agents for healthcare teams",
    "source": "OpenAI",
    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
@@ -315,6 +339,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T06:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -855,7 +890,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 569,
+   "points": 570,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -911,7 +946,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T00:37:05+00:00",
    "field": "",
-   "points": 96,
+   "points": 97,
    "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
    "score": 0,
    "tier": "medium"
@@ -1689,40 +1724,6 @@
    "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
    "score": 1,
    "tier": "medium"
-  },
-  {
-   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T00:31:11+00:00",
-   "field": "",
-   "points": 91,
-   "image": "",
-   "score": -4,
-   "tier": "medium"
-  },
-  {
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T00:00:00+00:00",
-   "field": "",
-   "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
   }
  ]
 }
