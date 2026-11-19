@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-18T20:28:24+00:00",
+ "updated": "2026-11-19T02:32:44+00:00",
  "items": [
+  {
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "source": "Hacker News",
+   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:29:45+00:00",
+   "field": "text",
+   "points": 88,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+   "source": "Hacker News",
+   "url": "https://claudia.gallery/fable/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:18:18+00:00",
+   "field": "text",
+   "points": 44,
+   "image": "https://claudia.gallery/og/fable.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic prices initial public offering",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T23:30:09+00:00",
+   "field": "",
+   "points": 81,
+   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "LLM assisted reverse engineering",
+   "source": "Hacker News",
+   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T22:29:13+00:00",
+   "field": "text",
+   "points": 78,
+   "image": "https://www.slowchronicle.com/og-default.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing Gemini 4 Neon",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:35:43+00:00",
+   "field": "text",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "Gemini 4 Neon",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:34:07+00:00",
+   "field": "text",
+   "points": 489,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:20:17+00:00",
+   "field": "text",
+   "points": 50,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566_1.width-1300.png",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
    "source": "Hugging Face",
@@ -35,13 +118,25 @@
    "tier": "medium"
   },
   {
+   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50549188",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T17:26:28+00:00",
+   "field": "",
+   "points": 44,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
    "source": "Hacker News",
    "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 118,
+   "points": 126,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -53,7 +148,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:59:04+00:00",
    "field": "",
-   "points": 30,
+   "points": 46,
    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
    "score": -2,
    "tier": "medium"
@@ -65,7 +160,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:08:21+00:00",
    "field": "",
-   "points": 38,
+   "points": 45,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -90,6 +185,39 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
    "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "The Silent Consensus",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T10:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -121,7 +249,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 258,
+   "points": 265,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -133,7 +261,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 157,
+   "points": 165,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -183,17 +311,6 @@
    "tier": "top"
   },
   {
-   "title": "The Silent Consensus",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
    "source": "Hacker News",
    "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
@@ -212,7 +329,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 176,
+   "points": 180,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -270,7 +387,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 290,
+   "points": 292,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -851,7 +968,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 452,
+   "points": 453,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -885,7 +1002,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 507,
+   "points": 508,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -992,7 +1109,7 @@
    "field": "code",
    "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
    "video": true,
-   "points": 455,
+   "points": 456,
    "score": 2,
    "tier": "medium"
   },
@@ -1471,7 +1588,7 @@
    "date": "2026-11-09",
    "ts": "2026-11-09T18:24:38+00:00",
    "field": "text",
-   "points": 739,
+   "points": 740,
    "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
    "score": 2,
    "tier": "medium"
@@ -1598,123 +1715,6 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T05:00:04+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T05:00:00+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "How VistaPrint helps small businesses get the word out",
-   "source": "OpenAI",
-   "url": "https://openai.com/ads/customers/vistaprint",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "source": "Hacker News",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T18:16:07+00:00",
-   "field": "code",
-   "points": 903,
-   "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-   "source": "Hacker News",
-   "url": "https://github.com/sshah03/recalc",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T15:12:07+00:00",
-   "field": "code",
-   "points": 37,
-   "image": "https://repository-images.githubusercontent.com/1444840798/af648455-e25f-46ff-bdc6-280cd3a8c373",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "OpenAI raises $11B at a $1.25T valuation",
-   "source": "Hacker News",
-   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T14:49:23+00:00",
-   "field": "",
-   "points": 191,
-   "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
-   "score": -3,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T12:41:25+00:00",
-   "field": "",
-   "points": 43,
-   "image": "",
-   "score": -2,
-   "tier": "medium"
-  },
-  {
-   "title": "Why I will not be using LLMs in my coding",
-   "source": "Hacker News",
-   "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T12:14:10+00:00",
-   "field": "code",
-   "points": 119,
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "source": "Hacker News",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T10:22:04+00:00",
-   "field": "open-source",
-   "points": 487,
-   "image": "https://opengraph.githubassets.com/4ce4ed0a7b16cdf6fc8e8406aa01000b277e111eeec4e6277727efedced90f3b/synchopate/llama-modchip",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Goodbye Claude, hello Pi",
-   "source": "Hacker News",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "date": "2026-11-08",
-   "ts": "2026-11-08T03:11:48+00:00",
-   "field": "text",
-   "points": 821,
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
