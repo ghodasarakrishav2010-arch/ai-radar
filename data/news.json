@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-19T02:32:44+00:00",
+ "updated": "2026-11-19T11:35:24+00:00",
  "items": [
+  {
+   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2607.29378",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T01:27:02+00:00",
+   "field": "text",
+   "points": 46,
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
    "source": "Hacker News",
@@ -8,9 +20,9 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 88,
+   "points": 233,
    "image": "",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -20,7 +32,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:18:18+00:00",
    "field": "text",
-   "points": 44,
+   "points": 60,
    "image": "https://claudia.gallery/og/fable.jpg",
    "score": 0,
    "tier": "medium"
@@ -32,9 +44,9 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 81,
+   "points": 254,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -44,9 +56,9 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 78,
+   "points": 230,
    "image": "https://www.slowchronicle.com/og-default.png",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -67,7 +79,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 489,
+   "points": 859,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -79,7 +91,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T20:20:17+00:00",
    "field": "text",
-   "points": 50,
+   "points": 54,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566_1.width-1300.png",
    "score": 0,
    "tier": "medium"
@@ -124,7 +136,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T17:26:28+00:00",
    "field": "",
-   "points": 44,
+   "points": 54,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -136,7 +148,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 126,
+   "points": 134,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -148,7 +160,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:59:04+00:00",
    "field": "",
-   "points": 46,
+   "points": 50,
    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
    "score": -2,
    "tier": "medium"
@@ -160,7 +172,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:08:21+00:00",
    "field": "",
-   "points": 45,
+   "points": 46,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -249,7 +261,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 265,
+   "points": 271,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -261,7 +273,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 165,
+   "points": 174,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -317,9 +329,9 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T19:08:45+00:00",
    "field": "",
-   "points": 99,
+   "points": 101,
    "image": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/Blue-tie%20speaker%20in%20sharp%20focus.png?h=06268292&itok=WghwqoNQ",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -329,7 +341,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 180,
+   "points": 184,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -387,7 +399,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 292,
+   "points": 294,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -758,7 +770,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 92,
+   "points": 93,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1309,13 +1321,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1703,17 +1716,6 @@
    "ts": "2026-11-09T05:00:40+00:00",
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T05:00:39+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
    "score": 1,
    "tier": "medium"
   }
