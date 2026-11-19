@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-19T11:35:24+00:00",
+ "updated": "2026-11-19T20:32:07+00:00",
  "items": [
+  {
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T20:00:15+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude solves two open problems in the physics of black holes",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:30:44+00:00",
+   "field": "text",
+   "points": 233,
+   "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:02:40+00:00",
+   "field": "",
+   "points": 533,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:00:35+00:00",
+   "field": "",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "video": true,
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50562528",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T16:47:32+00:00",
+   "field": "",
+   "points": 39,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
+  {
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "source": "Hacker News",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T15:38:12+00:00",
+   "field": "audio",
+   "points": 168,
+   "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "OpenAI still has a WebRTC Problem",
+   "source": "Hacker News",
+   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T14:20:08+00:00",
+   "field": "",
+   "points": 87,
+   "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
    "source": "Hacker News",
@@ -20,7 +114,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 233,
+   "points": 248,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -32,7 +126,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:18:18+00:00",
    "field": "text",
-   "points": 60,
+   "points": 61,
    "image": "https://claudia.gallery/og/fable.jpg",
    "score": 0,
    "tier": "medium"
@@ -44,9 +138,9 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 254,
+   "points": 408,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -56,7 +150,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 230,
+   "points": 293,
    "image": "https://www.slowchronicle.com/og-default.png",
    "score": 1,
    "tier": "medium"
@@ -79,7 +173,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 859,
+   "points": 994,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -91,7 +185,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T20:20:17+00:00",
    "field": "text",
-   "points": 54,
+   "points": 57,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566_1.width-1300.png",
    "score": 0,
    "tier": "medium"
@@ -136,7 +230,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T17:26:28+00:00",
    "field": "",
-   "points": 54,
+   "points": 57,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -148,7 +242,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 134,
+   "points": 136,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -160,7 +254,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:59:04+00:00",
    "field": "",
-   "points": 50,
+   "points": 51,
    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
    "score": -2,
    "tier": "medium"
@@ -211,17 +305,6 @@
    "tier": "medium"
   },
   {
-   "title": "Research acceleration: The jagged frontier",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "source": "OpenAI",
    "url": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -231,6 +314,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Inside the Codex sandbox",
@@ -261,7 +355,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 271,
+   "points": 274,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -273,7 +367,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 174,
+   "points": 176,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -341,7 +435,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 184,
+   "points": 186,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -399,7 +493,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 294,
+   "points": 295,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -451,17 +545,6 @@
    "tier": "medium"
   },
   {
-   "title": "Astra for Law leads in legal intelligence",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/astra-law-6-2",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Introducing OpenAI for Chile",
    "source": "OpenAI",
    "url": "https://openai.com/index/introducing-openai-for-chile",
@@ -471,6 +554,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -980,7 +1074,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 453,
+   "points": 454,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -1014,7 +1108,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:52:01+00:00",
    "field": "text",
-   "points": 508,
+   "points": 509,
    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
    "score": 2,
    "tier": "medium"
@@ -1084,7 +1178,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1007,
+   "points": 1008,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -1321,14 +1415,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1626,96 +1719,6 @@
    "field": "",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
    "video": true,
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/control-room",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T13:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T12:34:29+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-   "source": "Hacker News",
-   "url": "https://github.com/samir-sarwar/samir-vllm",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T11:36:55+00:00",
-   "field": "text",
-   "points": 80,
-   "image": "https://opengraph.githubassets.com/6db9ea2cc305ce8bc819163a8072d22e01ad21c4acac128ab534946d7182c61d/samir-sarwar/samir-vllm",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50422628",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T08:17:49+00:00",
-   "field": "",
-   "points": 222,
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T08:00:53+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/kuken",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T05:00:40+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
    "score": 1,
    "tier": "medium"
   }
