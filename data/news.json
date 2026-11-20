@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-19T20:32:07+00:00",
+ "updated": "2026-11-20T02:18:00+00:00",
  "items": [
+  {
+   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+   "source": "Hacker News",
+   "url": "https://git-aarvin.github.io/mei/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T23:35:35+00:00",
+   "field": "text",
+   "points": 124,
+   "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
    "source": "NVIDIA",
@@ -13,25 +25,37 @@
    "tier": "medium"
   },
   {
+   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+   "source": "Hacker News",
+   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T18:42:13+00:00",
+   "field": "",
+   "points": 39,
+   "image": "https://cdn.sanity.io/images/3tzzh18d/production/4ce401d4cfc4533fae7db892ef9dd1164b0048e3-2048x1366.jpg",
+   "score": -2,
+   "tier": "medium"
+  },
+  {
    "title": "Claude solves two open problems in the physics of black holes",
    "source": "Hacker News",
    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 233,
+   "points": 398,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
-   "title": "Anthropic hits $2T in Nasdaq debut",
+   "title": "Anthropic’s Nasdaq debut",
    "source": "Hacker News",
    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 533,
+   "points": 924,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -67,7 +91,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 168,
+   "points": 216,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -79,7 +103,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T14:20:08+00:00",
    "field": "",
-   "points": 87,
+   "points": 92,
    "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
    "score": 0,
    "tier": "medium"
@@ -102,7 +126,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T01:27:02+00:00",
    "field": "text",
-   "points": 46,
+   "points": 47,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -114,7 +138,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 248,
+   "points": 251,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -132,13 +156,57 @@
    "tier": "medium"
   },
   {
+   "title": "Deploying Daybreak Red",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "See PR scans in action",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Explore the Codex Security Plugin",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Get started with Daybreak Blue",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Anthropic prices initial public offering",
    "source": "Hacker News",
    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 408,
+   "points": 412,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -150,7 +218,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 293,
+   "points": 299,
    "image": "https://www.slowchronicle.com/og-default.png",
    "score": 1,
    "tier": "medium"
@@ -173,7 +241,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 994,
+   "points": 1017,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -230,7 +298,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T17:26:28+00:00",
    "field": "",
-   "points": 57,
+   "points": 58,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -242,7 +310,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 136,
+   "points": 145,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -254,7 +322,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:59:04+00:00",
    "field": "",
-   "points": 51,
+   "points": 53,
    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
    "score": -2,
    "tier": "medium"
@@ -305,17 +373,6 @@
    "tier": "medium"
   },
   {
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/customer-stories/sumitomo-life",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Research acceleration: The jagged frontier",
    "source": "OpenAI",
    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -325,6 +382,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Inside the Codex sandbox",
@@ -355,7 +423,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 274,
+   "points": 278,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -367,7 +435,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 176,
+   "points": 178,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -395,17 +463,6 @@
    "tier": "top"
   },
   {
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Advancing chip design with OpenAI models",
    "source": "OpenAI",
    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
@@ -415,6 +472,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
@@ -493,7 +561,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 295,
+   "points": 296,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -876,7 +944,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T00:28:11+00:00",
    "field": "code",
-   "points": 100,
+   "points": 101,
    "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
    "score": 1,
    "tier": "medium"
@@ -1120,7 +1188,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 573,
+   "points": 574,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -1270,7 +1338,7 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:32:42+00:00",
    "field": "text",
-   "points": 570,
+   "points": 571,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "score": 3,
    "tier": "top"
@@ -1415,13 +1483,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1649,77 +1718,6 @@
    "field": "",
    "image": "",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Testing Claude on real-world electronics design",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-electronics-design",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:58:48+00:00",
-   "field": "text",
-   "points": 35,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Fable 5.2",
-   "source": "Hacker News",
-   "url": "https://twitter.com/claudeai/status/2119867114450268322",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:58:35+00:00",
-   "field": "text",
-   "points": 33,
-   "image": "https://pbs.twimg.com/media/HWtIJNLWUAAcc7I?format=webp&name=large",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:56:29+00:00",
-   "field": "text",
-   "points": 1000,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "source": "Hacker News",
-   "url": "https://github.com/thisisme6598/gemini_files/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:24:38+00:00",
-   "field": "text",
-   "points": 740,
-   "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T15:05:57+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T14:00:01+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
-   "video": true,
-   "score": 1,
    "tier": "medium"
   }
  ]
