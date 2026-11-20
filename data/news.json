@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-20T11:31:52+00:00",
+ "updated": "2026-11-20T20:12:16+00:00",
  "items": [
+  {
+   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+   "source": "Hacker News",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T17:44:01+00:00",
+   "field": "",
+   "points": 145,
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-new-york-stock-exchange-ew-302p-4b969a.jpg",
+   "score": -3,
+   "tier": "medium"
+  },
+  {
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "source": "Hacker News",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T16:59:27+00:00",
+   "field": "",
+   "points": 130,
+   "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:29:59+00:00",
+   "field": "",
+   "points": 179,
+   "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
+   "score": -3,
+   "tier": "medium"
+  },
+  {
+   "title": "Combatting adversarial distillation",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T10:00:00+00:00",
+   "field": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
+   "score": 4,
+   "tier": "top"
+  },
+  {
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T00:00:00+00:00",
+   "field": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
    "source": "Hacker News",
@@ -8,10 +77,22 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 350,
+   "points": 360,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "An FBI agent called a Claude user about his chats",
+   "source": "Hacker News",
+   "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T22:36:51+00:00",
+   "field": "text",
+   "points": 32,
+   "image": "https://substackcdn.com/image/fetch/$s_!NWUr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4762:0.3834:1.05!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d557e9-ee2f-486f-8ce6-c7cf6e819d91_1468x1560.png",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -31,7 +112,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T18:42:13+00:00",
    "field": "",
-   "points": 47,
+   "points": 50,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/4ce401d4cfc4533fae7db892ef9dd1164b0048e3-2048x1366.jpg",
    "score": -2,
    "tier": "medium"
@@ -43,7 +124,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 509,
+   "points": 547,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -55,7 +136,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1092,
+   "points": 1125,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -91,7 +172,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 253,
+   "points": 265,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -103,7 +184,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T14:20:08+00:00",
    "field": "",
-   "points": 97,
+   "points": 99,
    "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
    "score": 0,
    "tier": "medium"
@@ -138,7 +219,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 254,
+   "points": 255,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -153,6 +234,17 @@
    "points": 61,
    "image": "https://claudia.gallery/og/fable.jpg",
    "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Explore the Codex Security Plugin",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "code",
+   "image": "",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -173,17 +265,6 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:00:00+00:00",
    "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Explore the Codex Security Plugin",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T00:00:00+00:00",
-   "field": "code",
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -218,7 +299,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 305,
+   "points": 313,
    "image": "https://www.slowchronicle.com/og-default.png",
    "score": 2,
    "tier": "medium"
@@ -241,7 +322,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1035,
+   "points": 1044,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -310,7 +391,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 146,
+   "points": 148,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -373,17 +454,6 @@
    "tier": "medium"
   },
   {
-   "title": "Research acceleration: The jagged frontier",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "source": "OpenAI",
    "url": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -393,6 +463,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Inside the Codex sandbox",
@@ -423,7 +504,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 281,
+   "points": 282,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -435,7 +516,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 178,
+   "points": 180,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -932,7 +1013,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 93,
+   "points": 94,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1142,7 +1223,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 456,
+   "points": 457,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -1483,13 +1564,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1636,86 +1718,6 @@
    "ts": "2026-11-10T00:00:00+00:00",
    "field": "open-source",
    "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Decision Models in Hugging Face",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/decision",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T00:00:00+00:00",
-   "field": "open-source",
-   "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/cogent-security",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "A year after the 100% AI mandate nobody understands our code",
-   "source": "Hacker News",
-   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T22:19:12+00:00",
-   "field": "code",
-   "points": 163,
-   "image": "",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T20:04:55+00:00",
-   "field": "text",
-   "points": 380,
-   "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T19:51:47+00:00",
-   "field": "text",
-   "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Fable 5.2 launch offers",
-   "source": "Hacker News",
-   "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T19:12:16+00:00",
-   "field": "text",
-   "points": 30,
-   "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T19:00:00+00:00",
-   "field": "",
-   "image": "",
    "score": 2,
    "tier": "medium"
   }
