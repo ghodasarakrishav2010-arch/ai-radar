@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:18:00+00:00",
+ "updated": "2026-11-20T11:31:52+00:00",
  "items": [
   {
    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
@@ -8,10 +8,10 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 124,
+   "points": 350,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -31,7 +31,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T18:42:13+00:00",
    "field": "",
-   "points": 39,
+   "points": 47,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/4ce401d4cfc4533fae7db892ef9dd1164b0048e3-2048x1366.jpg",
    "score": -2,
    "tier": "medium"
@@ -43,7 +43,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 398,
+   "points": 509,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -55,7 +55,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 924,
+   "points": 1092,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -85,13 +85,13 @@
    "tier": "medium"
   },
   {
-   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "source": "Hacker News",
    "url": "https://thedataexchange.media/pete-warden-moonshine/",
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 216,
+   "points": 253,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -103,7 +103,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T14:20:08+00:00",
    "field": "",
-   "points": 92,
+   "points": 97,
    "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
    "score": 0,
    "tier": "medium"
@@ -138,7 +138,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 251,
+   "points": 254,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -206,7 +206,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 412,
+   "points": 417,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -218,9 +218,9 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 299,
+   "points": 305,
    "image": "https://www.slowchronicle.com/og-default.png",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -241,7 +241,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1017,
+   "points": 1035,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -298,7 +298,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T17:26:28+00:00",
    "field": "",
-   "points": 58,
+   "points": 60,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -310,7 +310,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 145,
+   "points": 146,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -423,7 +423,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 278,
+   "points": 281,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -1142,7 +1142,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T21:56:11+00:00",
    "field": "",
-   "points": 454,
+   "points": 456,
    "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
    "score": 3,
    "tier": "top"
@@ -1246,7 +1246,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T11:46:41+00:00",
    "field": "",
-   "points": 1008,
+   "points": 1009,
    "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
    "score": 0,
    "tier": "medium"
@@ -1452,7 +1452,7 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T21:25:03+00:00",
    "field": "",
-   "points": 578,
+   "points": 580,
    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
    "score": 3,
    "tier": "top"
@@ -1483,14 +1483,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
