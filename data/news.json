@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:57:26+00:00",
+ "updated": "2026-11-21T19:12:06+00:00",
  "items": [
   {
    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
@@ -8,7 +8,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T22:18:20+00:00",
    "field": "",
-   "points": 42,
+   "points": 50,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -20,7 +20,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T21:18:46+00:00",
    "field": "",
-   "points": 57,
+   "points": 64,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -44,7 +44,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 276,
+   "points": 278,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -68,7 +68,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 323,
+   "points": 470,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -135,7 +135,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 370,
+   "points": 372,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -147,7 +147,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T22:36:51+00:00",
    "field": "text",
-   "points": 33,
+   "points": 34,
    "image": "https://substackcdn.com/image/fetch/$s_!NWUr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4762:0.3834:1.05!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d557e9-ee2f-486f-8ce6-c7cf6e819d91_1468x1560.png",
    "score": 1,
    "tier": "medium"
@@ -182,7 +182,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 558,
+   "points": 565,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -194,7 +194,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1133,
+   "points": 1137,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -345,7 +345,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 421,
+   "points": 422,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -380,7 +380,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1055,
+   "points": 1057,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -473,7 +473,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T15:08:21+00:00",
    "field": "",
-   "points": 46,
+   "points": 47,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -488,6 +488,18 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "LLMs can read and write executables byte by byte from a hex dump",
+   "source": "Hacker News",
+   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T14:15:58+00:00",
+   "field": "",
+   "points": 117,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
@@ -642,7 +654,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 187,
+   "points": 188,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -700,7 +712,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 296,
+   "points": 297,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -1222,7 +1234,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T10:26:01+00:00",
    "field": "text",
-   "points": 130,
+   "points": 132,
    "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
    "score": 2,
    "tier": "medium"
@@ -1622,14 +1634,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1710,17 +1721,6 @@
    "field": "",
    "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
    "score": 4,
-   "tier": "top"
-  },
-  {
-   "title": "Introducing Businesses in ChatGPT",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T10:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
    "tier": "top"
   }
  ]
