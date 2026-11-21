@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-20T20:12:16+00:00",
+ "updated": "2026-11-21T02:11:57+00:00",
  "items": [
+  {
+   "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T21:18:46+00:00",
+   "field": "",
+   "points": 41,
+   "image": "",
+   "score": -2,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
    "source": "Hacker News",
@@ -8,21 +20,33 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T17:44:01+00:00",
    "field": "",
-   "points": 145,
+   "points": 183,
    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-new-york-stock-exchange-ew-302p-4b969a.jpg",
    "score": -3,
    "tier": "medium"
   },
   {
-   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "title": "Google workers tell their employer not to punish schools that don't want AI",
    "source": "Hacker News",
    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 130,
+   "points": 266,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Llms.txt and MCP didn't move the needle",
+   "source": "Hacker News",
+   "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:00:23+00:00",
+   "field": "",
+   "points": 30,
+   "image": "https://backpackforlaravel.com/presentation/img/backpack/socials/backpack_og_image_general.jpg",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -32,7 +56,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 179,
+   "points": 192,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": -3,
    "tier": "medium"
@@ -49,6 +73,17 @@
    "tier": "medium"
   },
   {
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
    "source": "Hugging Face",
    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -57,6 +92,17 @@
    "field": "",
    "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
    "score": 4,
+   "tier": "top"
+  },
+  {
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T00:00:00+00:00",
+   "field": "text",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+   "score": 3,
    "tier": "top"
   },
   {
@@ -77,7 +123,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 360,
+   "points": 367,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -112,7 +158,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T18:42:13+00:00",
    "field": "",
-   "points": 50,
+   "points": 51,
    "image": "https://cdn.sanity.io/images/3tzzh18d/production/4ce401d4cfc4533fae7db892ef9dd1164b0048e3-2048x1366.jpg",
    "score": -2,
    "tier": "medium"
@@ -124,7 +170,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 547,
+   "points": 553,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -136,7 +182,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1125,
+   "points": 1130,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -172,7 +218,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 265,
+   "points": 269,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -184,9 +230,9 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T14:20:08+00:00",
    "field": "",
-   "points": 99,
+   "points": 100,
    "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -248,17 +294,6 @@
    "tier": "medium"
   },
   {
-   "title": "Deploying Daybreak Red",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "See PR scans in action",
    "source": "OpenAI",
    "url": "https://openai.com/business/learn/pr-scans-demo",
@@ -281,13 +316,24 @@
    "tier": "medium"
   },
   {
+   "title": "Deploying Daybreak Red",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
    "title": "Anthropic prices initial public offering",
    "source": "Hacker News",
    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 417,
+   "points": 420,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -299,7 +345,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 313,
+   "points": 315,
    "image": "https://www.slowchronicle.com/og-default.png",
    "score": 2,
    "tier": "medium"
@@ -322,7 +368,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1044,
+   "points": 1050,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -504,7 +550,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 282,
+   "points": 284,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -516,7 +562,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T03:47:43+00:00",
    "field": "text",
-   "points": 180,
+   "points": 181,
    "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
    "score": 1,
    "tier": "medium"
@@ -584,7 +630,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T18:16:18+00:00",
    "field": "text",
-   "points": 186,
+   "points": 187,
    "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -694,17 +740,6 @@
    "tier": "medium"
   },
   {
-   "title": "Introducing OpenAI for Chile",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-openai-for-chile",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
    "title": "Astra for Law leads in legal intelligence",
    "source": "OpenAI",
    "url": "https://openai.com/index/astra-law-6-2",
@@ -714,6 +749,17 @@
    "image": "",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Introducing OpenAI for Chile",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -1269,7 +1315,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 574,
+   "points": 575,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -1564,14 +1610,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1673,51 +1718,6 @@
    "ts": "2026-11-10T09:00:00+00:00",
    "field": "",
    "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/singapore-airlines-travel-work",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T07:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T03:20:06+00:00",
-   "field": "",
-   "points": 196,
-   "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T00:00:00+00:00",
-   "field": "open-source",
-   "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
    "score": 2,
    "tier": "medium"
   }

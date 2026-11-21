@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20T20:12:16+00:00",
+ "updated": "2026-11-21T02:11:57+00:00",
  "sources": [
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 914
+   "items": 915
   },
   {
    "source": "Google DeepMind",
-   "ok": false,
-   "error": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "items": 100
   },
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 1420
+   "items": 1421
   },
   {
    "source": "NVIDIA",
@@ -28,5 +28,5 @@
    "failed_queries": 0
   }
  ],
- "with_picture": 94
+ "with_picture": 95
 }
