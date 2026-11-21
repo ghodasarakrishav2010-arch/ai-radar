@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T02:11:57+00:00",
+ "updated": "2026-11-21T10:57:26+00:00",
  "items": [
+  {
+   "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+   "source": "Hacker News",
+   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T22:18:20+00:00",
+   "field": "",
+   "points": 42,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T21:18:46+00:00",
    "field": "",
-   "points": 41,
+   "points": 57,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -32,7 +44,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 266,
+   "points": 276,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -44,21 +56,21 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T14:00:23+00:00",
    "field": "",
-   "points": 30,
+   "points": 31,
    "image": "https://backpackforlaravel.com/presentation/img/backpack/socials/backpack_og_image_general.jpg",
    "score": 0,
    "tier": "medium"
   },
   {
-   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "source": "Hacker News",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 192,
+   "points": 323,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
-   "score": -3,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -123,7 +135,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 367,
+   "points": 370,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -135,7 +147,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T22:36:51+00:00",
    "field": "text",
-   "points": 32,
+   "points": 33,
    "image": "https://substackcdn.com/image/fetch/$s_!NWUr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4762:0.3834:1.05!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d557e9-ee2f-486f-8ce6-c7cf6e819d91_1468x1560.png",
    "score": 1,
    "tier": "medium"
@@ -170,7 +182,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 553,
+   "points": 558,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -182,7 +194,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1130,
+   "points": 1133,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -218,7 +230,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 269,
+   "points": 270,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -333,7 +345,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 420,
+   "points": 421,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -368,7 +380,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1050,
+   "points": 1055,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -1610,13 +1622,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1709,17 +1722,6 @@
    "image": "",
    "score": 3,
    "tier": "top"
-  },
-  {
-   "title": "Closing the AI guidance gap in education",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T09:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
   }
  ]
 }
