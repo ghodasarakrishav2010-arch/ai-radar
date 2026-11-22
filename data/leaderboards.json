@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:16:10+00:00",
+ "updated": "2026-11-22T11:17:45+00:00",
  "fields": [
   {
    "id": "text",
@@ -327,17 +327,17 @@
    "source": "Arena text-to-image leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-17",
+   "published": "2026-11-20",
    "models": [
     {
      "name": "GPT-Image-2.5 Sunburst",
      "company": "OpenAI",
-     "score": 1428
+     "score": 1429
     },
     {
      "name": "GPT-Image-2.6 Sunburst (Medium)",
      "company": "OpenAI",
-     "score": 1410
+     "score": 1412
     },
     {
      "name": "GPT-Image-2.5 Flare",
@@ -347,7 +347,7 @@
     {
      "name": "MAI-Image-2.7",
      "company": "Microsoft-Ai",
-     "score": 1387
+     "score": 1385
     },
     {
      "name": "GPT-Image-2 (Medium)",
@@ -357,22 +357,22 @@
     {
      "name": "GPT-Image-2.6 Flare (Medium)",
      "company": "OpenAI",
-     "score": 1375
+     "score": 1376
     },
     {
      "name": "MAI-Image-2.6",
      "company": "Microsoft-Ai",
-     "score": 1331
-    },
-    {
-     "name": "Gemini Nano Banana 2.1",
-     "company": "Google",
-     "score": 1328
+     "score": 1329
     },
     {
      "name": "Grok Imagine Image 2.0",
      "company": "xAI",
      "score": 1318
+    },
+    {
+     "name": "Gemini Nano Banana 2.1",
+     "company": "Google",
+     "score": 1305
     },
     {
      "name": "Reve 2.1",
@@ -382,7 +382,7 @@
     {
      "name": "Grok Imagine Image 2.0 (20260801)",
      "company": "xAI",
-     "score": 1287
+     "score": 1288
     },
     {
      "name": "Reve 2.0",
@@ -392,7 +392,7 @@
     {
      "name": "Muse Image",
      "company": "Meta",
-     "score": 1266
+     "score": 1265
     },
     {
      "name": "Gemini 3.1 Flash Image (nano-banana-2, Web Search)",
@@ -410,14 +410,14 @@
      "score": 1253
     },
     {
-     "name": "Seedream 5.0 Pro",
-     "company": "ByteDance",
-     "score": 1249
-    },
-    {
      "name": "Gemini 3.1 Flash-Lite Image (nano-banana-2-lite)",
      "company": "Google",
      "score": 1249
+    },
+    {
+     "name": "Seedream 5.0 Pro",
+     "company": "ByteDance",
+     "score": 1247
     },
     {
      "name": "Gemini 3 Pro Image (nano-banana-pro, 2K)",
@@ -442,7 +442,7 @@
     {
      "name": "Ideogram 4.0 (Quality)",
      "company": "Ideogram",
-     "score": 1199
+     "score": 1200
     },
     {
      "name": "MiniMax H3-Image",
@@ -477,7 +477,7 @@
     {
      "name": "Grok Imagine Image",
      "company": "xAI",
-     "score": 1168
+     "score": 1169
     }
    ]
   },

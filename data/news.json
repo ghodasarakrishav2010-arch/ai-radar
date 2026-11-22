@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T01:16:08+00:00",
+ "updated": "2026-11-22T11:17:42+00:00",
  "items": [
+  {
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "source": "Hacker News",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T08:57:34+00:00",
+   "field": "",
+   "points": 154,
+   "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "Anthropic's IPO bank closed position meant to stabilize stock",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-21",
    "ts": "2026-11-21T12:43:24+00:00",
    "field": "",
-   "points": 31,
+   "points": 33,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -56,7 +68,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 279,
+   "points": 282,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -80,7 +92,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 496,
+   "points": 513,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -147,7 +159,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 373,
+   "points": 375,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -194,7 +206,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 568,
+   "points": 572,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -206,7 +218,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1139,
+   "points": 1140,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -242,7 +254,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 270,
+   "points": 272,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -277,7 +289,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T01:27:02+00:00",
    "field": "text",
-   "points": 47,
+   "points": 48,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 1,
    "tier": "medium"
@@ -369,7 +381,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T22:29:13+00:00",
    "field": "text",
-   "points": 315,
+   "points": 316,
    "image": "https://www.slowchronicle.com/og-default.png",
    "score": 2,
    "tier": "medium"
@@ -392,7 +404,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1058,
+   "points": 1059,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -508,7 +520,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T14:15:58+00:00",
    "field": "",
-   "points": 190,
+   "points": 256,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -586,7 +598,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 285,
+   "points": 286,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -1351,7 +1363,7 @@
    "date": "2026-11-12",
    "ts": "2026-11-12T18:01:48+00:00",
    "field": "text",
-   "points": 575,
+   "points": 576,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
    "score": 2,
    "tier": "medium"
@@ -1646,13 +1658,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -1710,18 +1723,6 @@
    "field": "",
    "image": "",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic launches roadshow for proposed initial public offering",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/roadshow-launch",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T11:38:57+00:00",
-   "field": "",
-   "points": 31,
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-   "score": 1,
    "tier": "medium"
   }
  ]
