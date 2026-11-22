@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T11:17:42+00:00",
+ "updated": "2026-11-22T19:34:19+00:00",
  "items": [
+  {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "source": "Hacker News",
+   "url": "https://github.com/gulivan/worker755",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T13:56:58+00:00",
+   "field": "text",
+   "points": 179,
+   "image": "https://opengraph.githubassets.com/66915f01925a8171e095add7cd8a5e31c03e95378134ff2f3e9e99b1b9d91a02/gulivan/worker755",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2606.14068",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T09:18:36+00:00",
+   "field": "",
+   "points": 87,
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "source": "Hacker News",
@@ -8,9 +32,20 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 154,
+   "points": 646,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
-   "score": 1,
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Perplexity and Intelligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T00:00:00+00:00",
+   "field": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -20,7 +55,7 @@
    "date": "2026-11-21",
    "ts": "2026-11-21T12:43:24+00:00",
    "field": "",
-   "points": 33,
+   "points": 34,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -32,7 +67,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T22:18:20+00:00",
    "field": "",
-   "points": 53,
+   "points": 55,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -68,7 +103,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 282,
+   "points": 283,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -92,7 +127,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 513,
+   "points": 525,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -206,7 +241,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 572,
+   "points": 574,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -319,12 +354,12 @@
    "tier": "medium"
   },
   {
-   "title": "Explore the Codex Security Plugin",
+   "title": "Deploying Daybreak Red",
    "source": "OpenAI",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
    "date": "2026-11-19",
    "ts": "2026-11-19T00:00:00+00:00",
-   "field": "code",
+   "field": "",
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -352,12 +387,12 @@
    "tier": "medium"
   },
   {
-   "title": "Deploying Daybreak Red",
+   "title": "Explore the Codex Security Plugin",
    "source": "OpenAI",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
    "date": "2026-11-19",
    "ts": "2026-11-19T00:00:00+00:00",
-   "field": "",
+   "field": "code",
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -404,7 +439,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1059,
+   "points": 1066,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -473,7 +508,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T16:41:22+00:00",
    "field": "",
-   "points": 148,
+   "points": 149,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -520,9 +555,9 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T14:15:58+00:00",
    "field": "",
-   "points": 256,
+   "points": 308,
    "image": "",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -548,17 +583,6 @@
    "tier": "medium"
   },
   {
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/customer-stories/sumitomo-life",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Research acceleration: The jagged frontier",
    "source": "OpenAI",
    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -568,6 +592,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "source": "OpenAI",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "Inside the Codex sandbox",
@@ -598,7 +633,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 286,
+   "points": 287,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -736,7 +771,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T10:20:40+00:00",
    "field": "code",
-   "points": 297,
+   "points": 298,
    "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
    "score": 1,
    "tier": "medium"
@@ -788,17 +823,6 @@
    "tier": "medium"
   },
   {
-   "title": "Astra for Law leads in legal intelligence",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/astra-law-6-2",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T00:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
    "title": "Introducing OpenAI for Chile",
    "source": "OpenAI",
    "url": "https://openai.com/index/introducing-openai-for-chile",
@@ -808,6 +832,17 @@
    "image": "",
    "score": 3,
    "tier": "top"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:00:00+00:00",
+   "field": "",
+   "image": "",
+   "score": 2,
+   "tier": "medium"
   },
   {
    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -1689,40 +1724,6 @@
    "points": 34,
    "image": "https://neuracryption.com/assets/neuracryption_social_card.png",
    "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Anthropic to Seek $1.3T Valuation in IPO",
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T12:49:32+00:00",
-   "field": "",
-   "points": 60,
-   "image": "",
-   "score": -4,
-   "tier": "medium"
-  },
-  {
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T12:02:28+00:00",
-   "field": "code",
-   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Helping caregivers use AI in everyday life",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T12:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
    "tier": "medium"
   }
  ]
