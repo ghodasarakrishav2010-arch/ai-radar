@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:12:06+00:00",
+ "updated": "2026-11-22T01:16:08+00:00",
  "sources": [
   {
    "source": "Hugging Face",
@@ -28,5 +28,5 @@
    "failed_queries": 0
   }
  ],
- "with_picture": 95
+ "with_picture": 94
 }

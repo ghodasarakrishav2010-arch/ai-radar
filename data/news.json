@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-21T19:12:06+00:00",
+ "updated": "2026-11-22T01:16:08+00:00",
  "items": [
+  {
+   "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+   "date": "2026-11-21",
+   "ts": "2026-11-21T12:43:24+00:00",
+   "field": "",
+   "points": 31,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
   {
    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T22:18:20+00:00",
    "field": "",
-   "points": 50,
+   "points": 53,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -20,7 +32,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T21:18:46+00:00",
    "field": "",
-   "points": 64,
+   "points": 66,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -44,7 +56,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 278,
+   "points": 279,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -68,7 +80,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 470,
+   "points": 496,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -135,7 +147,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 372,
+   "points": 373,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -182,7 +194,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 565,
+   "points": 568,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -194,7 +206,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1137,
+   "points": 1139,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -277,7 +289,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 255,
+   "points": 256,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -380,7 +392,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1057,
+   "points": 1058,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -496,7 +508,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T14:15:58+00:00",
    "field": "",
-   "points": 117,
+   "points": 190,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -574,7 +586,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 284,
+   "points": 285,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -1083,7 +1095,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T06:56:42+00:00",
    "field": "",
-   "points": 94,
+   "points": 95,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1711,17 +1723,6 @@
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "score": 1,
    "tier": "medium"
-  },
-  {
-   "title": "Opening the datasets behind our AI weather models",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T11:13:04+00:00",
-   "field": "",
-   "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
-   "score": 4,
-   "tier": "top"
   }
  ]
 }
