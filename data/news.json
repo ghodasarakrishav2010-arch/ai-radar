@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T01:40:16+00:00",
+ "updated": "2026-11-23T12:31:07+00:00",
  "items": [
+  {
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+   "source": "Hacker News",
+   "url": "https://0rwx.com/",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T23:53:00+00:00",
+   "field": "",
+   "points": 60,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
   {
    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "source": "Hacker News",
@@ -8,10 +20,10 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 209,
+   "points": 566,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Show HN: I built a game where you are an LLM's subagent",
@@ -20,9 +32,9 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T13:56:58+00:00",
    "field": "text",
-   "points": 271,
+   "points": 330,
    "image": "https://opengraph.githubassets.com/66915f01925a8171e095add7cd8a5e31c03e95378134ff2f3e9e99b1b9d91a02/gulivan/worker755",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -32,7 +44,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T09:18:36+00:00",
    "field": "",
-   "points": 90,
+   "points": 93,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 0,
    "tier": "medium"
@@ -44,7 +56,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 887,
+   "points": 987,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -79,7 +91,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T22:18:20+00:00",
    "field": "",
-   "points": 55,
+   "points": 56,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -115,7 +127,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 283,
+   "points": 284,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -139,7 +151,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 527,
+   "points": 530,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -206,7 +218,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T23:35:35+00:00",
    "field": "text",
-   "points": 375,
+   "points": 376,
    "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
    "score": 3,
    "tier": "top"
@@ -218,7 +230,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T22:36:51+00:00",
    "field": "text",
-   "points": 34,
+   "points": 35,
    "image": "https://substackcdn.com/image/fetch/$s_!NWUr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4762:0.3834:1.05!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d557e9-ee2f-486f-8ce6-c7cf6e819d91_1468x1560.png",
    "score": 1,
    "tier": "medium"
@@ -253,7 +265,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 575,
+   "points": 577,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -265,7 +277,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1140,
+   "points": 1143,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -301,7 +313,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T15:38:12+00:00",
    "field": "audio",
-   "points": 272,
+   "points": 273,
    "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
    "score": 2,
    "tier": "medium"
@@ -416,7 +428,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T23:30:09+00:00",
    "field": "",
-   "points": 422,
+   "points": 423,
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "score": 2,
    "tier": "medium"
@@ -451,7 +463,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T21:34:07+00:00",
    "field": "text",
-   "points": 1066,
+   "points": 1067,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
    "score": 2,
    "tier": "medium"
@@ -567,7 +579,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T14:15:58+00:00",
    "field": "",
-   "points": 310,
+   "points": 314,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1142,7 +1154,7 @@
    "date": "2026-11-14",
    "ts": "2026-11-14T13:36:17+00:00",
    "field": "text",
-   "points": 152,
+   "points": 153,
    "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
    "score": 1,
    "tier": "medium"
@@ -1705,24 +1717,14 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:03:47+00:00",
+   "ts": "2026-11-10T16:07:15+00:00",
    "field": "text",
+   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T16:00:03+00:00",
-   "field": "open-source",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
-   "score": 2,
+   "score": 1,
    "tier": "medium"
   }
  ]
