@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-22T19:34:19+00:00",
+ "updated": "2026-11-23T01:40:16+00:00",
  "items": [
+  {
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "source": "Hacker News",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "date": "2026-11-22",
+   "ts": "2026-11-22T21:01:16+00:00",
+   "field": "open-source",
+   "points": 209,
+   "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+   "score": 2,
+   "tier": "medium"
+  },
   {
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "source": "Hacker News",
@@ -8,7 +20,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T13:56:58+00:00",
    "field": "text",
-   "points": 179,
+   "points": 271,
    "image": "https://opengraph.githubassets.com/66915f01925a8171e095add7cd8a5e31c03e95378134ff2f3e9e99b1b9d91a02/gulivan/worker755",
    "score": 1,
    "tier": "medium"
@@ -20,7 +32,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T09:18:36+00:00",
    "field": "",
-   "points": 87,
+   "points": 90,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 0,
    "tier": "medium"
@@ -32,7 +44,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 646,
+   "points": 887,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -55,7 +67,7 @@
    "date": "2026-11-21",
    "ts": "2026-11-21T12:43:24+00:00",
    "field": "",
-   "points": 34,
+   "points": 35,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -127,7 +139,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 525,
+   "points": 527,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -241,7 +253,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 574,
+   "points": 575,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -336,7 +348,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 256,
+   "points": 257,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -555,7 +567,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T14:15:58+00:00",
    "field": "",
-   "points": 308,
+   "points": 310,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -1693,14 +1705,13 @@
   },
   {
    "title": "Gemini 4 Carbon is now available",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
    "date": "2026-11-10",
-   "ts": "2026-11-10T16:07:15+00:00",
+   "ts": "2026-11-10T16:03:47+00:00",
    "field": "text",
-   "points": 296,
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -1712,18 +1723,6 @@
    "field": "open-source",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-   "source": "Hacker News",
-   "url": "https://neuracryption.com/research",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T13:51:51+00:00",
-   "field": "text",
-   "points": 34,
-   "image": "https://neuracryption.com/assets/neuracryption_social_card.png",
-   "score": 0,
    "tier": "medium"
   }
  ]
