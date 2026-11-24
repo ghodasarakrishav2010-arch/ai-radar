@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T02:10:57+00:00",
+ "updated": "2026-11-24T13:38:54+00:00",
  "items": [
+  {
+   "title": "LLM agents work for their parent companies, not for you",
+   "source": "Hacker News",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T12:40:15+00:00",
+   "field": "text",
+   "points": 104,
+   "image": "https://michaelharley.net/assets/images/open-graph-image.png",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2602.20031",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T22:29:48+00:00",
+   "field": "",
+   "points": 69,
+   "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "OpenAI and Cisco introduce Shirudo",
    "source": "OpenAI",
@@ -10,6 +34,18 @@
    "field": "",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
    "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Ship",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/introducing-claude-ship",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T20:14:18+00:00",
+   "field": "text",
+   "points": 70,
+   "image": "https://claude.com/resources/articles/introducing-claude-ship/opengraph-image/og",
+   "score": 0,
    "tier": "medium"
   },
   {
@@ -30,7 +66,7 @@
    "date": "2026-11-23",
    "ts": "2026-11-23T17:19:25+00:00",
    "field": "text",
-   "points": 45,
+   "points": 56,
    "image": "https://greptile.com/opengraph/greptile-blog.png",
    "score": 0,
    "tier": "medium"
@@ -45,6 +81,17 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg",
    "score": 2,
    "tier": "medium"
+  },
+  {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T16:59:40+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Connected intelligence for in-house legal",
@@ -86,7 +133,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T23:53:00+00:00",
    "field": "",
-   "points": 69,
+   "points": 71,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -98,7 +145,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 744,
+   "points": 764,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
    "score": 3,
    "tier": "top"
@@ -110,7 +157,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T13:56:58+00:00",
    "field": "text",
-   "points": 357,
+   "points": 358,
    "image": "https://opengraph.githubassets.com/66915f01925a8171e095add7cd8a5e31c03e95378134ff2f3e9e99b1b9d91a02/gulivan/worker755",
    "score": 2,
    "tier": "medium"
@@ -134,7 +181,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 1027,
+   "points": 1034,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -367,7 +414,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:02:40+00:00",
    "field": "",
-   "points": 1144,
+   "points": 1145,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -747,7 +794,7 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T04:14:04+00:00",
    "field": "text",
-   "points": 287,
+   "points": 288,
    "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
    "score": 1,
    "tier": "medium"
@@ -1676,51 +1723,6 @@
    "field": "",
    "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/qvac/botpsy",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T05:01:16+00:00",
-   "field": "text",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-   "source": "NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T03:00:20+00:00",
-   "field": "",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "LLMs Play Zachtronics' TIS-100",
-   "source": "Hacker News",
-   "url": "https://tis-100.wincon.dev/",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T00:37:05+00:00",
-   "field": "",
-   "points": 97,
-   "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
-   "score": 0,
    "tier": "medium"
   }
  ]

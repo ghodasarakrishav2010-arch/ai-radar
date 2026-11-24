@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:10:59+00:00",
+ "updated": "2026-11-24T13:38:56+00:00",
  "fields": [
   {
    "id": "text",
@@ -167,7 +167,7 @@
    "source": "Arena Code (WebDev) leaderboard",
    "source_url": "https://arena.ai/leaderboard",
    "category": "overall",
-   "published": "2026-11-22",
+   "published": "2026-11-23",
    "models": [
     {
      "name": "Claude Fable 5.2 (xHigh)",
@@ -182,7 +182,7 @@
     {
      "name": "Claude Sonnet 5.5 (xHigh)",
      "company": "Anthropic",
-     "score": 1772
+     "score": 1773
     },
     {
      "name": "Gemini 4 Carbon (High)",
@@ -190,9 +190,9 @@
      "score": 1769
     },
     {
-     "name": "Gemini 4 Neon (High)",
+     "name": "Gemini 4 Neon (xHigh)",
      "company": "Google",
-     "score": 1766
+     "score": 1765
     },
     {
      "name": "GPT-6 Astra (Max)",
@@ -202,7 +202,7 @@
     {
      "name": "GPT-6.2 Astra (Max)",
      "company": "OpenAI",
-     "score": 1759
+     "score": 1761
     },
     {
      "name": "GPT-6.2 Sol (Max)",
@@ -217,7 +217,7 @@
     {
      "name": "GPT-6.1 Sol (Max)",
      "company": "OpenAI",
-     "score": 1744
+     "score": 1745
     },
     {
      "name": "Claude Fable 5.1 (Max)",
@@ -227,15 +227,15 @@
     {
      "name": "Muse Wonder Full (Max)",
      "company": "Meta",
-     "score": 1723
+     "score": 1724
     },
     {
      "name": "Claude Sonnet 5.5 (High)",
      "company": "Anthropic",
-     "score": 1716
+     "score": 1715
     },
     {
-     "name": "Gemini 4 Hydrogen (High)",
+     "name": "Gemini 4 Hydrogen (xHigh)",
      "company": "Google",
      "score": 1701
     },
@@ -257,7 +257,7 @@
     {
      "name": "Gemini 4 Argon (High)",
      "company": "Google",
-     "score": 1681
+     "score": 1682
     },
     {
      "name": "GPT-6 Sol (Max)",
@@ -275,19 +275,19 @@
      "score": 1671
     },
     {
-     "name": "Kimi K3 (Max)",
-     "company": "Moonshot AI",
+     "name": "DeepSeek-V4.1-Flash-20261017 (Max)",
+     "company": "DeepSeek",
      "score": 1659
     },
     {
-     "name": "DeepSeek-V4.1-Flash-20261017 (Max)",
-     "company": "DeepSeek",
+     "name": "Kimi K3 (Max)",
+     "company": "Moonshot AI",
      "score": 1658
     },
     {
      "name": "Claude Opus 5 (High)",
      "company": "Anthropic",
-     "score": 1657
+     "score": 1656
     },
     {
      "name": "Muse Spark 1.3 (Max)",
@@ -307,7 +307,7 @@
     {
      "name": "Inkling 2 Small",
      "company": "Thinky",
-     "score": 1641
+     "score": 1642
     },
     {
      "name": "Grok 4.7 (xHigh)",
