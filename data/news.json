@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T08:27:55+00:00",
+ "updated": "2026-11-25T19:13:39+00:00",
  "items": [
+  {
+   "title": "Where scientists draw the line on AI agents",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T18:52:55+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+   "score": 3,
+   "tier": "top"
+  },
+  {
+   "title": "An Indic Voice Agent with CUGA",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T10:22:09+00:00",
+   "field": "audio",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+   "score": 3,
+   "tier": "top"
+  },
   {
    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
    "source": "Hacker News",
@@ -8,7 +30,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T04:03:33+00:00",
    "field": "text",
-   "points": 159,
+   "points": 209,
    "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
    "score": 1,
    "tier": "medium"
@@ -20,9 +42,9 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T03:28:06+00:00",
    "field": "open-source",
-   "points": 59,
+   "points": 125,
    "image": "https://noahbuilt.it/og-lambda-layers.jpg",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -32,10 +54,21 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T03:01:36+00:00",
    "field": "text",
-   "points": 46,
+   "points": 97,
    "image": "",
    "score": 0,
    "tier": "medium"
+  },
+  {
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
@@ -44,7 +77,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T22:27:19+00:00",
    "field": "",
-   "points": 43,
+   "points": 51,
    "image": "",
    "score": -4,
    "tier": "medium"
@@ -56,8 +89,20 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T21:07:38+00:00",
    "field": "",
-   "points": 70,
+   "points": 82,
    "image": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50633601",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T19:51:01+00:00",
+   "field": "",
+   "points": 32,
+   "image": "",
    "score": 0,
    "tier": "medium"
   },
@@ -68,7 +113,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T18:55:12+00:00",
    "field": "",
-   "points": 89,
+   "points": 97,
    "image": "https://opengraph.githubassets.com/04a5f89b0a9876378161a7a149b44d29250a53714084c0762ec8eaed503fe76f/openai/math",
    "score": 0,
    "tier": "medium"
@@ -80,7 +125,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T17:10:45+00:00",
    "field": "",
-   "points": 214,
+   "points": 222,
    "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -92,9 +137,9 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T16:45:44+00:00",
    "field": "",
-   "points": 261,
+   "points": 428,
    "image": "",
-   "score": 1,
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -115,7 +160,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T14:41:15+00:00",
    "field": "",
-   "points": 128,
+   "points": 129,
    "image": "",
    "score": -1,
    "tier": "medium"
@@ -127,9 +172,20 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T13:23:47+00:00",
    "field": "",
-   "points": 387,
+   "points": 418,
    "image": "",
    "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T13:07:53+00:00",
+   "field": "",
+   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+   "score": 2,
    "tier": "medium"
   },
   {
@@ -150,7 +206,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T12:40:15+00:00",
    "field": "text",
-   "points": 964,
+   "points": 996,
    "image": "https://michaelharley.net/assets/images/open-graph-image.png",
    "score": 3,
    "tier": "top"
@@ -164,6 +220,18 @@
    "field": "",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
    "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+   "source": "Hacker News",
+   "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T06:22:36+00:00",
+   "field": "",
+   "points": 117,
+   "image": "",
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -331,7 +399,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 773,
+   "points": 775,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
    "score": 3,
    "tier": "top"
@@ -355,7 +423,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T09:18:36+00:00",
    "field": "",
-   "points": 94,
+   "points": 95,
    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
    "score": 0,
    "tier": "medium"
@@ -367,7 +435,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 1040,
+   "points": 1042,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -588,7 +656,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T17:30:44+00:00",
    "field": "text",
-   "points": 579,
+   "points": 580,
    "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
    "score": 2,
    "tier": "medium"
@@ -1655,75 +1723,6 @@
    "points": 200,
    "image": "",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-   "source": "Hacker News",
-   "url": "https://status.claude.com/incidents/nn11wk485zfn",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T10:18:13+00:00",
-   "field": "code",
-   "points": 494,
-   "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Tell HN: Claude Code Is Down",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50480909",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T09:51:59+00:00",
-   "field": "code",
-   "points": 37,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/customer-stories/shield",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T08:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "source": "Hacker News",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T21:56:11+00:00",
-   "field": "",
-   "points": 458,
-   "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "source": "OpenAI",
-   "url": "https://openai.com/business/customer-stories/amplitude",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T20:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T19:07:35+00:00",
-   "field": "text",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
-   "score": 2,
    "tier": "medium"
   }
  ]
