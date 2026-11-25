@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-24T23:52:54+00:00",
+ "updated": "2026-11-25T08:27:55+00:00",
  "items": [
+  {
+   "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+   "source": "Hacker News",
+   "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T04:03:33+00:00",
+   "field": "text",
+   "points": 159,
+   "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "source": "Hacker News",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T03:28:06+00:00",
+   "field": "open-source",
+   "points": 59,
+   "image": "https://noahbuilt.it/og-lambda-layers.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "source": "Hacker News",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T03:01:36+00:00",
+   "field": "text",
+   "points": 46,
+   "image": "",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+   "source": "Hacker News",
+   "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T22:27:19+00:00",
+   "field": "",
+   "points": 43,
+   "image": "",
+   "score": -4,
+   "tier": "medium"
+  },
   {
    "title": "Working with AI",
    "source": "Hacker News",
@@ -8,7 +56,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T21:07:38+00:00",
    "field": "",
-   "points": 62,
+   "points": 70,
    "image": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
    "score": 0,
    "tier": "medium"
@@ -20,7 +68,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T18:55:12+00:00",
    "field": "",
-   "points": 82,
+   "points": 89,
    "image": "https://opengraph.githubassets.com/04a5f89b0a9876378161a7a149b44d29250a53714084c0762ec8eaed503fe76f/openai/math",
    "score": 0,
    "tier": "medium"
@@ -32,7 +80,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T17:10:45+00:00",
    "field": "",
-   "points": 195,
+   "points": 214,
    "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -44,7 +92,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T16:45:44+00:00",
    "field": "",
-   "points": 214,
+   "points": 261,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -79,7 +127,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T13:23:47+00:00",
    "field": "",
-   "points": 309,
+   "points": 387,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -102,7 +150,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T12:40:15+00:00",
    "field": "text",
-   "points": 872,
+   "points": 964,
    "image": "https://michaelharley.net/assets/images/open-graph-image.png",
    "score": 3,
    "tier": "top"
@@ -181,7 +229,7 @@
    "date": "2026-11-23",
    "ts": "2026-11-23T20:14:18+00:00",
    "field": "text",
-   "points": 86,
+   "points": 88,
    "image": "https://claude.com/resources/articles/introducing-claude-ship/opengraph-image/og",
    "score": 0,
    "tier": "medium"
@@ -283,7 +331,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 770,
+   "points": 773,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
    "score": 3,
    "tier": "top"
@@ -319,7 +367,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 1038,
+   "points": 1040,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -378,7 +426,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T21:18:46+00:00",
    "field": "",
-   "points": 66,
+   "points": 67,
    "image": "",
    "score": -2,
    "tier": "medium"
@@ -635,7 +683,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T00:29:45+00:00",
    "field": "text",
-   "points": 258,
+   "points": 259,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1512,7 +1560,7 @@
    "date": "2026-11-13",
    "ts": "2026-11-13T17:30:10+00:00",
    "field": "",
-   "points": 446,
+   "points": 449,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
    "score": 2,
    "tier": "medium"
@@ -1675,53 +1723,6 @@
    "ts": "2026-11-12T19:07:35+00:00",
    "field": "text",
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "source": "Hacker News",
-   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T18:52:01+00:00",
-   "field": "text",
-   "points": 509,
-   "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Gemini 4 Hydrogen",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T18:01:48+00:00",
-   "field": "text",
-   "points": 576,
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Introducing Gemini 4 Hydrogen",
-   "source": "Google DeepMind",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T18:00:50+00:00",
-   "field": "text",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "I'm making LLMs work on small and old devices",
-   "source": "Hacker News",
-   "url": "https://github.com/hyperionaidev/smolmaxxing/",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T15:23:10+00:00",
-   "field": "",
-   "points": 485,
-   "image": "https://opengraph.githubassets.com/18f556b7fe5b4bdc51e0dc78ca95f364f171c876a464c904ac33269e5b0fb06b/hyperionaidev/smolmaxxing",
    "score": 2,
    "tier": "medium"
   }
