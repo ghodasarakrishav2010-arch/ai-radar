@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-26T03:32:50+00:00",
+ "updated": "2026-11-26T16:50:55+00:00",
  "items": [
+  {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T11:37:17+00:00",
+   "field": "open-source",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+   "score": 4,
+   "tier": "top"
+  },
+  {
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T05:05:36+00:00",
+   "field": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+   "score": 5,
+   "tier": "top"
+  },
+  {
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "source": "Hacker News",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T03:36:58+00:00",
+   "field": "text",
+   "points": 421,
+   "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T00:00:00+00:00",
+   "field": "",
+   "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
+   "score": 5,
+   "tier": "top"
+  },
   {
    "title": "Bare Metal Qwen",
    "source": "Hacker News",
@@ -8,9 +53,9 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T22:15:34+00:00",
    "field": "open-source",
-   "points": 78,
+   "points": 213,
    "image": "https://opengraph.githubassets.com/cd9b90a4bcbe7333e361ec43414b901e54aff23056d32b8711a8c22158866d33/alesha-pro/llm.asm",
-   "score": 0,
+   "score": 1,
    "tier": "medium"
   },
   {
@@ -20,7 +65,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T21:48:10+00:00",
    "field": "",
-   "points": 321,
+   "points": 511,
    "image": "https://opengraph.githubassets.com/ad307f6064a8d1a4515876a6d7930905bdcc0eea76945f3ece4405ef9c88fe33/lsernau/grh-lean",
    "score": 2,
    "tier": "medium"
@@ -54,7 +99,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T04:03:33+00:00",
    "field": "text",
-   "points": 215,
+   "points": 219,
    "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
    "score": 1,
    "tier": "medium"
@@ -66,7 +111,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T03:28:06+00:00",
    "field": "open-source",
-   "points": 131,
+   "points": 132,
    "image": "https://noahbuilt.it/og-lambda-layers.jpg",
    "score": 1,
    "tier": "medium"
@@ -78,7 +123,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T03:01:36+00:00",
    "field": "text",
-   "points": 102,
+   "points": 104,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -113,8 +158,20 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T21:07:38+00:00",
    "field": "",
-   "points": 88,
+   "points": 89,
    "image": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/install-as-app",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T20:39:15+00:00",
+   "field": "text",
+   "points": 30,
+   "image": "https://claude.com/resources/articles/install-as-app/opengraph-image/og",
    "score": 0,
    "tier": "medium"
   },
@@ -125,7 +182,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T19:51:01+00:00",
    "field": "",
-   "points": 35,
+   "points": 36,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -149,7 +206,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T17:10:45+00:00",
    "field": "",
-   "points": 223,
+   "points": 224,
    "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -161,7 +218,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T16:45:44+00:00",
    "field": "",
-   "points": 444,
+   "points": 458,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -196,7 +253,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T13:23:47+00:00",
    "field": "",
-   "points": 425,
+   "points": 430,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -230,7 +287,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T12:40:15+00:00",
    "field": "text",
-   "points": 1005,
+   "points": 1022,
    "image": "https://michaelharley.net/assets/images/open-graph-image.png",
    "score": 3,
    "tier": "top"
@@ -247,13 +304,13 @@
    "tier": "medium"
   },
   {
-   "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+   "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
    "source": "Hacker News",
    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
    "date": "2026-11-24",
    "ts": "2026-11-24T06:22:36+00:00",
    "field": "",
-   "points": 234,
+   "points": 265,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -423,7 +480,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 776,
+   "points": 779,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
    "score": 3,
    "tier": "top"
@@ -435,10 +492,10 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T16:44:48+00:00",
    "field": "code",
-   "points": 274,
+   "points": 437,
    "image": "",
-   "score": 2,
-   "tier": "medium"
+   "score": 3,
+   "tier": "top"
   },
   {
    "title": "Show HN: I built a game where you are an LLM's subagent",
@@ -447,7 +504,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T13:56:58+00:00",
    "field": "text",
-   "points": 360,
+   "points": 362,
    "image": "https://opengraph.githubassets.com/66915f01925a8171e095add7cd8a5e31c03e95378134ff2f3e9e99b1b9d91a02/gulivan/worker755",
    "score": 2,
    "tier": "medium"
@@ -554,7 +611,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T16:59:27+00:00",
    "field": "",
-   "points": 284,
+   "points": 285,
    "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
    "score": 1,
    "tier": "medium"
@@ -578,7 +635,7 @@
    "date": "2026-11-20",
    "ts": "2026-11-20T13:29:59+00:00",
    "field": "",
-   "points": 530,
+   "points": 531,
    "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
    "score": 2,
    "tier": "medium"
@@ -1666,63 +1723,6 @@
    "field": "",
    "points": 449,
    "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "XYBench: Helping with the problem behind the question",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/allenai/xybench",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T17:02:35+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Introducing ChatGPT Wallet",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T15:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Ask HN: Can anyone name anything new that AI has done?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50484426",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T14:53:56+00:00",
-   "field": "",
-   "points": 30,
-   "image": "",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
-   "source": "Hacker News",
-   "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T14:34:13+00:00",
-   "field": "",
-   "points": 34,
-   "image": "https://i.insider.com/6af486880cc3ffba8779beeb?width=1200&format=jpeg",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T14:05:22+00:00",
-   "field": "open-source",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
    "score": 2,
    "tier": "medium"
   }
