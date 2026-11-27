@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T16:50:55+00:00",
+ "updated": "2026-11-27T01:43:35+00:00",
  "items": [
+  {
+   "title": "AMD-specific fork of llama.cpp",
+   "source": "Hacker News",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T17:11:29+00:00",
+   "field": "open-source",
+   "points": 284,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+   "source": "Hacker News",
+   "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T16:55:15+00:00",
+   "field": "",
+   "points": 56,
+   "image": "https://pbs.twimg.com/media/HX_3OC3bIAA4HDU?format=webp&name=large",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+   "source": "Hacker News",
+   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T14:38:57+00:00",
+   "field": "text",
+   "points": 31,
+   "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/claude-opus-text-official-hero.webp",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
    "source": "Hugging Face",
@@ -11,6 +47,18 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
    "score": 4,
    "tier": "top"
+  },
+  {
+   "title": "OpenAI may be in cost control mode",
+   "source": "Hacker News",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T07:33:12+00:00",
+   "field": "",
+   "points": 274,
+   "image": "",
+   "score": 1,
+   "tier": "medium"
   },
   {
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -24,13 +72,25 @@
    "tier": "top"
   },
   {
+   "title": "Claude tries to sabotage research work at every stage",
+   "source": "Hacker News",
+   "url": "https://twitter.com/skirano/status/2125371115979641188",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T04:49:21+00:00",
+   "field": "text",
+   "points": 44,
+   "image": "https://pbs.twimg.com/profile_images/1620194266533199874/rCtE0hYR_400x400.jpg",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
    "source": "Hacker News",
    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
    "date": "2026-11-26",
    "ts": "2026-11-26T03:36:58+00:00",
    "field": "text",
-   "points": 421,
+   "points": 465,
    "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
    "score": 2,
    "tier": "medium"
@@ -53,7 +113,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T22:15:34+00:00",
    "field": "open-source",
-   "points": 213,
+   "points": 228,
    "image": "https://opengraph.githubassets.com/cd9b90a4bcbe7333e361ec43414b901e54aff23056d32b8711a8c22158866d33/alesha-pro/llm.asm",
    "score": 1,
    "tier": "medium"
@@ -65,7 +125,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T21:48:10+00:00",
    "field": "",
-   "points": 511,
+   "points": 546,
    "image": "https://opengraph.githubassets.com/ad307f6064a8d1a4515876a6d7930905bdcc0eea76945f3ece4405ef9c88fe33/lsernau/grh-lean",
    "score": 2,
    "tier": "medium"
@@ -99,7 +159,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T04:03:33+00:00",
    "field": "text",
-   "points": 219,
+   "points": 222,
    "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
    "score": 1,
    "tier": "medium"
@@ -182,7 +242,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T19:51:01+00:00",
    "field": "",
-   "points": 36,
+   "points": 37,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -206,7 +266,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T17:10:45+00:00",
    "field": "",
-   "points": 224,
+   "points": 225,
    "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -218,7 +278,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T16:45:44+00:00",
    "field": "",
-   "points": 458,
+   "points": 465,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -253,7 +313,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T13:23:47+00:00",
    "field": "",
-   "points": 430,
+   "points": 433,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -287,7 +347,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T12:40:15+00:00",
    "field": "text",
-   "points": 1022,
+   "points": 1029,
    "image": "https://michaelharley.net/assets/images/open-graph-image.png",
    "score": 3,
    "tier": "top"
@@ -310,7 +370,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T06:22:36+00:00",
    "field": "",
-   "points": 265,
+   "points": 274,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -480,7 +540,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T21:01:16+00:00",
    "field": "open-source",
-   "points": 779,
+   "points": 780,
    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
    "score": 3,
    "tier": "top"
@@ -492,7 +552,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T16:44:48+00:00",
    "field": "code",
-   "points": 437,
+   "points": 464,
    "image": "",
    "score": 3,
    "tier": "top"
@@ -528,7 +588,7 @@
    "date": "2026-11-22",
    "ts": "2026-11-22T08:57:34+00:00",
    "field": "",
-   "points": 1042,
+   "points": 1043,
    "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
    "score": 2,
    "tier": "medium"
@@ -809,7 +869,7 @@
    "date": "2026-11-19",
    "ts": "2026-11-19T14:20:08+00:00",
    "field": "",
-   "points": 100,
+   "points": 101,
    "image": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
    "score": 1,
    "tier": "medium"
@@ -1302,7 +1362,7 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T02:19:50+00:00",
    "field": "code",
-   "points": 34,
+   "points": 35,
    "image": "https://opengraph.githubassets.com/a5d6048c79da4736f098e9675b8036ed8e4d46902a22c46e8f8e4c520c4b11aa/localixai/tokendoctor",
    "score": 0,
    "tier": "medium"
@@ -1665,65 +1725,6 @@
    "points": 101,
    "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
    "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude Meetings",
-   "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/claude-meetings",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T22:39:15+00:00",
-   "field": "text",
-   "points": 113,
-   "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "source": "Hugging Face",
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T18:00:39+00:00",
-   "field": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "OpenAI disbands its robotics team as its general models start running robots",
-   "source": "Hacker News",
-   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T17:55:23+00:00",
-   "field": "",
-   "points": 181,
-   "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "DeepSeek Ultrafast",
-   "source": "Hacker News",
-   "url": "https://github.com/basetenlabs/deepseek-ultrafast",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T17:39:03+00:00",
-   "field": "open-source",
-   "points": 71,
-   "image": "https://opengraph.githubassets.com/74ae0e87241545fb3ca289fb90f4a0c40321060463259af1c2bdcd1e54e96528/basetenlabs/deepseek-ultrafast",
-   "score": 0,
-   "tier": "medium"
-  },
-  {
-   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T17:30:10+00:00",
-   "field": "",
-   "points": 449,
-   "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-   "score": 2,
    "tier": "medium"
   }
  ]
