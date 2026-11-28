@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-28T03:19:07+00:00",
+ "updated": "2026-11-28T15:28:26+00:00",
  "items": [
+  {
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "source": "Hacker News",
+   "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "date": "2026-11-28",
+   "ts": "2026-11-28T11:57:04+00:00",
+   "field": "open-source",
+   "points": 81,
+   "image": "https://malspark.com/blog/malicious-gguf-models-hugging-face/cover.png",
+   "score": 1,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "source": "Hacker News",
+   "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "date": "2026-11-28",
+   "ts": "2026-11-28T10:37:40+00:00",
+   "field": "code",
+   "points": 300,
+   "image": "",
+   "score": 2,
+   "tier": "medium"
+  },
+  {
+   "title": "Claude silently added rules to ignore users skintone preferences in our app",
+   "source": "Hacker News",
+   "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+   "date": "2026-11-28",
+   "ts": "2026-11-28T03:55:15+00:00",
+   "field": "text",
+   "points": 38,
+   "image": "https://pbs.twimg.com/profile_images/2105266666829410304/Rtr4_Efn_400x400.jpg",
+   "score": 0,
+   "tier": "medium"
+  },
   {
    "title": "Claude sabotaging ML research tasks?",
    "source": "Hacker News",
@@ -8,7 +44,7 @@
    "date": "2026-11-27",
    "ts": "2026-11-27T08:28:08+00:00",
    "field": "text",
-   "points": 633,
+   "points": 742,
    "image": "https://pbs.twimg.com/media/HYF66EGWIAAF9lx?format=webp&name=large",
    "score": 3,
    "tier": "top"
@@ -20,7 +56,7 @@
    "date": "2026-11-27",
    "ts": "2026-11-27T04:56:18+00:00",
    "field": "text",
-   "points": 187,
+   "points": 204,
    "image": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/images/dithers/claude-fable-header_dithered.png",
    "score": 1,
    "tier": "medium"
@@ -55,7 +91,7 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T17:11:29+00:00",
    "field": "open-source",
-   "points": 439,
+   "points": 445,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -79,8 +115,20 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T14:38:57+00:00",
    "field": "text",
-   "points": 46,
+   "points": 47,
    "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/claude-opus-text-official-hero.webp",
+   "score": 0,
+   "tier": "medium"
+  },
+  {
+   "title": "Back up your Claude Code sessions and use them on any machine",
+   "source": "Hacker News",
+   "url": "https://session-vault.dev/",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T13:43:14+00:00",
+   "field": "code",
+   "points": 30,
+   "image": "",
    "score": 0,
    "tier": "medium"
   },
@@ -102,7 +150,7 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T07:33:12+00:00",
    "field": "",
-   "points": 356,
+   "points": 358,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -125,7 +173,7 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T04:49:21+00:00",
    "field": "text",
-   "points": 110,
+   "points": 125,
    "image": "https://pbs.twimg.com/profile_images/1620194266533199874/rCtE0hYR_400x400.jpg",
    "score": 2,
    "tier": "medium"
@@ -137,7 +185,7 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T03:36:58+00:00",
    "field": "text",
-   "points": 509,
+   "points": 511,
    "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
    "score": 2,
    "tier": "medium"
@@ -160,7 +208,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T22:15:34+00:00",
    "field": "open-source",
-   "points": 235,
+   "points": 236,
    "image": "https://opengraph.githubassets.com/cd9b90a4bcbe7333e361ec43414b901e54aff23056d32b8711a8c22158866d33/alesha-pro/llm.asm",
    "score": 1,
    "tier": "medium"
@@ -172,7 +220,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T21:48:10+00:00",
    "field": "",
-   "points": 563,
+   "points": 566,
    "image": "https://opengraph.githubassets.com/ad307f6064a8d1a4515876a6d7930905bdcc0eea76945f3ece4405ef9c88fe33/lsernau/grh-lean",
    "score": 2,
    "tier": "medium"
@@ -206,7 +254,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T04:03:33+00:00",
    "field": "text",
-   "points": 223,
+   "points": 224,
    "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
    "score": 1,
    "tier": "medium"
@@ -218,7 +266,7 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T03:28:06+00:00",
    "field": "open-source",
-   "points": 136,
+   "points": 137,
    "image": "https://noahbuilt.it/og-lambda-layers.jpg",
    "score": 1,
    "tier": "medium"
@@ -301,7 +349,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T19:51:01+00:00",
    "field": "",
-   "points": 37,
+   "points": 38,
    "image": "",
    "score": 0,
    "tier": "medium"
@@ -325,7 +373,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T17:10:45+00:00",
    "field": "",
-   "points": 226,
+   "points": 228,
    "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
    "score": 1,
    "tier": "medium"
@@ -337,7 +385,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T16:45:44+00:00",
    "field": "",
-   "points": 475,
+   "points": 477,
    "image": "",
    "score": 2,
    "tier": "medium"
@@ -406,7 +454,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T12:40:15+00:00",
    "field": "text",
-   "points": 1032,
+   "points": 1033,
    "image": "https://michaelharley.net/assets/images/open-graph-image.png",
    "score": 3,
    "tier": "top"
@@ -429,7 +477,7 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T06:22:36+00:00",
    "field": "",
-   "points": 295,
+   "points": 298,
    "image": "",
    "score": 1,
    "tier": "medium"
@@ -1678,52 +1726,6 @@
    "field": "",
    "image": "",
    "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "A step toward defining the Standard Model on a lattice",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "date": "2026-11-15",
-   "ts": "2026-11-15T22:00:01+00:00",
-   "field": "",
-   "image": "",
-   "score": 3,
-   "tier": "top"
-  },
-  {
-   "title": "Our new blog for science",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "date": "2026-11-15",
-   "ts": "2026-11-15T22:00:00+00:00",
-   "field": "",
-   "image": "",
-   "score": 2,
-   "tier": "medium"
-  },
-  {
-   "title": "Understanding Positional Embeddings in Modern LLMs",
-   "source": "Hacker News",
-   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-   "date": "2026-11-15",
-   "ts": "2026-11-15T12:14:06+00:00",
-   "field": "",
-   "points": 246,
-   "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
-   "score": 1,
-   "tier": "medium"
-  },
-  {
-   "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-   "date": "2026-11-14",
-   "ts": "2026-11-14T17:51:13+00:00",
-   "field": "text",
-   "points": 51,
-   "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-2000-80.jpg",
-   "score": 0,
    "tier": "medium"
   }
  ]
